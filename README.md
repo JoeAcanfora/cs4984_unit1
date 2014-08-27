@@ -1,4 +1,4 @@
-Comp Ling - Fludds
+Comp Lang - Fludds
 =========
 
 Unit 1
