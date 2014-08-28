@@ -25,4 +25,4 @@ for txt in list_txt:
 	for item in items:
 		file_x.write(str(item[0]) + '\t\t' + str(item[1]) + '\n')
 
-
+    file_x.close()
