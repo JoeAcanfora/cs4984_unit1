@@ -3,6 +3,8 @@ import sys
 import glob
 import os
 
+# Usage: python U1_David.py directory_path  (Ex. /home/david/textfiles)
+
 dir_path = str(sys.argv[1])
 path = dir_path + "/*.txt"
 list_txt = glob.glob(path)
