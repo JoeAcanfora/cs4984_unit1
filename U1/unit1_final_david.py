@@ -13,18 +13,21 @@ list_txt = glob.glob(path)
 print path;
 
 all_toks = list()
-value = list()
 
 for txt in list_txt:
 	file_y = open(txt).read()
 	tokens = word_tokenize(file_y)
-	value = tokens;
 	all_toks = all_toks + tokens
 
 stopset = set(stopwords.words('english'))
 
-good_toks = [w for w in all_toks if not w in stopset]
-good_toks = [w for w in good_toks if not w.isdigit() and w.isalpha() and len(w) >= 3]
+new_toks = list()
+rxstem = stem.RegexpStemmer('er$|a$|as$|az$')
+
+#for tok in all_toks:
+	#new_toks.append(rxstem.stem(tok))
+
+good_toks = [w.lower() for w in all_toks if not w.lower() in stopset and not w.isdigit() and w.isalpha() and len(w) >= 4]
 text = Text(good_toks)
 print "\nCOLLOCATIONS\n"
 text.collocations()
@@ -53,13 +56,19 @@ for elem in count:
 	names.append(str(string))
 	counter.append(int(count))
 
-number_names = number_names[:15]
-names = names[:15]
-counter = counter[:15]
+number_names = number_names[:10]
+names = names[:10]
+counter = counter[:10]
 
 plt.bar(number_names, counter, align='center')
 plt.xticks(number_names, names)
 plt.show()
 
 fdist1 = FreqDist(text)
+array = fdist1.items()
+
+print("Top 20 Words")
+for word in array[:20]:
+    print("{word:<15} {count}".format(word=word[0],count=word[1]))
+
 fdist1.plot(50, cumulative=True)
