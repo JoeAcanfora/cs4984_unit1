@@ -5,7 +5,7 @@ import os
 from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
 
-# Usage: python U1_David.py directory_path (Ex: /Users/davidkeimig/Desktop/flood/China_Flood)
+# Usage: python unit1_final_david.py directory_path (Ex: /Users/davidkeimig/Desktop/flood/China_Flood)
 
 dir_path = str(sys.argv[1])
 path = dir_path + "/*.txt"
