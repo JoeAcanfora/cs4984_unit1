@@ -4,7 +4,12 @@ import nltk
 import os
 import sys
 
-""" Unit 1 """
+""" 
+Unit 1 
+------
+Usage: python unit1_marc.py textdirectory/
+"""
+
 
 dir = "../data"
 if len(sys.argv) > 1 and os.path.exists(sys.argv[1]):
