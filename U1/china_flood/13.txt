@@ -1,0 +1,733 @@
+
+
+Reading from Main Hydrometric Stations Across China on September 30
+
+
+
+
+
+
+
+
+Reading from Main Hydrometric Stations Across China on September 30
+
+
+River's Name
+
+Station
+
+Water Level (meter)
+
+Water Flow (cubic meter/second)
+
+Warning Line (meter) 
+
+
+Nengjiang River
+
+Dalai Hydrometric Station
+
+  123.44  
+
+  230 
+
+  128.10 
+
+
+Songhua River
+
+Harbin Hydrometric Station
+
+  112.65  
+
+  910 
+
+  118.10 
+
+
+Songhua River
+
+Jiamusi Hydrometric Station
+
+  74.11  
+
+  1,490 
+
+  79.00 
+
+
+Second Songhua River
+
+Fuyushui Hydrometric Station
+
+  94.27  
+
+  431 
+
+  98.09 
+
+
+Liaohe River
+
+Tieling Hydrometric Station
+
+  53.08  
+
+  57 
+
+  59.30 
+
+
+Yellow River
+
+Lanzhou Hydrometric Station
+
+  1,512.68  
+
+  1,030 
+
+  1,515.98 
+
+
+Weihe River
+
+Huaxian Hydrometric Station
+
+  338.81  
+
+  1,470 
+
+  340.80 
+
+
+Yellow River
+
+Huayuankou Hydrometric Station
+
+  91.58  
+
+  1,130 
+
+  94.00 
+
+
+Yellow River
+
+Luokou Hydrometric Station
+
+  28.85  
+
+  1,550 
+
+  31.40 
+
+
+Yellow River
+
+Lijin Hydrometric Station
+
+  12.16  
+
+  1,450 
+
+  14.24 
+
+
+Huaihe River
+
+Xixian Hydrometric Station
+
+  34.39  
+
+  188 
+
+  41.50 
+
+
+Huaihe River
+
+Wangjiaba Hydrometric Station 
+
+  24.42  
+
+  921 
+
+  27.50 
+
+
+Huaihe River
+
+Zhengyangguan Hydrometric Station 
+
+  20.66  
+
+  --- 
+
+  24.00 
+
+
+Huaihe River
+
+Bengbu Hydrometric Station
+
+  17.27  
+
+  2,900 
+
+  20.30 
+
+
+Honghe River
+
+Bantai Hydrometric Station
+
+  31.63  
+
+  700 
+
+  33.50 
+
+
+Hongze Lake
+
+Hongzehong Hydrometric Station
+
+  12.98  
+
+  --- 
+
+  13.50 
+
+
+Yihe River
+
+Linyi Hydrometric Station
+
+  59.37  
+
+  1,030 
+
+  64.00 
+
+
+Nanyang River
+
+Nanyang Hydrometric Station
+
+  34.97  
+
+  --- 
+
+  35.50 
+
+
+Yangtze River
+
+Cuntan Hydrometric Station
+
+  169.50  
+
+  20,800 
+
+  180.50 
+
+
+Yangtze River
+
+Yichang Hydrometric Station
+
+  46.32  
+
+  20,200 
+
+  53.00 
+
+
+Yangtze River
+
+Shashi Hydrometric Station
+
+  37.89  
+
+  17,000 
+
+  43.00 
+
+
+Yangtze River
+
+Luoshan Hydrometric Station
+
+  25.64  
+
+  20,900 
+
+  32.00 
+
+
+Yangtze River
+
+Hankou Hydrometric Station
+
+  21.06  
+
+  23,600 
+
+  27.30 
+
+
+Yangtze River
+
+Jiujiang Hydrometric Station
+
+  15.35  
+
+  24,400 
+
+  20.00 
+
+
+Yangtze River
+
+Datong Hydrometric Station
+
+  10.40  
+
+  34,100 
+
+  14.40 
+
+
+Minjiang River
+
+Gaochang Hydrometric Station
+
+  277.31  
+
+  3,260 
+
+  285.00 
+
+
+Qingyi River 
+
+Jiajiang Hydrometric Station
+
+  407.32  
+
+  229 
+
+  412.00 
+
+
+Tuojiang River
+
+Fushun Hydrometric Station
+
+  263.13  
+
+  395 
+
+  --- 
+
+
+Jialing River
+
+Beibei Hydrometric Station
+
+  183.62  
+
+  5,760 
+
+  197.00 
+
+
+Qujiang River
+
+Luoduxi Hydrometric Station
+
+  208.40  
+
+  2,540 
+
+  219.00 
+
+
+Fujiang River
+
+Xiaoheba Hydrometric Station
+
+  218.65  
+
+  649 
+
+  223.00 
+
+
+Wujiang River
+Sinan Hydrometric Station
+
+  356.06  
+
+  793 
+
+  366.00 
+
+
+Wujiang River
+
+Wulong Hydrometric Station
+
+  170.54  
+
+  695 
+
+  185.00 
+
+
+Juzhang River
+
+Herong Hydrometric Station
+
+  40.77  
+
+  31 
+
+  48.00 
+
+
+Dongting Lake
+
+Chenglingji Hydrometric Station
+
+  26.76  
+
+  5,450 
+
+  32.50 
+
+
+Yuanjiang River
+
+Taoyuan Hydrometric Station
+
+  32.12  
+
+  792 
+
+  42.50 
+
+
+Qingshui River
+
+Jinping Hydrometric Station
+
+  292.46  
+
+  99 
+
+  301.50 
+
+
+Lishui River 
+
+Shimen Hydrometric Station
+
+  50.01  
+
+  5.62 
+
+  58.50 
+
+
+Xiangjiang River
+
+Xiangtan Hydrometric Station
+
+  27.76  
+
+  482 
+
+  38.00 
+
+
+Zishui River
+
+Taojiang Hydrometric Station
+
+  34.08  
+
+  127 
+
+  40.00 
+
+
+Hanjiang River
+
+Shayang Hydrometric Station
+
+  37.55  
+
+  3,740 
+
+  41.80 
+
+
+Ganjiang River
+
+Waizhou Hydrometric Station
+
+  16.20  
+
+  1,040 
+
+  23.50 
+
+
+Fuhe River
+
+Lijiadu Hydrometric Station 
+
+  24.31  
+
+  41.9 
+
+  30.50 
+
+
+Xinjiang River
+
+Meigang Hydrometric Station
+
+  17.82  
+
+  75.5 
+
+  26.00 
+
+
+Changjiang River
+
+Dufengkeng Hydrometric Station
+
+  21.76  
+
+  11.5 
+
+  28.50 
+
+
+Le'an River
+
+Hushan Hydrometric Station
+
+  20.23  
+
+  25.7 
+
+  26.00 
+
+
+Laohe River
+
+Wanjiabu Hydrometric Station 
+
+  21.99  
+
+  52.4 
+
+  27.00 
+
+
+Hukou River
+
+Hukou Hydrometric Station
+
+  14.82  
+
+  8,270 
+
+  19.50 
+
+
+Taihu Lake
+
+Xishan Hydrometric Station
+
+  3.34  
+
+  --- 
+
+  3.60 
+
+
+Lanjiang River
+
+Lanxi Hydrometric Station
+
+  25.01  
+
+  346 
+
+  29.50 
+
+
+Futun River
+
+Yangkou Hydrometric Station
+
+  106.08  
+
+  178 
+
+  108.30 
+
+
+Jianxi River
+
+Qilijie Hydrometric Station
+
+  87.94  
+
+  182 
+
+  94.00 
+
+
+Minjiang River
+
+Zhuqi Hydrometric Station
+
+  .48  
+
+  --- 
+
+  9.80 
+
+
+Xunjiang River
+
+Jiangkou Hydrometric Station
+
+  20.75  
+
+  4,000 
+
+  29.00 
+
+
+Xijiang River
+
+Wuzhou Hydrometric Station
+
+  5.32  
+
+  3,930 
+
+  17.30 
+
+
+Xijiang River
+
+Gaoyao Hydrometric Station
+
+  .54  
+
+  5,420 
+
+  10.00 
+
+
+Xihai River
+
+Tianhe Hydrometric Station
+
+  .47  
+
+  --- 
+
+  3.80 
+
+
+Liujiang River
+
+Liuzhou Hydrometric Station
+
+  72.29  
+
+  355 
+
+  81.80 
+
+
+Guijiang River
+
+Guilin Hydrometric Station
+
+  141.26  
+
+  77.4 
+
+  145.00 
+
+
+Yujiang River
+
+Nanning Hydrometric Station
+
+  64.94  
+
+  2,560 
+
+  72.20 
+
+
+Beijiang River
+
+Shijiao Hydrometric Station
+
+  4.15  
+
+  808 
+
+  11.00 
+
+
+Dongjiang River
+
+Boluo Hydrometric Station
+
+  2.69  
+
+  628 
+
+  11.20 
+
+
+Lancang River
+
+Jiajiu Hydrometric Station
+
+  897.38  
+
+  2,330 
+
+  901.69 
+
+
+Lhasa River
+
+Lhasa Hydrometric Station
+
+  --- 
+
+  ---
+
+  5.25 
+
+
+
+Provided by the Bureau of Hydrology, Ministry of Water Resources 
+
+
+

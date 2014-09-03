@@ -1,0 +1,118 @@
+Archive Search Tips
+
+
+Archive Search Tips
+
+
+Here you can find useful examples and description about searching the
+news archive of EIN News. Read it carefully to get the best
+results. If you need more help, please contact us at our helpdesk.
+
+Quick Overview
+
+You can search fulltext articles from more than
+35,000 news sources and sections stored in a week-long archive.
+Searching is case insensitive. Words music
+and mUSIC return the same results.
+Some of the common words like the, is, etc. are
+not included in your search.
+
+Search Term Syntax
+
+
+
+Term
+Description
+
+
+OR
+
+Using OR operator gives you articles for every keyword
+in the search term.
+
+
+AND
+
+Using AND operator gives you only those articles that contain
+all keywords in the string.
+
+
+"  " (quotation marks)
+
+Using quotation marks you limit your search for exact
+phrases.
+
+
+* (asterisk sign)
+
+Using an asterisk sign gives you
+variations of root keyword. You cannot use it in
+phrases.
+
+
+(  ) (parenthesis)
+
+You can use parenthesis to adjust priority of your search phrase
+evaluation (as common math/boolean expressions).
+
+
+
+Examples
+
+
+
+Keywords (search phrase)
+Description
+
+
+music
+will search
+for any articles that contain word music
+
+
+music
+OR band OR song
+will search
+for articles containing any of the keywords
+
+
+nhl
+AND hockey
+will search
+for articles containing both words. (Note: AND
+can be omitted in this case)
+
+
+"white
+house" OR senate
+will search
+for articles containing the phrase white house or the word
+senate
+
+
+"west bank"
+AND arafat
+will search
+for articles containing both the phrase west bank and
+the word arafat
+
+
+bank*
+will search
+for articles containing bank, banks, banking,
+banker etc.Using * (asterisk sign) gives you variations of
+root keyword.
+
+
+student*
+AND ( protest* OR demonstrat* )
+will search
+for articles containing words student or
+students, etc. in combinations with protest,
+protests, demonstrate, demonstration,
+etc.
+
+
+
+Need more help? Contact us at our helpdesk.
+
