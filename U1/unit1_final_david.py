@@ -5,12 +5,14 @@ import os
 from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
 
-# Usage: python unit1_final_david.py directory_path (Ex: /Users/davidkeimig/Desktop/flood/China_Flood)
+# Usage: python U1_David.py directory_path (Ex: /Users/davidkeimig/Desktop/flood/China_Flood)
 
 dir_path = str(sys.argv[1])
 path = dir_path + "/*.txt"
 list_txt = glob.glob(path)
 print path;
+
+mit_stopwords = open("/Users/davidkeimig/Desktop/mit_stop.txt").read().split('\n')
 
 all_toks = list()
 
@@ -19,7 +21,7 @@ for txt in list_txt:
 	tokens = word_tokenize(file_y)
 	all_toks = all_toks + tokens
 
-stopset = set(stopwords.words('english'))
+stopset = set(stopwords.words('english') + mit_stopwords)
 
 new_toks = list()
 rxstem = stem.RegexpStemmer('er$|a$|as$|az$')
@@ -42,6 +44,24 @@ print count[:10]
 print "\nRANK VALUES\n"
 print scores[:10]
 print "\n"
+
+trigram_measures = collocations.TrigramAssocMeasures()
+finder_tri = TrigramCollocationFinder.from_words(good_toks)
+finder_tri.apply_freq_filter(3)
+count_tri = finder_tri.ngram_fd.items()
+
+print_values = count_tri[:10]
+
+print "\nTRI VALUES\n"
+print count_tri[:10]
+print "\n"
+
+for tri in print_values:
+	data = tri[0]
+	data_count = tri[1]
+	combo = ' '.join(data)
+	print "{0:<30} {1}".format(combo, data_count)
+
 
 names = []
 counter = []
