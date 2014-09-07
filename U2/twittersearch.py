@@ -1,8 +1,19 @@
 #!/usr/bin/python2
 
+"""
+Twitter Search
+author: marcato
+
+usage: twittersearch.py [search_query]
+
+Returns 100 tweets as used by the search query.
+These are are the raw tweets and are unprocessed.
+"""
+
 import json
 import urllib2
 import sys
+from urllib import urlencode
 from HTMLParser import HTMLParser
 from base64 import b64encode
 
@@ -21,8 +32,13 @@ dict = json.loads(response)
 access_token = dict['access_token']
 
 """ now we can use GET to search """
-params = "count=100&q=" + sys.argv[1]
-search_req = urllib2.Request("https://api.twitter.com/1.1/search/tweets.json?"+params)
+query = sys.argv[1]
+params = {}
+params["q"] = query
+params["count"] = 100
+
+search_req = urllib2.Request("https://api.twitter.com/1.1/search/tweets.json?"
+        + urlencode(params))
 search_req.add_header("Authorization", "Bearer " + access_token)
 response = json.loads(urllib2.urlopen(search_req).read())
 tweets = response['statuses']
