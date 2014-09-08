@@ -1,3 +1,5 @@
+from __future__ import division
+
 from nltk import *
 import sys
 import glob
@@ -6,6 +8,32 @@ from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
 
 # Usage: python U1_David.py directory_path (Ex: /Users/davidkeimig/Desktop/flood/China_Flood)
+
+def content_fraction(text):
+	mit_stopwords = open("/Users/davidkeimig/Desktop/mit_stop.txt").read().split('\n')
+	stopset = set(stopwords.words('english') + mit_stopwords)
+	content = [w for w in text if w.lower() not in stopset]
+	return len(content) / len(text)
+
+def calculate_range15(fdist):
+	total = 0;
+	small = 0;
+	freq_list = fdist.items()
+	for item in freq_list:
+		total = total + int(item[1])
+		if int(item[0]) <= 15 and int(item[0]) >= 1:
+			small = small + int(item[1])
+	return small / total
+
+def search_top20Flood(text):
+	flood_words = open("/Users/davidkeimig/Desktop/").read().split('\n')
+	flood_set = set(flood_words)
+	found = [w for w in text if w.lower() in flood_set]
+	fdist1 = FreqDist(found)
+	print "\nTOP 20 FLOOD WORDS FREQ"
+	for item in fdist1:
+		print("{word:<15} {count}".format(word=word[0],count=word[1]))
+
 
 dir_path = str(sys.argv[1])
 path = dir_path + "/*.txt"
@@ -28,7 +56,10 @@ rxstem = stem.RegexpStemmer('er$|a$|as$|az$')
 
 #for tok in all_toks:
 	#new_toks.append(rxstem.stem(tok))
-
+all_text = Text(all_toks)
+content = content_fraction(all_text)
+print "\nCONTENT FRACTION\n"
+print content
 good_toks = [w.lower() for w in all_toks if not w.lower() in stopset and not w.isdigit() and w.isalpha() and len(w) >= 4]
 text = Text(good_toks)
 print "\nCOLLOCATIONS\n"
@@ -85,10 +116,20 @@ plt.xticks(number_names, names)
 plt.show()
 
 fdist1 = FreqDist(text)
+
+lengths = FreqDist([len(w) for w in text])
+
+num_1_15 = calculate_range15(lengths)
+print "\nPERCENT OF WORDS 1-15\n"
+print num_1_15
+print "\n"
 array = fdist1.items()
+
+search_top20Flood(text)
 
 print("Top 20 Words")
 for word in array[:20]:
     print("{word:<15} {count}".format(word=word[0],count=word[1]))
 
 fdist1.plot(50, cumulative=True)
+
