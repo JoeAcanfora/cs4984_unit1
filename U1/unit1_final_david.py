@@ -26,13 +26,15 @@ def calculate_range15(fdist):
 	return small / total
 
 def search_top20Flood(text):
-	flood_words = open("/Users/davidkeimig/Desktop/").read().split('\n')
+	flood_words = open("/Users/davidkeimig/Desktop/yourwords.txt").read().split('\n')
 	flood_set = set(flood_words)
+	print flood_set
 	found = [w for w in text if w.lower() in flood_set]
+	print found
 	fdist1 = FreqDist(found)
 	print "\nTOP 20 FLOOD WORDS FREQ"
-	for item in fdist1:
-		print("{word:<15} {count}".format(word=word[0],count=word[1]))
+	for item in fdist1.items():
+		print("{word:<15} {count}".format(word=item[0],count=item[1]))
 
 
 dir_path = str(sys.argv[1])
@@ -127,7 +129,7 @@ array = fdist1.items()
 
 search_top20Flood(text)
 
-print("Top 20 Words")
+print("\nTop 20 Words")
 for word in array[:20]:
     print("{word:<15} {count}".format(word=word[0],count=word[1]))
 
