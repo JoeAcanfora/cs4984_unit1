@@ -146,7 +146,7 @@ num = calc_average_words(good_toks)
 print num
 
 print("\nAVERAGE NUMBER OF WORDS PER LINE\n")
-calc_average_words_lines(good_toks)
+#calc_average_words_lines(good_toks)
 
 fdist1.plot(50, cumulative=True)
 
