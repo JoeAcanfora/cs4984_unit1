@@ -14,7 +14,7 @@ path = dir_path + "/*.txt"
 list_txt = glob.glob(path)
 
 def content_fraction(text):
-	mit_stopwords = open("/Users/davidkeimig/Desktop/mit_stop.txt").read().split('\n')
+	mit_stopwords = open("../ref/english.stop").read().split('\n')
 	stopset = set(stopwords.words('english') + mit_stopwords)
 	content = [w for w in text if w.lower() not in stopset]
 	return len(content) / len(text)
@@ -30,7 +30,7 @@ def calculate_range15(fdist):
 	return small / total
 
 def search_top20Flood(text):
-	flood_words = open("/Users/davidkeimig/Desktop/yourwords.txt").read().split('\n')
+	flood_words = open("../ref/yourwords").read().split('\n')
 	flood_set = set(flood_words)
 	found = [w for w in text if w.lower() in flood_set]
 	fdist1 = FreqDist(found)
@@ -50,7 +50,7 @@ def calc_average_words_lines(toks):
 
 print path;
 
-mit_stopwords = open("/Users/davidkeimig/Desktop/mit_stop.txt").read().split('\n')
+mit_stopwords = open("../ref/english.stop").read().split('\n')
 
 all_toks = list()
 
