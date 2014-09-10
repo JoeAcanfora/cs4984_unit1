@@ -1,5 +1,5 @@
 from __future__ import division
-
+import nltk
 from nltk import *
 import sys
 import glob
@@ -8,6 +8,10 @@ from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
 
 # Usage: python U1_David.py directory_path (Ex: /Users/davidkeimig/Desktop/flood/China_Flood)
+
+dir_path = str(sys.argv[1])
+path = dir_path + "/*.txt"
+list_txt = glob.glob(path)
 
 def content_fraction(text):
 	mit_stopwords = open("/Users/davidkeimig/Desktop/mit_stop.txt").read().split('\n')
@@ -28,18 +32,22 @@ def calculate_range15(fdist):
 def search_top20Flood(text):
 	flood_words = open("/Users/davidkeimig/Desktop/yourwords.txt").read().split('\n')
 	flood_set = set(flood_words)
-	print flood_set
 	found = [w for w in text if w.lower() in flood_set]
-	print found
 	fdist1 = FreqDist(found)
 	print "\nTOP 20 FLOOD WORDS FREQ"
 	for item in fdist1.items():
 		print("{word:<15} {count}".format(word=item[0],count=item[1]))
+	return
 
+def calc_average_words(tokens):
+	return float(sum(map(len, tokens))) / len(tokens)
 
-dir_path = str(sys.argv[1])
-path = dir_path + "/*.txt"
-list_txt = glob.glob(path)
+def calc_average_words_lines(toks):
+	sent_tokenizer = nltk.data.load('nltk:tokenizers/punkt/english.pickle')
+	text = corpus.gutenberg.raw(path)
+	sents = sent.sent_tokenizer.tokenize(text)
+	print sents
+
 print path;
 
 mit_stopwords = open("/Users/davidkeimig/Desktop/mit_stop.txt").read().split('\n')
@@ -132,6 +140,13 @@ search_top20Flood(text)
 print("\nTop 20 Words")
 for word in array[:20]:
     print("{word:<15} {count}".format(word=word[0],count=word[1]))
+
+print("\nAVERAGE NUMBER OF LETTERS IN WORDS\n")
+num = calc_average_words(good_toks)
+print num
+
+print("\nAVERAGE NUMBER OF WORDS PER LINE\n")
+calc_average_words_lines(good_toks)
 
 fdist1.plot(50, cumulative=True)
 
