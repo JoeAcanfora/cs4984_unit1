@@ -47,7 +47,7 @@ h = HTMLParser()
 for tweet in tweets:
     text = tweet['text']
     decoded = h.unescape(text)
-    print decoded
+    print decoded.encode('utf-8')
 
         
 
