@@ -44,12 +44,12 @@ fdist_wl_ns = nltk.FreqDist(wl_nostop)
 print("FreqDist of wordlengths (w/ stopwords)")
 sorted_fdist = sorted(fdist_wl.items(), key=lambda freq: freq[1])[::-1]
 for wordlength in sorted_fdist:
-    print(wordlength)
+    print("{0}\t{1}".format(*wordlength))
 
 print("FreqDist of wordlengths (w/o stopwords)")
 sorted_fdist = sorted(fdist_wl_ns.items(), key=lambda freq: freq[1])[::-1]
 for wordlength in sorted_fdist:
-    print(wordlength)
+    print("{0}\t{1}".format(*wordlength))
 
 ## 7.4
 # percentage of each word in yourwords
@@ -59,16 +59,16 @@ yourwords = [w.lower().strip() for w in yourwords]
 percentages = []
 for word in yourwords:
     count = tokens_nostop.count(word)
-    percent = count // len(tokens_nostop)
+    percent = count / len(tokens_nostop) * 100
     percentages.append((word, count))
 
 # sort and print
 percentages = sorted(percentages, key=lambda word: word[1])[::-1]
-print "{0:>12} {1:^22} {2}".format("WORD", "%", "COUNT")
+print "{0:>12} {1:^6} {2}".format("WORD", "%", "COUNT")
 for item in percentages:
     word = item[0]
     count = item[1]
-    percent = count // len(tokens_nostop)
-    print "{0:>12} {1:.20f} {2}".format(word, percent, count)
+    percent = count / len(tokens_nostop) * 100
+    print "{0:>12} {1:.04f} {2}".format(word, percent, count)
 
 
