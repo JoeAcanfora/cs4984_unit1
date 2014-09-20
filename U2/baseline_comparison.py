@@ -9,6 +9,8 @@ import sys
 import glob
 import os
 
+from nltk.corpus import wordnet as wn
+
 from collections import Counter
 from tabulate import tabulate
 
@@ -49,6 +51,9 @@ all_toks_state_union = list()
 
 complete_toks = list()
 
+linux_words = open("../ref/words").read().split('\n')
+linux_set = set(linux_words)
+
 for cat in brown_cats:
 	words = brown.words(categories=cat)
 	tokens = [w.lower() for w in words]
@@ -66,6 +71,10 @@ for cat in state_union_cats:
 	tokens = [w.lower() for w in words]
 	all_toks_state_union = all_toks_state_union + tokens
 	complete_toks = complete_toks + tokens
+
+for word in linux_words:
+	complete_toks.append(word)
+
 
 #list_brown = list()
 #for word in all_toks_brown:
@@ -100,21 +109,28 @@ for freq in cnt_state_union.items():
 complete_txt = Text(complete_toks)
 flood_words = open("../ref/yourwords.txt").read().split('\n')
 flood_set = set(flood_words)
-found = [w for w in complete_txt if w.lower() in flood_set]
+
+syn_flood_set = list()
+
+for item in flood_set:
+	for synset in wn.synsets(str(item)):
+		for name in synset.lemma_names:
+			syn_flood_set.append(name)
+
+found = [w for w in complete_txt if w.lower() in syn_flood_set]
 fdist1 = FreqDist(found)
 
-
-found_ClassEvent = [w.lower() for w in wordlists.words() if w.lower() in flood_set]
+found_ClassEvent = [w.lower() for w in wordlists.words() if w.lower() in syn_flood_set]
 fdist2 = FreqDist(found_ClassEvent)
 
-found_china = [w.lower() for w in all_toks_china if w.lower() in flood_set]
+found_china = [w.lower() for w in all_toks_china if w.lower() in syn_flood_set]
 fdist3 = FreqDist(found_china)
 
 print('\n{label1:<15}  {label2}'.format(label1='YourWords', label2='Baseline Percent'))
 total_list = list()
 for item in fdist1.items():
 	percent_list = list()
-	percent = item[1] / len(complete_txt)
+	percent = (item[1] / len(complete_txt)) * 100
 	percent_list.append(item[0])
 	percent_list.append(percent)
 	total_list = total_list + percent_list
@@ -125,7 +141,7 @@ print('\n{label1:<15}  {label2}'.format(label1='YourWords', label2='ClassEvent P
 new_total = list()
 for item in fdist2.items():
 	percent_list = list()
-	percent = item[1] / len(complete_txt)
+	percent = (item[1] / len(complete_txt)) * 100
 	percent_list.append(item[0])
 	percent_list.append(percent)
 	new_total = new_total + percent_list
@@ -136,7 +152,7 @@ print('\n{label1:<15}  {label2}'.format(label1='YourWords', label2='YourSmall Pe
 new_total_2 = list()
 for item in fdist3.items():
 	percent_list = list()
-	percent = item[1] / len(complete_txt)
+	percent = (item[1] / len(complete_txt)) * 100
 	percent_list.append(item[0])
 	percent_list.append(percent)
 	new_total_2 = new_total_2 + percent_list
