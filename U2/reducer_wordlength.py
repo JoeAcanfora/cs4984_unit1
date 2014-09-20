@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 
 """ 
 Reducer
@@ -12,11 +12,11 @@ length = None
 
 for line in sys.stdin:
     line = line.strip()
-    length, count = line.split('\t', 1)
+    word, count = line.split('\t', 1)
 
     try:
         count = int(count)
-        length = int(length)
+        length = len(word)
     except ValueError:
         continue
 
@@ -24,9 +24,9 @@ for line in sys.stdin:
         current_count += count
     else:
         if current_length:
-            print("{0}\t{1}".format(current_length, current_count))
+            print("{0}\t{1}".format(word, current_count))
         current_count = count
         current_length = length
 
 if current_length == length:
-    print("{0}\t{1}".format(current_length, current_count))
+    print("{0}\t{1}".format(word, current_count))
