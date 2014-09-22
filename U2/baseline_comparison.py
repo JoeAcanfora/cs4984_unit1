@@ -84,6 +84,7 @@ for word in linux_words:
 cnt_brown = Counter()
 cnt_reuters = Counter()
 cnt_state_union = Counter()
+cnt_linux = Counter()
 
 for word in all_toks_brown:
 	cnt_brown[len(word)] += 1
@@ -93,6 +94,9 @@ for word in all_toks_reuters:
 
 for word in all_toks_state_union:
 	cnt_state_union[len(word)] += 1
+
+for word in linux_set:
+	cnt_linux[len(word)] += 1
 
 print "\nBrown Corpus Word Length\n"
 for freq in cnt_brown.items():
@@ -104,6 +108,10 @@ for freq in cnt_reuters.items():
 
 print "\nState of the Union Corpus Word Length\n"
 for freq in cnt_state_union.items():
+    print('Number of Characters {}:   Count {}'.format(freq[0], freq[1]))
+
+print "\nEnglish Corpus Word Length\n"
+for freq in cnt_linux.items():
     print('Number of Characters {}:   Count {}'.format(freq[0], freq[1]))
 
 complete_txt = Text(complete_toks)
