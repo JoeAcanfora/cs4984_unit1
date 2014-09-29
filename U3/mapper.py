@@ -9,22 +9,11 @@ print hash and filename
 """
 
 import sys
-import zipimport
 
+for line in sys.stdin:
+	line = line.strip()
+	value = hash(line)%9
+	print '%s\t%s' % (value, line)
 
-try:
-    importer = zipimport.zipimporter('nltk.mod')
-    nltk = importer.load_module("nltk")
-    nltk.data.path += ["./nltkData/"]
-except zipimport.ZipImportError:
-    import nltk
-
-sys.path.append("..")
-import TextUtils as tu
-
-from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
-from nltk.tokenize import sent_tokenize
-
-from cPickle import load
 
 
