@@ -50,7 +50,8 @@ for txt in list_txt:
 
 for sent in all_sent:
 	text = nltk.word_tokenize(sent)
-	results = nltk.pos_tag(text)
+	value = [word.lower() for word in text]
+	results = nltk.pos_tag(value)
 	print "SENT: "
 	print results
 	print "\n"
