@@ -6,9 +6,9 @@ combines them into a custom training set. Then it trains a bigram tagger
 based on the training set and saves it to disk as t2.pkl.
 
 uses these corpora:
-    brown
-    conll 2000 chunking data
-    treebank
+    brown http://www.comp.leeds.ac.uk/ccalas/tagsets/brown.html
+    conll 2000 chunking data 
+    treebank http://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
 
 unused:
     semcor
@@ -37,18 +37,13 @@ tagged_words = []
 tagged_sents = []
 for corpus in corpora:
     print("adding " + corpus.__name__)
-    #tagged_words += corpus.tagged_words()
     tagged_sents += corpus.tagged_sents()
 
-#print('Length of word training set:' +  str(len(tagged_words)))
 print('Length of sentence training set:' +  str(len(tagged_sents)))
 
 # train the taggers based off sentences
 print("Training tagger...")
-unigram_tagger = nltk.UnigramTagger(tagged_sents)
-bigram_tagger = nltk.BigramTagger(tagged_sents)
-
-t0 = nltk.DefaultTagger("NN")
+t0 = nltk.DefaultTagger("NN")    # default to noun
 t1 = nltk.UnigramTagger(tagged_sents, backoff=t0)
 t2 = nltk.BigramTagger(tagged_sents, backoff=t1)
 
