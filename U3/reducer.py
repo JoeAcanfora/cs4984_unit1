@@ -21,7 +21,6 @@ from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 from nltk.tokenize import sent_tokenize
 
 from cPickle import load
-for line in sys.stdin:
 
 # punkt sentence tokenizer setup
 punkt_param = PunktParameters()
@@ -33,37 +32,39 @@ input = open("t2.pkl", "rb")
 tagger = load(input)
 input.close()
 
-current_length = None
+current_word = None
 current_count = 0
 length = None
 
-# filen
-for line in sys.stdin:
-    line = line.decode('utf8').lower()
-    sents = sent_tokenize(line)
+words = dict()
 
+# treat each line as a filename
+for line in sys.stdin:
+    # read file and split into sentences
+    num, filename = line.split('\t')
+    file = open(filename.strip())
+    raw = file.read()
+    file.close()
+    raw = raw.decode('utf8').lower()
+    sents = sent_tokenize(raw)
+
+    # pos-tag each word in the sentence
     for sent in sents:
         text = nltk.word_tokenize(sent)
         text = tu.filter_non_alpha_words(text)
         tagged_sent = tagger.tag(text)
+
+        # then add it to our table of words and counts
         for tag in tagged_sent:
-            print("{0}\t{1}\t1".format(tag[0].encode('utf8'),tag[1]))
+            key = "{0}\{1}".format(tag[0].encode('utf8'),tag[1])
 
-    line = line.strip()
-    word, pos, count = line.split('\t')
+            #words[key] = words.setdefault(key, default=0) + 1
+            if key in words:
+                words[key] += 1
+            else:
+                words[key]  = 1
 
-    try:
-        count = int(count)
-    except ValueError:
-        continue
-
-    if current_word == word and current_pos == pos:
-        current_count += count
-    else:
-        if current_word:
-            print("{0}\t{1}\t{2}".format(word, pos, current_count))
-        current_count = count
-        current_word = word
-
-if current_word == word and current_pos == pos:
-    print("{0}\t{1}\t{2}".format(word, pos, current_count))
+from operator import itemgetter
+sorted_words = sorted(words.items(), key=itemgetter(1), reverse=True)
+for w in sorted_words:
+    print("{0}\t{1}".format(*w))
