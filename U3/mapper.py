@@ -16,5 +16,3 @@ for line in sys.stdin:
 	if os.path.exists(filename):
 		value = hash(filename)%9
 		print '%s\t%s' % (value, filename)
-#	else:
-#		print([f for f in os.listdir('.')])
