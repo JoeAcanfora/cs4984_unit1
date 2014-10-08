@@ -1,0 +1,17 @@
+1.txt	negative
+2.txt	positive
+6.txt	negative
+8.txt	positive
+12.txt	negative
+13.txt	positive
+17.txt	negative
+18.txt	positive
+19.txt	positive
+20.txt	negative
+21.txt	negative
+22.txt	positive
+23.txt	negative
+24.txt	positive
+25.txt	negative
+29.txt	negative
+30.txt	positive
