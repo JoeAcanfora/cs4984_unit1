@@ -26,7 +26,7 @@ from nltk.corpus import stopwords
 import pickle
 import re
 
-f = open('DecisionTreeClassifier.pickle', 'wb')
+f = open('MaxentClassifier.pickle', 'wb')
 
 all_train = list()
 
@@ -72,7 +72,6 @@ filt_set = [name[0] for name in fdist2.most_common(200)]
 flood_words = open("../ref/yourwords.txt").read().split('\n')
 flood_set = set(flood_words)
 filt_set = [word for word in filt_set if not word.lower() in flood_set]
-print filt_set
 
 for line in file_list:
 	file_name, classify = line.split('\t')
@@ -96,11 +95,13 @@ for line in file_list:
 
 featuresets = [(gender_features(n), gender) for (n, gender) in all_train]
 
+print len(featuresets)
+
 print "starting training..."
 
-maxEnt = DecisionTreeClassifier.train(featuresets)
+#maxEnt = DecisionTreeClassifier.train(featuresets[:8988])
 #maxEnt = NaiveBayesClassifier.train(featuresets)
-#maxEnt = MaxentClassifier.train(featuresets)
+maxEnt = MaxentClassifier.train(featuresets)
 
 #f = open('maxEnt.pickle')
 #maxEnt = pickle.load(f)
@@ -138,6 +139,9 @@ print "finished training"
 sort_nicely(output_list)
 for value in output_list:
 	print value
+
+
+print 'Accuracy: %4.2f' % nltk.classify.accuracy(maxEnt, featuresets[8988:])
 
 #maxEnt.show_most_informative_features(20)
 
