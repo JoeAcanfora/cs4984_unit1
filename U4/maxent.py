@@ -29,7 +29,7 @@ import re
 import nltk.classify
 from sklearn.svm import LinearSVC
 
-f = open('MaxentClassifier.pickle', 'wb')
+f = open('NaiveBayesClassifier.pickle', 'wb')
 
 all_train = list()
 
@@ -117,12 +117,12 @@ print len(featuresets)
 
 print "starting training..."
 
-#maxEnt = DecisionTreeClassifier.train(featuresets[:5577])
-#maxEnt = NaiveBayesClassifier.train(featuresets[:5577])
-#maxEnt = MaxentClassifier.train(featuresets[:5577])
-maxEnt = MaxentClassifier.train(featuresets[:160])
+#maxEnt = DecisionTreeClassifier.train(featuresets[:160])
+maxEnt = NaiveBayesClassifier.train(featuresets[:160])
+#maxEnt = MaxentClassifier.train(featuresets[:160])
+#maxEnt = MaxentClassifier.train(featuresets[:160])
 #maxEnt = nltk.classify.SklearnClassifier(LinearSVC())
-#maxEnt.train(featuresets[:5577])
+#maxEnt.train(featuresets[:160])
 
 
 #f = open('DecisionTreeClassifier.pickle')
