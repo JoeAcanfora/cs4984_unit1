@@ -29,7 +29,7 @@ import re
 import nltk.classify
 from sklearn.svm import LinearSVC
 
-#f = open('MaxentClassifier.pickle', 'wb')
+f = open('DecisionTreeClassifier.pickle', 'wb')
 
 all_train = list()
 
@@ -102,15 +102,15 @@ print len(featuresets)
 
 print "starting training..."
 
-#maxEnt = DecisionTreeClassifier.train(featuresets[:8988])
+maxEnt = DecisionTreeClassifier.train(featuresets[:8988])
 #maxEnt = NaiveBayesClassifier.train(featuresets)
 #maxEnt = MaxentClassifier.train(featuresets)
 #maxEnt = nltk.classify.SklearnClassifier(LinearSVC())
 #maxEnt.train(featuresets)
 
 
-f = open('DecisionTreeClassifier.pickle')
-maxEnt = pickle.load(f)
+#f = open('DecisionTreeClassifier.pickle')
+#maxEnt = pickle.load(f)
 
 dir_path = '/Users/davidkeimig/Desktop/flood/China_Flood'
 path = dir_path + "/*.txt"
@@ -151,7 +151,7 @@ print 'Accuracy: %4.2f' % nltk.classify.accuracy(maxEnt, featuresets[8988:])
 
 #maxEnt.show_most_informative_features(20)
 
-#pickle.dump(maxEnt, f)
+pickle.dump(maxEnt, f)
 f.close()
 
 
