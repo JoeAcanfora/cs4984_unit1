@@ -56,7 +56,7 @@ stopset = set(stopwords.words('english') + mit_stopwords)
 
 all_train = []
 
-file_list = open('../ref/trainset.txt').readlines()
+file_list = open('../ref/trainset_small.txt').readlines()
 
 dir_path = '/Users/davidkeimig/Desktop/flood/China_Flood'
 path = dir_path + "/*.txt"
@@ -71,7 +71,7 @@ for txt in list_txt:
 good_toks = [w.lower() for w in all_toks_china if not w.lower() in stopset and not w.isdigit() and w.isalpha() and len(w) >= 2]
 
 fdist2 = FreqDist(good_toks)
-filt_set = [name[0] for name in fdist2.most_common(200)]
+filt_set = [name[0] for name in fdist2.most_common(50)]
 flood_words = open("../ref/yourwords.txt").read().split('\n')
 flood_set = set(flood_words)
 filt_set = [word for word in filt_set if not word.lower() in flood_set]
@@ -102,11 +102,11 @@ print len(featuresets)
 
 print "starting training..."
 
-#maxEnt = DecisionTreeClassifier.train(featuresets[:8988])
-maxEnt = NaiveBayesClassifier.train(featuresets)
-#maxEnt = MaxentClassifier.train(featuresets)
+#maxEnt = DecisionTreeClassifier.train(featuresets[:5577])
+maxEnt = NaiveBayesClassifier.train(featuresets[:5577])
+#maxEnt = MaxentClassifier.train(featuresets[:5577])
 #maxEnt = nltk.classify.SklearnClassifier(LinearSVC())
-#maxEnt.train(featuresets)
+#maxEnt.train(featuresets[:5577])
 
 
 #f = open('DecisionTreeClassifier.pickle')
@@ -147,7 +147,7 @@ for value in output_list:
 	print value
 
 
-print 'Accuracy: %4.2f' % nltk.classify.accuracy(maxEnt, featuresets[8988:])
+print 'Accuracy: %4.2f' % nltk.classify.accuracy(maxEnt, featuresets[5577:])
 
 #maxEnt.show_most_informative_features(20)
 
