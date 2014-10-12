@@ -76,6 +76,10 @@ flood_words = open("../ref/yourwords.txt").read().split('\n')
 flood_set = set(flood_words)
 filt_set = [word for word in filt_set if not word.lower() in flood_set]
 
+for x in filt_set:
+	print x
+
+featuresets = []
 for line in file_list:
 	file_name, classify = line.split('\t')
 
@@ -86,8 +90,6 @@ for line in file_list:
 
 	found = [w.lower() for w in words if not w.lower() in stopset and not w.isdigit() and w.isalpha() and not w.lower() in filt_set]
 	fdist1 = FreqDist(found)
-
-	#print fdist1.most_common(40)
 
 	if (classify == 'positive\n'):
 		all_train = all_train + [(name[0], 'pos') for name in fdist1.most_common(40)]
@@ -124,7 +126,6 @@ test = [w[0].lower() for w in all_train]
 for txt in list_txt:
 	file_y = open(txt).read()
 	tokens = word_tokenize(file_y)
-
 	pos = 0
 	neg = 0
 	found = [w for w in tokens if w.lower() in test]
