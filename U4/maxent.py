@@ -29,7 +29,7 @@ import re
 import nltk.classify
 from sklearn.svm import LinearSVC
 
-f = open('NaiveBayesClassifier.pickle', 'wb')
+f = open('MaxentClassifier.pickle', 'wb')
 
 all_train = list()
 
