@@ -91,6 +91,8 @@ for line in file_list:
 	found = [w.lower() for w in words if not w.lower() in stopset and not w.isdigit() and w.isalpha() and not w.lower() in filt_set]
 	fdist1 = FreqDist(found)
 
+	#print fdist1.most_common(40)
+
 	if (classify == 'positive\n'):
 		all_train = all_train + [(name[0], 'pos') for name in fdist1.most_common(40)]
 	else:
@@ -98,15 +100,27 @@ for line in file_list:
 
 	print "Completed tagging " + file_name
 
-featuresets = [(gender_features(n), gender) for (n, gender) in all_train]
+#featuresets = [(gender_features(n), gender) for (n, gender) in all_train]
+
+	common_list = [name for name in fdist1.most_common(40)]
+
+	features = {}
+	for word in fdist1.most_common(40):
+		features[word[0]] = word[1]
+
+	if (classify == 'positive\n'):
+		featuresets.append((features, 'pos'))
+	else:
+		featuresets.append( (features, 'neg') )
 
 print len(featuresets)
 
 print "starting training..."
 
 #maxEnt = DecisionTreeClassifier.train(featuresets[:5577])
-maxEnt = NaiveBayesClassifier.train(featuresets[:5577])
+#maxEnt = NaiveBayesClassifier.train(featuresets[:5577])
 #maxEnt = MaxentClassifier.train(featuresets[:5577])
+maxEnt = MaxentClassifier.train(featuresets[:160])
 #maxEnt = nltk.classify.SklearnClassifier(LinearSVC())
 #maxEnt.train(featuresets[:5577])
 
@@ -126,18 +140,29 @@ test = [w[0].lower() for w in all_train]
 for txt in list_txt:
 	file_y = open(txt).read()
 	tokens = word_tokenize(file_y)
-	pos = 0
-	neg = 0
-	found = [w for w in tokens if w.lower() in test]
-	for test_word in found:
-		out = maxEnt.classify({'word': test_word.lower()})
-		if (out == 'pos'):
-			pos = pos + 1
-		else:
- 			neg = neg + 1
+
+	found = [w.lower() for w in tokens if not w.lower() in stopset and not w.isdigit() and w.isalpha() and not w.lower() in filt_set]
+
+	fdist1 = FreqDist(found)
+
+	features = {}
+	for word in fdist1.most_common(40):
+		features[word[0]] = word[1]
+
+	value = maxEnt.classify(features)
+
+	# pos = 0
+	# neg = 0
+	# found = [w for w in tokens if w.lower() in test]
+	# # for test_word in found:
+	# # 	out = maxEnt.classify({'word': test_word.lower()})
+	# # 	if (out == 'pos'):
+	# # 		pos = pos + 1
+	# # 	else:
+ # # 			neg = neg + 1
 
 	get_file = txt.split('/')
-	if (pos > neg):
+	if (value == 'pos'):
 		output_list.append(get_file[6] + "\tpositive")
 	else:
 		output_list.append(get_file[6] + "\tnegative")
@@ -148,7 +173,9 @@ for value in output_list:
 	print value
 
 
-print 'Accuracy: %4.2f' % nltk.classify.accuracy(maxEnt, featuresets[5577:])
+#print 'Accuracy: %4.2f' % nltk.classify.accuracy(maxEnt, featuresets[5577:])
+print 'Accuracy: %4.2f' % nltk.classify.accuracy(maxEnt, featuresets[160:])
+
 
 #maxEnt.show_most_informative_features(20)
 
