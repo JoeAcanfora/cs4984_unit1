@@ -1,0 +1,100 @@
+// RELEVANT.TXT
+YourBig/china_flood/37.txt	positive	negative
+YourBig/china_flood/390.txt	positive	
+YourBig/china_flood/294.txt	positive	
+YourBig/china_flood/368.txt	positive	negative
+YourBig/china_flood/290.txt	positive	
+YourBig/china_flood/425.txt	positive	
+YourBig/china_flood/23.txt	positive	negative
+YourBig/china_flood/308.txt	positive	
+YourBig/china_flood/318.txt	positive	
+YourBig/china_flood/345.txt	positive	
+YourBig/china_flood/231.txt	positive	
+YourBig/china_flood/257.txt	positive	
+YourBig/china_flood/272.txt	positive	
+YourBig/china_flood/74.txt	positive	
+YourBig/china_flood/123.txt	positive	negative
+YourBig/china_flood/309.txt	positive	
+YourBig/china_flood/182.txt	positive	
+YourBig/china_flood/226.txt	positive	
+YourBig/china_flood/6.txt	positive	
+YourBig/china_flood/225.txt	positive	
+YourBig/china_flood/360.txt	positive	
+YourBig/china_flood/30.txt	positive	
+YourBig/china_flood/238.txt	positive	
+YourBig/china_flood/301.txt	positive	
+YourBig/china_flood/265.txt	positive	
+YourBig/china_flood/338.txt	positive	
+YourBig/china_flood/319.txt	positive	
+YourBig/china_flood/371.txt	positive	
+YourBig/china_flood/232.txt	positive	
+YourBig/china_flood/407.txt	positive	negative
+YourBig/china_flood/22.txt	positive	
+YourBig/china_flood/354.txt	positive	
+YourBig/china_flood/221.txt	positive	
+YourBig/china_flood/281.txt	positive	
+YourBig/china_flood/470.txt	positive	negative
+YourBig/china_flood/280.txt	positive	
+YourBig/china_flood/250.txt	positive	
+YourBig/china_flood/285.txt	positive	negative
+YourBig/china_flood/277.txt	positive	
+YourBig/china_flood/379.txt	positive	negative
+YourBig/china_flood/13.txt	positive	
+YourBig/china_flood/427.txt	positive	
+YourBig/china_flood/227.txt	positive	
+YourBig/china_flood/258.txt	positive	
+YourBig/china_flood/269.txt	positive	
+YourBig/china_flood/233.txt	positive	
+YourBig/china_flood/532.txt	positive	negative
+YourBig/china_flood/242.txt	positive	negative
+YourBig/china_flood/235.txt	positive	
+YourBig/china_flood/311.txt	positive	
+
+
+// NOISE.TXT
+YourBig/china_flood/156.txt	negative	
+YourBig/china_flood/476.txt	negative	
+YourBig/china_flood/448.txt	negative	
+YourBig/china_flood/25.txt	negative	
+YourBig/china_flood/91.txt	negative	
+YourBig/china_flood/477.txt	negative	
+YourBig/china_flood/489.txt	negative	
+YourBig/china_flood/15.txt	negative	
+YourBig/china_flood/196.txt	negative	
+YourBig/china_flood/314.txt	negative	
+YourBig/china_flood/374.txt	negative	
+YourBig/china_flood/153.txt	negative	
+YourBig/china_flood/53.txt	negative	
+YourBig/china_flood/207.txt	negative	
+YourBig/china_flood/157.txt	negative	
+YourBig/china_flood/328.txt	negative	
+YourBig/china_flood/229.txt	negative	
+YourBig/china_flood/409.txt	negative	
+YourBig/china_flood/98.txt	negative	
+YourBig/china_flood/472.txt	negative	
+YourBig/china_flood/75.txt	negative	
+YourBig/china_flood/278.txt	negative	
+YourBig/china_flood/455.txt	negative	
+YourBig/china_flood/401.txt	negative	
+YourBig/china_flood/350.txt	negative	
+YourBig/china_flood/367.txt	negative	
+YourBig/china_flood/190.txt	negative	
+YourBig/china_flood/355.txt	negative	
+YourBig/china_flood/315.txt	negative	
+YourBig/china_flood/428.txt	negative	
+YourBig/china_flood/438.txt	negative	
+YourBig/china_flood/527.txt	negative	
+YourBig/china_flood/133.txt	negative	
+YourBig/china_flood/137.txt	negative	
+YourBig/china_flood/436.txt	negative	
+YourBig/china_flood/447.txt	negative	
+YourBig/china_flood/344.txt	negative	
+YourBig/china_flood/40.txt	negative	
+YourBig/china_flood/54.txt	negative	
+YourBig/china_flood/340.txt	negative	
+YourBig/china_flood/34.txt	negative	
+YourBig/china_flood/64.txt	negative	
+YourBig/china_flood/87.txt	negative	
+YourBig/china_flood/352.txt	negative	
+YourBig/china_flood/469.txt	negative	
+YourBig/china_flood/406.txt	negative	
