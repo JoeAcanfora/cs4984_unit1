@@ -1,0 +1,25 @@
+YourBig/pakistan_flood/8195.txt	negative positive
+YourBig/pakistan_flood/16585.txt	negative 
+YourBig/pakistan_flood/15755.txt	negative
+YourBig/pakistan_flood/14757.txt	negative
+YourBig/pakistan_flood/16578.txt	negative
+YourBig/pakistan_flood/478.txt	negative
+YourBig/pakistan_flood/306.txt	negative
+YourBig/pakistan_flood/14951.txt	negative positive
+YourBig/pakistan_flood/18504.txt	negative 
+YourBig/pakistan_flood/18675.txt	negative positive
+YourBig/pakistan_flood/5318.txt	negative
+YourBig/pakistan_flood/4207.txt	negative
+YourBig/pakistan_flood/11189.txt	negative positive
+YourBig/pakistan_flood/7590.txt	negative
+YourBig/pakistan_flood/13350.txt	negative
+YourBig/pakistan_flood/16697.txt	negative
+YourBig/pakistan_flood/8462.txt	negative
+YourBig/pakistan_flood/6900.txt	negative
+YourBig/pakistan_flood/5879.txt	negative
+YourBig/pakistan_flood/8374.txt	negative
+YourBig/pakistan_flood/12338.txt	negative
+YourBig/pakistan_flood/7573.txt	negative positive
+YourBig/pakistan_flood/3971.txt	negative positive
+YourBig/pakistan_flood/8821.txt	negative positive
+YourBig/pakistan_flood/17241.txt	negative
