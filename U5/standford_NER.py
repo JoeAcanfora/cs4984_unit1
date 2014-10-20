@@ -18,7 +18,7 @@ from nltk.corpus import stopwords
 
 from nltk.tag.stanford import NERTagger 
 
-dir_path = '/Users/davidkeimig/Desktop/flood/China_Flood'
+dir_path = sys.argv[1]
 path = dir_path + "/*.txt"
 list_txt = glob.glob(path)
 all_toks_class = list()
@@ -27,14 +27,15 @@ mit_stopwords = open("../ref/english.stop").read().split('\n')
 
 stopset = set(stopwords.words('english') + mit_stopwords)
 for txt in list_txt:
-	file_y = open(txt).read()
+	file_y = open(txt).read().decode('utf8')
 	tokens = word_tokenize(file_y)
 	for value in tokens:
 		all_toks_class.append(value)
 
-good_toks = [w.lower() for w in all_toks_class if not w.lower() in stopset and not w.isdigit() and w.isalpha() and len(w) >= 4 and len(w) < 125]
+good_toks = [w.lower().encode('utf8') for w in all_toks_class if not w.lower() in stopset and not w.isdigit() and w.isalpha() and len(w) >= 4 and len(w) < 125]
 
 st = NERTagger('./stanford-ner/english.all.3class.distsim.crf.ser.gz','./stanford-ner/stanford-ner.jar')
 tagged_words = st.tag(good_toks)
-print tagged_words
+for tw in tagged_words:
+    print "\t".join(tw)
 
