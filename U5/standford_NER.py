@@ -11,17 +11,8 @@ import os
 
 from nltk.corpus import wordnet as wn
 
-from collections import Counter
-from tabulate import tabulate
+import sys
 
-import time
-import numpy as np
-import matplotlib.pyplot as plt
-
-import dateutil
-import pyparsing
-import numpy
-import six
 from nltk.corpus import PlaintextCorpusReader
 from nltk.corpus import stopwords
 
