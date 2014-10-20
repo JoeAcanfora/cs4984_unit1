@@ -32,7 +32,7 @@ for txt in list_txt:
 	for value in tokens:
 		all_toks_class.append(value)
 
-good_toks = [w.lower().encode('utf8') for w in all_toks_class if not w.lower() in stopset and not w.isdigit() and w.isalpha() and len(w) >= 4 and len(w) < 125]
+good_toks = [w.lower().encode('ascii', 'replace') for w in all_toks_class if not w.lower() in stopset and not w.isdigit() and w.isalpha() and len(w) >= 4 and len(w) < 125]
 
 st = NERTagger('./stanford-ner/english.all.3class.distsim.crf.ser.gz','./stanford-ner/stanford-ner.jar')
 tagged_words = st.tag(good_toks)
