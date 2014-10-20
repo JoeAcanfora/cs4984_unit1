@@ -11,17 +11,8 @@ import os
 
 from nltk.corpus import wordnet as wn
 
-from collections import Counter
-from tabulate import tabulate
+import sys
 
-import time
-import numpy as np
-import matplotlib.pyplot as plt
-
-import dateutil
-import pyparsing
-import numpy
-import six
 from nltk.corpus import PlaintextCorpusReader
 from nltk.corpus import stopwords
 
@@ -30,7 +21,7 @@ from nltk.tag.stanford import NERTagger
 from nltk import chunk
 from nltk import tag
 
-dir_path = '/Users/davidkeimig/Desktop/flood/China_Flood'
+dir_path = sys.argv[1]
 path = dir_path + "/*.txt"
 list_txt = glob.glob(path)
 all_toks_class = list()
@@ -40,7 +31,7 @@ mit_stopwords = open("../ref/english.stop").read().split('\n')
 
 stopset = set(stopwords.words('english') + mit_stopwords)
 for txt in list_txt:
-	file_y = open(txt).read()
+	file_y = open(txt).read().decode('utf8')
 	tokens = word_tokenize(file_y)
 	for value in tokens:
 		all_toks_class.append(value)
@@ -69,4 +60,5 @@ print "STANDFORD WORDS:"
 for word in tagged_words:
 	if (word[1] != 'O'):
 		print word
+
 
