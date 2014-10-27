@@ -57,8 +57,8 @@ Premium Services
 
 
 
-°F
-°C
+F
+C
 
 
 
@@ -328,7 +328,7 @@ news Home >
 
 
 
-AccuWeather.com Extras…
+AccuWeather.com Extras
 
 
 
@@ -376,7 +376,7 @@ past 24 hours
 
 
 
- 
+
 Extreme
 Location
 
@@ -384,12 +384,12 @@ Location
 
 
 High
-104°
+104
 Imperial, CA
 
 
 Low
-23°
+23
 Kremmling, CO
 
 
@@ -443,7 +443,7 @@ Anderson, SC
 
 
 
-WeatherWhys®
+WeatherWhys
 
 
 
@@ -650,7 +650,7 @@ The ultimate toolfor business andenthusiasts!
 
 AccuWeather.comProfessional
 
-Forecast models, expert analysis           
+Forecast models, expert analysis 
 
 
 
@@ -700,7 +700,7 @@ More weather theway you want it.No advertising!
 
 
 
-AccuWeather.comQuick™
+AccuWeather.comQuick
 
 Your weather madeeasy and fun withno ads or clutter
 
@@ -762,7 +762,7 @@ Career Opportunities
 Shop
 Contact Us
 
- © 2011 AccuWeather, Inc. All Rights Reserved.
+  2011 AccuWeather, Inc. All Rights Reserved.
     AccuWeather.com is a registered trademark of AccuWeather, Inc.
 Terms of usage under which this service is provided
 Privacy Statement |  Ad Choices
@@ -827,7 +827,7 @@ Hunting
 Fishing
 
 
- Home & Garden Forecasts  >
+ Home & Garden Forecasts>
 
 Snow Days
 Construction

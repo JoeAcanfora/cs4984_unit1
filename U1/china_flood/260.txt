@@ -89,7 +89,7 @@ Subscribe and save 71
 %
 
 
- 
+
 
 
 
@@ -138,7 +138,7 @@ China expects heavy rain in the coming days. China flooding and mudslides have a
 	
 				
 				
-	Tom A. Peter, Correspondent /
+	Tom A. Peter,Correspondent /
 						August 11, 2010
 		
 
@@ -179,7 +179,7 @@ Tweet
 
 
 
-• A daily summary of global reports on security issues.
+ A daily summary of global reports on security issues.
 Skip to next paragraph
 
 Recent posts
@@ -233,7 +233,7 @@ Health and Fitness
 
 
 
-Rescuers in China are bracing for potentially more flooding just 72 hours after the country’s worst mudslide in decades killed more than 700 people in the northwest Gansu province. Forecasts indicate that more heavy rain is likely.Military and rescue workers are trying to clear debris that is clogging the Bailong River and could create temporary dams which could then burst and send more water and mud rushing into the already devastated region.More than 1,000 people are still unaccounted for and their prospects look grim. Unlike earthquakes where buildings may collapse but leave space for survivors, mudslides envelope an area leaving little hope for those buried beneath it, reports the BBC’s Michael Bristow. There are also few roads leading into the mountainous region, so it is difficult for rescue workers and supplies to reach the affected area.With hope fading for finding survivors, authorities are trying to stop potential health crises that could result from the flood damage. Reuters reports that more than 10,000 troops have been sent to the area:Authorities have warned that heavy rain expected in Zhouqu and other areas over coming days could bring the risk of more floods and land slips, including in adjacent Sichuan province.Some 45,000 people have been evacuated from Zhouqu and officials warned others to leave or stay away."We are expecting very heavy rain for later today, please don't spend too long in town," said a policeman at a checkpoint on the outskirts of the town, who declined to give his name.Almost all of the area’s drinking water has been contaminated and tens of thousands of people are without clean water and food, reports the Sydney Morning Herald. The area is also now largely without a sewage system and toilets. Epidemiologists are concerned that water-borne diseases may be spreading.“If we cannot guarantee safe drinking water and a healthy living environment, it is highly risky for infectious disease to occur,” Yang Jian, a senior official with the Chinese Center for Disease Control and Prevention, said in an article in China Daily.China’s government has allocated $73 million in emergency relief funds for the troubled region, reports state-run Xinhua. The government says it has a three-part plan to help victims. First, the government will help find or provide temporary shelters for the those dislocated by the mudslide; next it will help resettle them with relatives or in rented apartments; finally it will reconstruct destroyed homes. Government officials say they hope to repair damaged houses by this November and to finish rebuilding houses that were completely destroyed by June 2011 at the latest.Though most residents of the flooded region are still coping with the immediate aftermath of the disaster, there is already some anger with the government. Although the flooding and mudslides were sparked by heavy rains on Saturday and made worse by loosened rocks from the Sichuan earthquake in 2008, some Chinese people say the government could have avoided the tragedy. The Guardian reports that “deforestation and rapid hydro development were increasing the risk of landslips in the area.” Despite government reports warning about this potential catastrophe, the British newspaper says that Chinese authorities did not take preemptive action:"This has happened before. The government knew it could happen again and did nothing to prevent it," said a farmer called Yang, who did not want to give his full name. Five of his relatives were buried in the mudslide and he was digging to find them.For now, questions of government responsibility have been pushed aside as survivors look for their relatives among the rubble. The People’s Daily Online reports that despite the challenges facing rescue workers, following the flood the government acted swiftly to avert any additional loss of life.
+Rescuers in China are bracing for potentially more flooding just 72 hours after the countrys worst mudslide in decades killed more than 700 people in the northwest Gansu province. Forecasts indicate that more heavy rain is likely.Military and rescue workers are trying to clear debris that is clogging the Bailong River and could create temporary dams which could then burst and send more water and mud rushing into the already devastated region.More than 1,000 people are still unaccounted for and their prospects look grim. Unlike earthquakes where buildings may collapse but leave space for survivors, mudslides envelope an area leaving little hope for those buried beneath it, reports the BBCs Michael Bristow. There are also few roads leading into the mountainous region, so it is difficult for rescue workers and supplies to reach the affected area.With hope fading for finding survivors, authorities are trying to stop potential health crises that could result from the flood damage. Reuters reports that more than 10,000 troops have been sent to the area:Authorities have warned that heavy rain expected in Zhouqu and other areas over coming days could bring the risk of more floods and land slips, including in adjacent Sichuan province.Some 45,000 people have been evacuated from Zhouqu and officials warned others to leave or stay away."We are expecting very heavy rain for later today, please don't spend too long in town," said a policeman at a checkpoint on the outskirts of the town, who declined to give his name.Almost all of the areas drinking water has been contaminated and tens of thousands of people are without clean water and food, reports the Sydney Morning Herald. The area is also now largely without a sewage system and toilets. Epidemiologists are concerned that water-borne diseases may be spreading.If we cannot guarantee safe drinking water and a healthy living environment, it is highly risky for infectious disease to occur, Yang Jian, a senior official with the Chinese Center for Disease Control and Prevention, said in an article in China Daily.Chinas government has allocated $73 million in emergency relief funds for the troubled region, reports state-run Xinhua. The government says it has a three-part plan to help victims. First, the government will help find or provide temporary shelters for the those dislocated by the mudslide; next it will help resettle them with relatives or in rented apartments; finally it will reconstruct destroyed homes. Government officials say they hope to repair damaged houses by this November and to finish rebuilding houses that were completely destroyed by June 2011 at the latest.Though most residents of the flooded region are still coping with the immediate aftermath of the disaster, there is already some anger with the government. Although the flooding and mudslides were sparked by heavy rains on Saturday and made worse by loosened rocks from the Sichuan earthquake in 2008, some Chinese people say the government could have avoided the tragedy. The Guardian reports that deforestation and rapid hydro development were increasing the risk of landslips in the area. Despite government reports warning about this potential catastrophe, the British newspaper says that Chinese authorities did not take preemptive action:"This has happened before. The government knew it could happen again and did nothing to prevent it," said a farmer called Yang, who did not want to give his full name. Five of his relatives were buried in the mudslide and he was digging to find them.For now, questions of government responsibility have been pushed aside as survivors look for their relatives among the rubble. The Peoples Daily Online reports that despite the challenges facing rescue workers, following the flood the government acted swiftly to avert any additional loss of life.
 
 
 Related stories
@@ -324,7 +324,7 @@ View reader comments | Comment on this story
 
 
 
- World »
+ World 
 
 
 
@@ -334,7 +334,7 @@ Sudanese government cracks down on remaining southern sympathizers
 
 
 
- Innovation »
+ Innovation 
 
 
 
@@ -344,7 +344,7 @@ iPhone rumors rally around October 4 unveiling
 
 
 
- Innovation »
+ Innovation 
 
 
 
@@ -354,7 +354,7 @@ Facebook changes vs. Google+: Who made the best updates?
 
 
 
- World »
+ World 
 
 
 
@@ -364,7 +364,7 @@ Montreal's public bike system faces uphill battle
 
 
 
- The Culture »
+ The Culture 
 
 
 
@@ -374,7 +374,7 @@ The rise of urban farming
 
 
 
- World »
+ World 
 
 
 
@@ -384,7 +384,7 @@ Is the White House ready for a Cuban deep water drilling disaster?
 
 
 
- Innovation »
+ Innovation 
 
 
 
@@ -394,7 +394,7 @@ Google Wallet: Shop with a swipe of your phone
 
 
 
- Business »
+ Business 
 
 
 
@@ -404,7 +404,7 @@ Netflix (NFLX) faces customer backlash, weak economy
 
 
 
- USA »
+ USA 
 
 
 
@@ -420,7 +420,7 @@ Making a Difference
 Karin Alfredsson travels the world to help stop violence against women
  
 
- The Culture »
+ The Culture 
 
 
 
@@ -430,7 +430,7 @@ Toronto International Film Festival: the buzz this year
 
 
 
- The Culture »
+ The Culture 
 
 
 
@@ -504,7 +504,7 @@ Most viewed
 
 
 Photos of the day
-09.21.11 »
+09.21.11 
 
 
 
@@ -521,7 +521,7 @@ Photos of the day
 CSMonitor.com on Facebook
 
 
- 
+
 
 
 
@@ -793,7 +793,7 @@ Today's Article on Christian Science
 
 
 
-© The Christian Science Monitor. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. 
+ The Christian Science Monitor. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy. 
 		
 
 

@@ -210,7 +210,7 @@ guardian.co.uk,
 			In Zhejiang province, China, the worst drought in 50 years has been followed by deadly floods Link to this video
 
 
-China has evacuated more than 500,000 people from deadly floods that are devastating areas in the south of the country following the worst drought in 50 years.At least 105 people have been swept to their deaths or killed in landslides and another 65 are missing after rivers burst their banks. The authorities have issued the highest level of alarm about dykes and dams  under dangerous pressure.Television channels that were only recently broadcasting images of dried-up lake beds are now carrying footage of flooded homes and boats plying their way through inundated streets. China Daily said 550,000 people have been forced to leave their homes.The dramatic shift is in line with weather trends identified by the Beijing Climate Centre, which says rain is coming in shorter, fiercer bursts, interspersed by protracted periods of drought.The worst affected province is Zhejiang, where some stretches of the Qiantang river have risen to their highest level since 1955, according to the Flood Control and Drought Relief Office.In the Zhuji district, which has had 40.5cm of rain since the start of the month, the Puyang river inundated 88 villages and 13,000 hectares of crops.In neighbouring Jiangxi province, troops have helped 122,400 residents evacuate from vulnerable lowlands, according to the China News Service. Roads have been closed and bridges have collapsed in the floods, which have also affected Hubei, Hunan, Sichuan and Guizhou provinces.Monitoring stations on 40 rivers have recorded water levels above the safety limit, including Asia's biggest waterway – the Yangtze – which is simultaneously suffering a flood downstream and a drought closer to its source.Meteorologists warned that the torrential downpours are forecast to move southwards or inland. Li Xiaoquan was quoted on China's weather news website as saying that the rains were expected to affect Sichuan, Chongqing and Guangdong provinces before easing on Sunday.Additional reporting by Cecily Huang
+China has evacuated more than 500,000 people from deadly floods that are devastating areas in the south of the country following the worst drought in 50 years.At least 105 people have been swept to their deaths or killed in landslides and another 65 are missing after rivers burst their banks. The authorities have issued the highest level of alarm about dykes and dams  under dangerous pressure.Television channels that were only recently broadcasting images of dried-up lake beds are now carrying footage of flooded homes and boats plying their way through inundated streets. China Daily said 550,000 people have been forced to leave their homes.The dramatic shift is in line with weather trends identified by the Beijing Climate Centre, which says rain is coming in shorter, fiercer bursts, interspersed by protracted periods of drought.The worst affected province is Zhejiang, where some stretches of the Qiantang river have risen to their highest level since 1955, according to the Flood Control and Drought Relief Office.In the Zhuji district, which has had 40.5cm of rain since the start of the month, the Puyang river inundated 88 villages and 13,000 hectares of crops.In neighbouring Jiangxi province, troops have helped 122,400 residents evacuate from vulnerable lowlands, according to the China News Service. Roads have been closed and bridges have collapsed in the floods, which have also affected Hubei, Hunan, Sichuan and Guizhou provinces.Monitoring stations on 40 rivers have recorded water levels above the safety limit, including Asia's biggest waterway  the Yangtze  which is simultaneously suffering a flood downstream and a drought closer to its source.Meteorologists warned that the torrential downpours are forecast to move southwards or inland. Li Xiaoquan was quoted on China's weather news website as saying that the rains were expected to affect Sichuan, Chongqing and Guangdong provinces before easing on Sunday.Additional reporting by Cecily Huang
 
 
 
@@ -364,7 +364,7 @@ Flooding
 World news
 
 
-Natural disasters and extreme weather ·															
+Natural disasters and extreme weather 															
 
 China 
 
@@ -415,7 +415,7 @@ Floods in China kill dozens - video
 
 9 May 2011
 
-Memphis braces for worse flooding as Mississippi rises – in pictures
+Memphis braces for worse flooding as Mississippi rises  in pictures
 
 
 10 Sep 2004
@@ -665,12 +665,12 @@ Last 24 hours
 
 
 
-1. 
+1.
 Vast reserves of shale gas revealed in UK
 
 
 2. 
-The Sea: the first wonder of the world – in pictures
+The Sea: the first wonder of the world  in pictures
 
 
 3. 
@@ -693,13 +693,13 @@ More most viewed
 Last 24 hours
 
 
-The Sea: the first wonder of the world – in pictures
+The Sea: the first wonder of the world  in pictures
 
 
 The potential for shale gas is worth exploration
 
 
-Shale gas fracking – the facts and figures
+Shale gas fracking  the facts and figures
 
 
 Vast reserves of shale gas revealed in UK
@@ -722,7 +722,7 @@ Last 24 hours
 
 
 
-1. 
+1.
 Carbon capture progress has lost momentum, says climate change agency
 
 
@@ -762,7 +762,7 @@ Bestsellers from the Guardian shop
 Complete music system
 Revive your music collection, and transfer all your old favourites to your PC with the USB function.
 
-From: £149.95
+From: 149.95
 
 
 
@@ -798,8 +798,8 @@ about 34 minutes ago
 
 
 
-• Read more tweets from our foreign news team
-• Follow all our correspondents on a Twitter list
+Read more tweets from our foreign news team
+Follow all our correspondents on a Twitter list
 
 
 
@@ -814,54 +814,54 @@ This week's bestsellers
 
 
 
-1. 
+1.
 Atlantic
 
                         
 	                        by Simon Winchester
                         
                         
-                        £9.99
+                        9.99
 
 
 
-2. 
+2.
 Cloudspotter's Guide
 
                         
 	                        by Gavin Pretor-Pinney
                         
                         
-                        £9.99
+                        9.99
 
 
 
-3. 
+3.
 OCR Geology AS & A2 Student Book
 
                         
 	                        by F Stratton
                         
                         
-                        £22.50
+                        22.50
 
 
 
-4. 
+4.
 Cloud Collector's Handbook
 
                         
 	                        by Gavin Pretor-Pinney
                         
                         
-                        £10.00
+                        10.00
 
 
 
-5. 
+5.
 Geological Excursion Guide to the North-West Highlands of Sc
 
-£15.99
+15.99
 
 
 
@@ -937,7 +937,7 @@ Browse all jobs
 
 
 Waste Services Manager
-Barras Lane, Dalston, CARLISLE | £50,660 
+Barras Lane, Dalston, CARLISLE | 50,660 
 CUMBRIA COUNTY COUNCIL 
 
 
@@ -953,7 +953,7 @@ Related information
 
 World news
 
-Natural disasters and extreme weather · China
+Natural disasters and extreme weather  China
 
 
 Environment
@@ -1101,7 +1101,7 @@ About guardiannews.com
 
 
 
-© 2011 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+ 2011 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 

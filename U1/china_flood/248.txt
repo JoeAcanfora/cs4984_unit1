@@ -3,16 +3,16 @@
 
 
 
-  Cars  Auto 
-  Financing  Event 
-  Tickets  Jobs  Real 
-  Estate  Online 
-  Degrees  Business Opportunities 
+CarsAuto 
+  FinancingEvent 
+  TicketsJobsReal 
+  EstateOnline 
+  DegreesBusiness Opportunities 
 Shopping
 
 
 
-SearchHow do I find it?Subscribe to paper 
+SearchHow do I find it?Subscribe to paper
 
 
 
@@ -103,7 +103,7 @@ Weather
 
 
 
- Find a forecast: 
+Find a forecast:
 
 
 
@@ -168,7 +168,7 @@ Weather
 
 
 
-Updated  | Comment  | Recommend 
+Updated |Comment |Recommend 
 E-mail | Print | 
 
 
@@ -189,7 +189,7 @@ E-mail | Print |
 
 
 
- Enlarge
+Enlarge
 AP
 
 
@@ -209,7 +209,7 @@ A man on a raft Thursday in a flooded section of downtown Guilin, in southern Ch
 
 
 
-BEIJING (AP)   Major rivers burst their banks in southern China, triggering massive floods that have killed 132 people and forced 860,000 to flee their homes, the government said Sunday. With dozens missing and more storms forecast, the death toll was expected to rise.
+BEIJING (AP)   Major rivers burst their banks in southern China, triggering massive floods that have killed 132 people and forced 860,000 to flee their homes, the government said Sunday. With dozens missing and more storms forecast, the death toll was expected to rise.
 More than 10 million people have been affected since torrential rains began June 13, including those who have been injured, stranded or have suffered property losses, the Ministry of Water Resources said in a news release.
 While the death toll was up from 90 on Saturday, the number of evacuees was lower than the previous day's figure of 1.4 million. Another 86 people are still missing.
 China sustains major flooding annually along the mighty Yangtze and other major rivers, but this year's floods have been especially heavy, spreading across nine provinces and regions in the south and along the eastern coast.
@@ -264,7 +264,7 @@ Newspaper Home Delivery - Subscribe Today
 
 
 
-Home • News • Travel • Money • Sports • Life • Tech • Weather 
+Home  News  Travel  Money  Sports  Life  Tech  Weather 
 
 
 
@@ -277,18 +277,18 @@ Privacy Policy/Your California Privacy Right | Advertise | Press Room | Develope
 
 
 News Your Way:
- 
+
 Mobile News |
- 
+
 Email News |
- 
+
 Add USATODAY.com RSS feeds |
- 
+
 Twitter |
- 
+
 Podcasts |
- 
- Widgets
+
+Widgets
 
 Partners: USA WEEKEND | Sports Weekly | Education | Space.com | Travel Tips
 

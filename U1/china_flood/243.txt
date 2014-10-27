@@ -7,7 +7,7 @@ China floods: More than 5m hit by in eastern China after torrential rain  | Mail
 
 
 
- 
+
 
 
 
@@ -31,8 +31,8 @@ U.K. Home
 
 
 
- 
- 
+
+
 
 News
 
@@ -148,11 +148,11 @@ My Stories
 
 Thursday, Sep 22 2011
 
-9PM 
-87°F
+9PM
+87F
 
 12AM
-84°F
+84F
 
 5-Day Forecast
 
@@ -219,7 +219,7 @@ those still trapped by the flood waters.
 
 Enlarge
 
- 
+
 
 
 Mind your step: Chinese students make their way across a flooded school compound walking along a row of chairs in Wuhan, in central China's Hubei province.
@@ -231,7 +231,7 @@ Everybody off: A driver wades through floodwater after his bus was stranded in a
 Have paddle will travel: : A man floats along with his homemade boat and paddle through the flooded Moshan village in Zhejiang province
   The rains follow the worst drought in 
 China in over 50 years, which has decimated crop yields. The estimated 
-cost of the damage is five billion yuan (£477 million).Earlier this month flooding in eastern and southern China left more than 170 people dead or missing.  
+cost of the damage is five billion yuan (477 million).Earlier this month flooding in eastern and southern China left more than 170 people dead or missing.  
 
 Water torture: A girl carries two buckets of clean water to her house through the floods in Moshan village. China's troops have now joined the aid relief operation
   
@@ -240,10 +240,10 @@ Submerged: A driver of a wedding limousine calls out for help after his car beca
   
 
 Bail-out and clear-up: Chinese workers try to clear their store of flood water. The floods have claimed at least 170 lives
-     Farmers said the flooding was the worst in 20 years, reducing vegetable output by 20 per cent and also causing shortages of fruits and grains. Prices for green vegetables were up 40 per cent.China has mobilised troops to help with its flood relief operation and raised its disaster alert to four -  the highest level on the scale.
+     Farmers said the flooding was the worst in 20 years, reducing vegetable output by 20 per cent and also causing shortages of fruits and grains. Prices for green vegetables were up 40 per cent.China has mobilised troops to help with its flood relief operation and raised its disaster alert to four - the highest level on the scale.
  
 
- 
+
 Explore more:Places: China 
 
 
@@ -356,7 +356,7 @@ Worst rated
 
 
 
- View all
+View all
 
 
 
@@ -365,10 +365,10 @@ Amazing resilience - they are so resourceful, just get on with it - and smile wh
 - The Blonde Bunny, Somewhere, Out There, 20/6/2011 07:00
 
 Click to rate
- 
- 
+
+
 Rating
- 
+
 
 8
 
@@ -381,10 +381,10 @@ Well said , Michael Bradshaw, Dublin - Ireland.
 - Izzy, Ayrshire, Scotland., 20/6/2011 01:23
 
 Click to rate
- 
- 
+
+
 Rating
- 
+
 
 3
 
@@ -396,10 +396,10 @@ Perhaps that's why the Chinese are building these 'unoccupied' cities. Think abo
 - Yea,right, Watford, 19/6/2011 21:34
 
 Click to rate
- 
- 
+
+
 Rating
- 
+
 
 3
 
@@ -411,10 +411,10 @@ Unfortunate circumstances but great picture of boys crossing the street on the c
 - Donna, Seattle , 19/6/2011 21:21
 
 Click to rate
- 
- 
+
+
 Rating
- 
+
 
 7
 
@@ -426,10 +426,10 @@ Fastest growing economy on the planet but I bet we still send them bucket loads 
 - Daz, The Madhouse formally known as the UK, 19/6/2011 20:47
 
 Click to rate
- 
- 
+
+
 Rating
- 
+
 
 3
 
@@ -441,10 +441,10 @@ It's not only the natural disasters that are plaguing rural China, but what we'r
 - Bumble B, Toronto, CA, 19/6/2011 18:33
 
 Click to rate
- 
- 
+
+
 Rating
- 
+
 
 4
 
@@ -481,7 +481,7 @@ We are no longer accepting comments on this article.
 
 
 
- 
+
 
 
 
@@ -621,7 +621,7 @@ Part of the Daily Mail, The Mail on Sunday & Metro Media Group
 
 
 
-© Associated Newspapers Ltd
+ Associated Newspapers Ltd
 Contact us
 Terms
 Privacy policy & cookies
@@ -635,7 +635,6 @@ Advertise with us
 
 
 
- 
 
 
 
@@ -647,8 +646,9 @@ Advertise with us
 
 
 
- 
- 
+
+
+
 
 
 

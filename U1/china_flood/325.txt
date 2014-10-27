@@ -169,7 +169,7 @@ Like
 
 
 
- 
+
 
 
 
@@ -177,8 +177,8 @@ Like
 
 
 CONNECT
- 
- 
+
+
 
 
 
@@ -447,7 +447,7 @@ OUR SITE MAY CONTAIN VARIOUS COMBINATIONS OF TEXT, IMAGES, AUDIOVISUAL PRODUCTIO
 16.	Exclusions and Limitations: Some jurisdictions do not allow the exclusion of certain warranties, representations and conditions or the limitation or exclusion of liability for incidental or consequential damages. Accordingly, some of the above limitations may not apply to you.
 17.	Waiver and Severability of Terms: If we fail to exercise or enforce any right or provision of these Terms and Conditions, this shall not constitute waiver of such right or provision. If any provision of these Terms and Conditions is found by a court of competent jurisdiction to be invalid, you agree that the court should endeavour to give effect to the intent of the provision in question, and the other provisions of these Terms and Conditions remain in full force and effect.
 18.	Further Assurances: You agree to use reasonable efforts to do, make, execute, deliver, or cause to be done, made, executed, or delivered, all such further acts, documents, and things as we may reasonably require from time to time for the purpose of giving effect to these Terms and Conditions, including regularly reviewing the Terms and Conditions and updating your registration information.
-19.	Language: The parties have agreed that this Agreement and all documents relating thereto be written in the English language. Les parties ont demandé que cette convention ainsi que tous les documents que s'y rattachent soient rédigés en anglais.  
+19.	Language: The parties have agreed that this Agreement and all documents relating thereto be written in the English language. Les parties ont demand que cette convention ainsi que tous les documents que s'y rattachent soient rdigs en anglais.  
 20.	General: BY CONTINUING TO USE OUR SITE, YOU AGREE TO ABIDE BY THESE TERMS AND CONDITIONS. The caption to each Section of these Terms and Conditions are for convenience of reference only and shall be ignored in the construction or interpretation hereof. 
 
 
@@ -760,7 +760,7 @@ Bee Aware
 
 
 Rep. Carolyn Maloney
-President’s Policies Are Great for Women
+Presidents Policies Are Great for Women
 
 
 
@@ -805,7 +805,7 @@ Ahmadinejad Is the Real Threat
 
 
 David Crosby
-Danger Signs: America’s So Nuclear Wasted
+Danger Signs: Americas So Nuclear Wasted
 
 
 
@@ -1087,14 +1087,14 @@ George Clooney
 
 
 
-more big news pages »
+more big news pages 
 			
 
 
 
 
 
- 
+
 
 
 
@@ -1342,11 +1342,11 @@ About Us |
 Contact Us
 
 
-Copyright © 2011 TheHuffingtonPost.com, Inc. | 
+Copyright  2011 TheHuffingtonPost.com, Inc. | 
 "The Huffington Post" is a registered trademark of TheHuffingtonPost.com, Inc. All rights reserved.
 
 
-Part of HuffPost News • HPMG News
+Part of HuffPost News  HPMG News
 
 
 

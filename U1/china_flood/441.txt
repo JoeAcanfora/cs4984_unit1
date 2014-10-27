@@ -67,14 +67,14 @@ The improved Facebook integration creates a social guide for people to expand th
 "When we launched the TiVo apps for iPhone and iPad earlier this year, we did so with the goal of expanding the ways TiVo lovers can interact with people, the web, and the entertainment they're viewing while they watch TV. With this improved Facebook integration, TiVo users can discover things to watch from the new social guide, and can feature their entertainment experiences and choices with their friends," said Jim Denney, Vice President and General Manager of product marketing for TiVo Inc. "Through full integration with the set-top box, TiVo is defining the future of Social TV by offering a new way for people to connect and interact on the second screen in a way that is fully integrated with their actual TV watching experience."
 The TiVo App retains its unique and easy-to-use interface and lets people peruse TiVo's hallmark search, browse and recommendation functions, without disrupting what they are watching on the big screen. As people connect and interact with the Social TV features on the TiVo app, they will have more robust access to suggested programming provided by their networks on Facebook. 
 The improved integrations will launch on the TiVo app later this year. The TiVo App is available for free from the App Store on iPad, iPhone and iPod touch, or at www.itunes.com/appstore. 
-The TiVo App for iPhone supports all high definition TiVo DVRs, including TiVo Premiere, Premiere XL, Series3™, HD and HD XL.* Series2 and non-TiVo users can still sample the TiVo experience through the apps Guest Mode. Users can browse, search and scroll through program and channel guides and experience the simplicity of the TiVo interface. A valid TiVo user account is required for full functionality.
+The TiVo App for iPhone supports all high definition TiVo DVRs, including TiVo Premiere, Premiere XL, Series3, HD and HD XL.* Series2 and non-TiVo users can still sample the TiVo experience through the apps Guest Mode. Users can browse, search and scroll through program and channel guides and experience the simplicity of the TiVo interface. A valid TiVo user account is required for full functionality.
 For more information on the TiVo app please visit www.tivo.com/ipad. 
-*TiVo Series3™, HD and HD XL DVR users will enjoy the app's guide, scheduling, remote control, search and explore features, but these users should anticipate a smaller set of features and capabilities than TiVo Premiere users. 
+*TiVo Series3, HD and HD XL DVR users will enjoy the app's guide, scheduling, remote control, search and explore features, but these users should anticipate a smaller set of features and capabilities than TiVo Premiere users. 
 About TiVo Inc.
 Founded in 1997, TiVo Inc. (NASDAQ: TIVO) developed the first commercially available digital video recorder (DVR). TiVo offers the TiVo service and TiVo DVRs directly to consumers online at www.TiVo.com and through third-party retailers. TiVo also distributes its technology and services through solutions tailored for cable, satellite and broadcasting companies. Since its founding, TiVo has evolved into the ultimate single solution media center by combining its patented DVR technologies and universal cable box capabilities with the ability to aggregate, search, and deliver millions of pieces of broadband, cable, and broadcast content directly to the television. An economical, one-stop-shop for in-home entertainment, TiVo's intuitive functionality and ease of use puts viewers in control by enabling them to effortlessly navigate the best digital entertainment content available through one box, with one remote, and one user interface, delivering the most dynamic user experience on the market today. TiVo also continues to weave itself into the fabric of the media industry by providing interactive advertising solutions and audience research and measurement ratings services to the television industry www.TiVo.com 
 This release contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements relate to, among other things, specific TiVo products and timing of distribution of those products. Forward-looking statements generally can be identified by the use of forward-looking terminology such as, "believe," "expect," "may," "will," "intend," "estimate," "continue," or similar expressions or the negative of those terms or expressions. Such statements involve risks and uncertainties, which could cause actual results to vary materially from those expressed in or indicated by the forward-looking statements. Factors that may cause actual results to differ materially include delays in development, competitive service offerings and lack of market acceptance, as well as the other potential factors described under "Risk Factors" in the Company's public reports filed with the Securities and Exchange Commission, including the Company's Annual Report on Form 10-K for the fiscal year ended January 31, 2011, our Quarterly Report on Form 10-Q for the period ended April 30, 2011, and Current Reports on Form 8-K. The Company cautions you not to place undue reliance on forward-looking statements, which reflect an analysis only and speak only as of the date hereof. TiVo disclaims any obligation to update these forward-looking statements. 
-TiVo, the TiVo logo, the Thumbs Up Design Logo, and the Thumbs Down Design Logo are registered trademarks of TiVo Inc. or its subsidiaries worldwide. © 2011. All rights reserved. All other trademarks are the property of their respective owners.
-Facebook® is a registered trademark of Facebook Inc.
+TiVo, the TiVo logo, the Thumbs Up Design Logo, and the Thumbs Down Design Logo are registered trademarks of TiVo Inc. or its subsidiaries worldwide.  2011. All rights reserved. All other trademarks are the property of their respective owners.
+Facebook is a registered trademark of Facebook Inc.
 
 TiVo app for iPhone
 'Like' feature on the TiVo app for iPad
@@ -137,7 +137,6 @@ San Miguel IPO
 NEWSFEED MAKER
 
 
- 
 
 
 
@@ -150,7 +149,8 @@ NEWSFEED MAKER
 
 
 
- 
+
+
 
 
 
@@ -188,7 +188,7 @@ The Guy Who Stole Turkey Dinner! [22 Sep 2011] Marketwire
 Pegasystems Thought Leader Contributes to Adaptive Case Management Book  [22 Sep 2011] Marketwire
 Cloudera Unveils Speaker and Exhibitor Lineup for Hadoop World 2011: "Hadoop for the Data Driven Enterprise"  [22 Sep 2011] Marketwire
 Queen Grace to Participate in Howard University Homecoming Fashion Show  [22 Sep 2011] Marketwire
-see all  press releases » 
+see all  press releases  
 
 
  |
@@ -260,7 +260,7 @@ get free trial
 
 get free trial
 
-see all publications »
+see all publications 
 
 
 
@@ -285,7 +285,7 @@ Is the situation ripe for Palestine to get a UN seat? (Sep. 20, 2011)
  Yes.
  No.
  Don't know.
- 
+
 
 
 
@@ -330,32 +330,32 @@ MORE ARTICLES
 
 
 
- 
 
 
 
 
-You are currently reading World News Report, an EIN News publication.
+
+You are currently reading World News Report, anEINNewspublication.
 
 EIN News provides breaking news coverage on the following topics: 
-Regional / PoliticsAfrica NewsAsia NewsAustralia NewsBalkans NewsCentral Asia NewsBrazil Business TodayCentral Europe OnlineEU Politics TodayCzech Republic NewsEurope NewsInside China TodayLatin America NewsMiddle East NewsRussia & CIS NewsRussia News ServiceUnited States NewsWorld Business NewsWorld Economy NewsWorld NewsWorld Terrorism NewsU.S.Hillary Clinton TodayObama News TodaySarah Palin News TodayTea Party News TodayUS Politics Today IndustryAirline Industry TodayBook Publishing Industry TodayMobile Phone Industry TodayChemical Industry TodayCosmetics & Beauty Industry TodayInsurance Industry TodayMedia Industry TodayMilitary Industry TodayMining Industry TodayMovie Industry TodayMusic Industry TodayPatents and Trademarks TodayShipping & Logistics Industry TodayTextile Industry TodayTobacco Industry TodayTravel Industry TodayWaste Management & Recycling TodayAutomotiveAutomotive Industry TodayElectric Cars News TodayHybrid Cars News TodayMotorcycle News TodayTire Industry TodayTruck Industry TodayFood / BeveragesAgriculture Industry TodayBeverage Industry TodayFast Food News TodayFood Industry TodayFood Safety News TodayOrganic Food News TodaySeafood News Today Health / PharmaceuticalsAutism News TodayBrain Cancer News TodayBreast Cancer News TodayDental Industry TodayH1N1 News TodayHealthcare Industry TodayLung Cancer News TodayMesothelioma News TodayPharmaceutical Industry TodayProstate Cancer News TodayScience / TechnologyBiotechnology News TodayEnvironmental News TodayGlobal Warming News TodayIT Industry TodayNanotechnology News TodaySemiconductor Industry TodaySoftware Industry TodayTechnology TodayVideo Games Industry TodayEnergyBiofuel Industry TodayElectric Power News TodayEnergy Industry TodayEthanol News TodayGeothermal Power News TodayNatural Gas Industry TodayNuclear Power News TodayOil & Gas Industry TodayPower Plant News TodayRenewable Energy News TodaySolar Energy Industry TodayWind Energy Industry Today Company Daily ReportsAirbus Daily ReportBoeing Daily ReportBP Energy Daily ReportCoca-Cola Daily ReportConocoPhillips Daily ReportExxon Mobil Daily ReportGazprom Daily ReportGlaxoSmithKline Daily ReportMerck Daily ReportPepsi-Cola Daily ReportPfizer Daily ReportShell Energy Daily ReportStarbucks Daily ReportToyota Daily ReportSocietyEducation News TodayGay Rights News TodayHuman Rights TodayInternational Development News TodayReligion TodayBusiness / FinanceBanking Industry TodayBrazil Business TodayConferences & Trade Shows TodayConsumer News TodayInternational Employment TodayFinance Industry TodayFOREX Trading News TodayGold Industry TodayGlobal Investing TodayIPO News TodayMarketing & Advertising Industry TodayResidential Real Estate TodayInternational Trade News Today
+Regional / PoliticsAfrica NewsAsia NewsAustralia NewsBalkans NewsCentral Asia NewsBrazil Business TodayCentral Europe OnlineEU Politics TodayCzech Republic NewsEurope NewsInside China TodayLatin America NewsMiddle East NewsRussia & CIS NewsRussia News ServiceUnited States NewsWorld Business NewsWorld Economy NewsWorld NewsWorld Terrorism NewsU.S.Hillary Clinton TodayObama News TodaySarah Palin News TodayTea Party News TodayUS Politics TodayIndustryAirline Industry TodayBook Publishing Industry TodayMobile Phone Industry TodayChemical Industry TodayCosmetics & Beauty Industry TodayInsurance Industry TodayMedia Industry TodayMilitary Industry TodayMining Industry TodayMovie Industry TodayMusic Industry TodayPatents and Trademarks TodayShipping & Logistics Industry TodayTextile Industry TodayTobacco Industry TodayTravel Industry TodayWaste Management & Recycling TodayAutomotiveAutomotive Industry TodayElectric Cars News TodayHybrid Cars News TodayMotorcycle News TodayTire Industry TodayTruck Industry TodayFood / BeveragesAgriculture Industry TodayBeverage Industry TodayFast Food News TodayFood Industry TodayFood Safety News TodayOrganic Food News TodaySeafood News TodayHealth / PharmaceuticalsAutism News TodayBrain Cancer News TodayBreast Cancer News TodayDental Industry TodayH1N1 News TodayHealthcare Industry TodayLung Cancer News TodayMesothelioma News TodayPharmaceutical Industry TodayProstate Cancer News TodayScience / TechnologyBiotechnology News TodayEnvironmental News TodayGlobal Warming News TodayIT Industry TodayNanotechnology News TodaySemiconductor Industry TodaySoftware Industry TodayTechnology TodayVideo Games Industry TodayEnergyBiofuel Industry TodayElectric Power News TodayEnergy Industry TodayEthanol News TodayGeothermal Power News TodayNatural Gas Industry TodayNuclear Power News TodayOil & Gas Industry TodayPower Plant News TodayRenewable Energy News TodaySolar Energy Industry TodayWind Energy Industry TodayCompany Daily ReportsAirbus Daily ReportBoeing Daily ReportBP Energy Daily ReportCoca-Cola Daily ReportConocoPhillips Daily ReportExxon Mobil Daily ReportGazprom Daily ReportGlaxoSmithKline Daily ReportMerck Daily ReportPepsi-Cola Daily ReportPfizer Daily ReportShell Energy Daily ReportStarbucks Daily ReportToyota Daily ReportSocietyEducation News TodayGay Rights News TodayHuman Rights TodayInternational Development News TodayReligion TodayBusiness / FinanceBanking Industry TodayBrazil Business TodayConferences & Trade Shows TodayConsumer News TodayInternational Employment TodayFinance Industry TodayFOREX Trading News TodayGold Industry TodayGlobal Investing TodayIPO News TodayMarketing & Advertising Industry TodayResidential Real Estate TodayInternational Trade News Today
 
 
 OTHER EIN NEWS SERVICES
 
-News Publications · In-depth geopolitical and industry specific news coverage aggregated from 35,000 online outlets. Updated every 15 minutes.
-News Alerts · Receive a free selection of the day's top stories hand picked by EIN News editors.
-Newsfeed Maker · Integrate customized newsfeeds in any format covering all industry and geopolitical topics, updated every 15 minutes.
-EIN Presswire · Upload press releases to the EIN network and have them submitted to journalists and decision-makers worldwide.
-EIN Events · Add trade events to the World Trade Shows & Business Conferences Directory. They will be shown to the people you want to reach.
-Inbox Robot · Customized newsletters delivered by e-mail. Search a news index monitoring thousands of trusted media sources.
-EIN Marketplace · Designed to help small businesses tap into the EIN News audience of industry professionals.
+News Publications  In-depth geopolitical and industry specific news coverage aggregated from 35,000 online outlets. Updated every 15 minutes.
+News Alerts  Receive afree selection of the day's top stories hand picked by EIN News editors.
+Newsfeed Maker  Integrate customized newsfeeds in any format covering all industry and geopolitical topics, updated every 15 minutes.
+EIN Presswire  Upload press releases to the EIN network and have them submitted to journalists and decision-makers worldwide.
+EIN Events  Add trade events to the World Trade Shows & Business Conferences Directory. They will be shown to the people you want to reach.
+Inbox Robot  Customized newsletters delivered by e-mail. Search a news index monitoring thousands of trusted media sources.
+EIN Marketplace  Designed to help small businesses tap into the EIN News audience of industry professionals.
 
 
 ABOUT
 
-About EIN News · Established in 1995, EIN News began by supplying business professionals and individuals with relevant and interesting news products. It has grown to become the largest digital news provider in Europe.
-Member List · See the partial member list and join a community of professionals from private industry, institutions, and governments that rely on EIN as a critical source for research, breaking news and media services.
+About EIN News  Established in 1995, EINNews began by supplying business professionals and individuals with relevant and interesting news products. It has grown to become the largest digital news provider in Europe.
+Member List  See the partial member list and join acommunity ofprofessionals from private industry, institutions, and governments that rely on EIN as acritical source for research, breaking news and media services.
 
 
 
@@ -364,7 +364,7 @@ Member List · See the partial member list and join a community of professiona
 
 
 
-© 1995 - 2011 IPD Group, Inc. All Rights Reserved. | User Agreement | Privacy Policy | Contact
+ 1995 - 2011 IPD Group, Inc. All Rights Reserved. | User Agreement | Privacy Policy | Contact
 
 
 

@@ -376,7 +376,7 @@ Named Khanun, the Thai word for jackfruit, the typhoon forced the provincial gov
 Total economic losses have been estimated at 6.89 billion yuan (US$849 million), according to officials from the provincial flood control and drought relief headquarters. 
 As of 6:00 AM today, Khanun battered four cities, 29 counties and 357 towns in the province, affecting 5.11 million people. Strong winds and rainstorms destroyed 7,468 houses and damaged water facilities and cropland, said the headquarters. 
 Meteorologists described it as the strongest typhoon to hit China this year, bringing force 12 gales over eight hours, and the province reported rainfall of over 400 mm at three observation stations. 
-The provincial government has already evacuated more than one million people and there have been blackouts in some parts.    The provincial observatory forecast that the center of the typhoon, which has been moving northwestward at 25 km per hour, was expected to bore into neighboring Jiangsu Province early today.     The municipality of Shanghai has also evacuated 100,000 people and its observatory upgraded its typhoon emergency warning from yellow to red. 
+The provincial government has already evacuated more than one million people and there have been blackouts in some parts. The provincial observatory forecast that the center of the typhoon, which has been moving northwestward at 25 km per hour, was expected to bore into neighboring Jiangsu Province early today.  The municipality of Shanghai has also evacuated 100,000 people and its observatory upgraded its typhoon emergency warning from yellow to red. 
 From 6 to 8 PM yesterday, 116 flights were suspended in Shanghai's Pudong and Hongqiao airports, and today all its middle schools, primary schools and kindergartens were closed for the first time as strong torrential rains were expected. 
 As for Anhui, another neighboring province, downpours were expected in some parts, and flood and landslide warnings issued for mountainous and river areas. Rainfall was forecast to continue till Wednesday.
 
@@ -610,7 +610,7 @@ Feedback
 
 
 
-Copyright © China Internet 
+Copyright  China Internet 
       Information Center.   All Rights Reserved
       E-mail: webmaster@china.org.cn 
          Tel: 86-10-68326688

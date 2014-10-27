@@ -236,7 +236,7 @@ A man wades through floodwater after his bus was stranded
 
 More than one million acres (432,200 hectares) of farmland has been inundated - though forecasters predicted that Monday would be drier.
 Almost 1,000 businesses have been forced to suspend operations and 5.7 million people have had their lives disrupted, Xinhua claimed.
-More than 7,000 homes collapsed or were otherwise damaged and direct financial damage was estimated at almost six billion Yuan (£577m).
+More than 7,000 homes collapsed or were otherwise damaged and direct financial damage was estimated at almost six billion Yuan (577m).
 The flooding has reduced vegetable output by 20% and also caused shortages of fruits and grains.
 On Sunday, a senior official warned a critical point had been reached in battling seasonal floods.
 Heavy rain pounded Zhejiang over the weekend and the level of a river that passes through Lanxi city has risen sharply, said Zhao Fayuan, deputy director of the flood control headquarters.
@@ -332,7 +332,7 @@ Close
 
 
 
- 
+
 
 
 
@@ -626,7 +626,7 @@ Home
 
 
 
-Copyright ©2011 BskyB
+Copyright 2011 BskyB
 
 
 
@@ -664,7 +664,7 @@ Copyright ©2011 BskyB
                             |Terms & Conditions
 
 
-|   World News Feed
+|  World News Feed
 
 
 

@@ -103,7 +103,7 @@ Country profile: Taiwan
 
 
 China has reacted angrily to a US deal to upgrade Taiwan's ageing fleet of US-built F-16 fighter planes. 
-Vice-Foreign Minister Zhang Zhijun said the $5.85bn (£3.77bn) deal would "inevitably undermine bilateral relations", including military and security co-operation. 
+Vice-Foreign Minister Zhang Zhijun said the $5.85bn (3.77bn) deal would "inevitably undermine bilateral relations", including military and security co-operation. 
 He also summoned US Ambassador Gary Locke to protest against the deal. 
 China traditionally reacts strongly to US military co-operation with Taiwan, which it considers its territory. 
 Last year, when the US sold missiles and other hardware to Taiwan, China suspended military exchanges with the US. 
@@ -495,11 +495,11 @@ The latest travel gadgets, including a suitcase you can dance with and then sit 
 
 Services
 
- News feeds
- Mobile
- Podcasts
- Alerts
- E-mail news
+News feeds
+Mobile
+Podcasts
+Alerts
+E-mail news
 
 
 
@@ -513,7 +513,7 @@ World Service Trust
 
 
 
-  Mobile      Search term:     bbc.co.uk navigation  News Sport Weather  Travel  TV Radio More       CBBC CBeebies Comedy Food Health   History Learning Music Science Nature   Local Northern Ireland Scotland Wales Full A-Z of BBC sites        BBC links   About the BBC   BBC Help   Contact Us   Accessibility Help   Terms of Use   Careers   Privacy & Cookies   Advertise With Us   Ad Choices     BBC © 2011 The BBC is not responsible for the content of external sites. Read more. This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.  
+  Mobile      Search term:     bbc.co.uk navigation  News Sport Weather  Travel  TV Radio More       CBBC CBeebies Comedy Food Health   History Learning Music Science Nature   Local Northern Ireland Scotland Wales Full A-Z of BBC sites        BBC links   About the BBC   BBC Help   Contact Us   Accessibility Help   Terms of Use   Careers   Privacy & Cookies   Advertise With Us   Ad Choices     BBC  2011 The BBC is not responsible for the content of external sites. Read more. This page is best viewed in an up-to-date web browser with style sheets (CSS) enabled. While you will be able to view the content of this page in your current browser, you will not be able to get the full visual experience. Please consider upgrading your browser software or enabling style sheets (CSS) if you are able to do so.  
 
 
 

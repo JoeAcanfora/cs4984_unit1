@@ -37,11 +37,11 @@ Asia
 
 
 
-16°
+16
 
 
                             London
-Hi 19°C / Lo 11°C
+Hi 19C / Lo 11C
 
 
 
@@ -908,12 +908,12 @@ Scottish clan that wants its tropical paradise returned
 
 
 5
-US blames Pakistan agency in Kabul attack new
+US blames Pakistan agency in Kabul attacknew
 
 
 
 6
-Greeks strike over austerity cuts new
+Greeks strike over austerity cutsnew
 
 
 
@@ -926,12 +926,12 @@ Spain passes wealth tax to cut deficit
 
 
 9
-Global economy in danger warns IMF chief new
+Global economy in danger warns IMF chiefnew
 
 
 
 10
-Cameron urges UN to be 'united in action'  new
+Cameron urges UN to be 'united in action' new
 
 
 
@@ -945,7 +945,7 @@ Italian court says 'mummy's boys' have right to sponge off parents indefinitely
 
 
 2
-Global economy in danger warns IMF chief new
+Global economy in danger warns IMF chiefnew
 
 
 
@@ -958,7 +958,7 @@ Chinese dog-eating carnival banned after outcry
 
 
 5
-Pope arrives for Germany visit new
+Pope arrives for Germany visitnew
 
 
 
@@ -1183,7 +1183,7 @@ Go
 
 
 
-©independent.co.uk
+independent.co.uk
 Terms & Policies
 							 | 
 Privacy Policy

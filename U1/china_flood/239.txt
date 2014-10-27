@@ -63,8 +63,6 @@ More than one million evacuated in China floods - Channel NewsAsia
 
 
 
- 
- 
 
 
 
@@ -76,7 +74,9 @@ More than one million evacuated in China floods - Channel NewsAsia
 
 
 
- 
+
+
+
 
 
 Home
@@ -129,12 +129,6 @@ Special Reports
 
 
 
- 
-
- 
-
-
- 
 
 
 
@@ -155,10 +149,16 @@ Special Reports
 
 
 
- 
 
 
- 
+
+
+
+
+
+
+
+
 
 
 7 Day News Archive
@@ -208,9 +208,9 @@ Search
 
 
 
- 
 
- 
+
+
 
 
 
@@ -273,22 +273,22 @@ TV Shows
 |
 
 |
-About Us 
-
-
-
- 
+About Us
 
 
 
 
 
 
- 
-Home ›
 
 
- 
+
+
+
+Home 
+
+
+
 
 
 
@@ -331,22 +331,22 @@ Asia Pacific News
 
 
 
- 
+
 
 More than one million evacuated in China floods
 Posted: 17 June 2011 1834 hrs 
 
 
- 
 
 
 
- 
+
+
 
 
 
 Photos 
- of  
+of  
 
 
 
@@ -356,11 +356,6 @@ Photos
  
 
 
- 
- 
-
-
- 
 
 
 
@@ -385,7 +380,12 @@ Photos
 
 
 
- 
+
+
+
+
+
+
 					
 
 
@@ -407,7 +407,7 @@ BEIJING - More than one million people in China have been evacuated following do
 
 
 
- 
+
 
 
 
@@ -421,7 +421,7 @@ BEIJING - More than one million people in China have been evacuated following do
 
  Add Your Comments
 
-  View Comments ()
+ View Comments ()
 
 
 
@@ -452,14 +452,14 @@ E-mail:
 
 
 
-Your views   (Max 600 chars)
+Your views (Max 600 chars)
 
 
 
 
 word count:
 
-  more chars available.
+ more chars available.
 
 
 
@@ -495,7 +495,7 @@ Enter the code exactly as you see it.
 
 
 
-									  
+									
 							
 
 
@@ -526,59 +526,59 @@ Other asiapacific News
 
 
 
-•
+
 Pakistan's ISI "exporting violence" to Afghanistan: US
 
 
-•
+
 China strongly condemns US-Taiwan arms deal
 
 
-•
+
 Japan typhoon kills 11, spares nuclear plant
 
 
-•
+
 Political winds force Malaysian democratic reforms
 
 
-•
+
 US, N. Korea plan more nuclear talks
 
 
-•
+
 US lawmakers tie Pakistan aid to Haqqani crackdown
 
 
-•
+
 Taiwan heartened despite second-best F-16 deal
 
 
-•
+
 Timor Leste president dismisses polls violence fears
 
 
-•
+
 Bangladesh hit by strike over fuel price hike
 
 
-•
+
 Malaysia police get on Facebook, Twitter
 
 
-•
+
 Himalayan villagers tell of quake chaos, 110 dead
 
 
-•
+
 China flood deaths rise to 90
 
 
-•
+
 US to upgrade Taiwan jets, China protests
 
 
-•
+
 Suu Kyi urges world to keep eye on Myanmar
 
 
@@ -586,7 +586,6 @@ Suu Kyi urges world to keep eye on Myanmar
 
 
 
- 
 
 
 
@@ -597,7 +596,8 @@ Suu Kyi urges world to keep eye on Myanmar
 
 
 
- 
+
+
 
 
 Affiliate Sites: 
@@ -616,18 +616,18 @@ Affiliate Sites:
 
 
 
- 
-
-
-About Us  |   Contact Us  |   Advertise with Us  |   Terms & Conditions 
 
 
 
+About Us |  Contact Us |  Advertise with Us |  Terms & Conditions 
 
- 
+
+
+
+
 
       Copyright 
-      ©
+      
             
       MediaCorp Pte Ltd. All Rights Reserved.
       Use of this Site is   subject to our terms and conditions of use. Your continued use of this   Site shall be 

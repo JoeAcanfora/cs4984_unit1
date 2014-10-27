@@ -364,7 +364,7 @@ Floods triggered by torrential rains have killed six people and left three missi
 Rainstorms began inundating the municipality on Saturday evening, triggering floods and landslides in some localities. The disaster has affected the life of 2.05 million residents in 172 townships. 
 Two of the victims were killed in a landslide in Wanzhou area and the third was drowned in flood water near a reservoir. 
 The rainstorms have also destroyed 650 houses and more than 120,000 hectares of farmland, incurring 182 million yuan (US$22.5 million) in direct losses. 
-The search for the missing is still underway. (Xinhua News Agency August 30, 2005)
+The search for the missing is still underway.(Xinhua News Agency August 30, 2005)
 
 
 
@@ -491,7 +491,7 @@ Feedback
 
 
 
-Copyright © China Internet 
+Copyright  China Internet 
       Information Center.   All Rights Reserved
       E-mail: webmaster@china.org.cn 
          Tel: 86-10-68326688

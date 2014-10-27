@@ -37,20 +37,20 @@ Using AND operator gives you only those articles that contain
 all keywords in the string.
 
 
-"  " (quotation marks)
+""(quotation marks)
 
 Using quotation marks you limit your search for exact
 phrases.
 
 
-* (asterisk sign)
+*(asterisk sign)
 
 Using an asterisk sign gives you
 variations of root keyword. You cannot use it in
 phrases.
 
 
-(  ) (parenthesis)
+()(parenthesis)
 
 You can use parenthesis to adjust priority of your search phrase
 evaluation (as common math/boolean expressions).
