@@ -62,7 +62,7 @@ Submit news PRESSWIRE
 
 Agency Compensation and Management Practices Survey Conducted by Ward Group 
 
-Ward Group® is conducting a survey on agency compensation practices for property-casualty insurance companies. The information gathered from the survey will provide meaningful insights on agency compensation, commission structures, incentives, travel and other agency management practices. The survey will be conducted through December 1, 2011 and results will be distributed in January 2012. 
+Ward Group is conducting a survey on agency compensation practices for property-casualty insurance companies. The information gathered from the survey will provide meaningful insights on agency compensation, commission structures, incentives, travel and other agency management practices. The survey will be conducted through December 1, 2011 and results will be distributed in January 2012. 
 "Agency compensation is one of the largest operating components P&C companies must manage," says Jeffrey Rieder, President of Ward Group. "This study will provide valuable information to help companies evaluate agency management practices and design compensation systems that are competitive and drive agent behavior."
 Participating companies will receive a summary of findings including best practice considerations and a complete benchmarking appendix comparing participants' results to benchmark groups for easy review. Participants are also invited to attend a webinar presentation of key findings.
 The cost to participate in the survey is $850. The participation fee is waived for companies currently enrolled in a Ward Group benchmarking program. The deadline to submit the completed survey is December 1, 2011. Property-casualty insurance companies interested in participating should contact Matt Ryan at mryan@wardinc.com or call 513-746-2436. 
@@ -131,7 +131,6 @@ San Miguel IPO
 NEWSFEED MAKER
 
 
- 
 
 
 
@@ -144,7 +143,8 @@ NEWSFEED MAKER
 
 
 
- 
+
+
 
 
 
@@ -185,7 +185,7 @@ The Guy Who Stole Turkey Dinner! [22 Sep 2011] Marketwire
 Pegasystems Thought Leader Contributes to Adaptive Case Management Book  [22 Sep 2011] Marketwire
 Cloudera Unveils Speaker and Exhibitor Lineup for Hadoop World 2011: "Hadoop for the Data Driven Enterprise"  [22 Sep 2011] Marketwire
 Queen Grace to Participate in Howard University Homecoming Fashion Show  [22 Sep 2011] Marketwire
-see all  press releases » 
+see all  press releases  
 
 
  |
@@ -258,7 +258,7 @@ get free trial
 
 get free trial
 
-see all publications »
+see all publications 
 
 
 
@@ -283,7 +283,7 @@ Is the situation ripe for Palestine to get a UN seat? (Sep. 20, 2011)
  Yes.
  No.
  Don't know.
- 
+
 
 
 
@@ -328,32 +328,32 @@ MORE ARTICLES
 
 
 
- 
 
 
 
 
-You are currently reading World News Report, an EIN News publication.
+
+You are currently reading World News Report, anEINNewspublication.
 
 EIN News provides breaking news coverage on the following topics: 
-Regional / PoliticsAfrica NewsAsia NewsAustralia NewsBalkans NewsCentral Asia NewsBrazil Business TodayCentral Europe OnlineEU Politics TodayCzech Republic NewsEurope NewsInside China TodayLatin America NewsMiddle East NewsRussia & CIS NewsRussia News ServiceUnited States NewsWorld Business NewsWorld Economy NewsWorld NewsWorld Terrorism NewsU.S.Hillary Clinton TodayObama News TodaySarah Palin News TodayTea Party News TodayUS Politics Today IndustryAirline Industry TodayBook Publishing Industry TodayMobile Phone Industry TodayChemical Industry TodayCosmetics & Beauty Industry TodayInsurance Industry TodayMedia Industry TodayMilitary Industry TodayMining Industry TodayMovie Industry TodayMusic Industry TodayPatents and Trademarks TodayShipping & Logistics Industry TodayTextile Industry TodayTobacco Industry TodayTravel Industry TodayWaste Management & Recycling TodayAutomotiveAutomotive Industry TodayElectric Cars News TodayHybrid Cars News TodayMotorcycle News TodayTire Industry TodayTruck Industry TodayFood / BeveragesAgriculture Industry TodayBeverage Industry TodayFast Food News TodayFood Industry TodayFood Safety News TodayOrganic Food News TodaySeafood News Today Health / PharmaceuticalsAutism News TodayBrain Cancer News TodayBreast Cancer News TodayDental Industry TodayH1N1 News TodayHealthcare Industry TodayLung Cancer News TodayMesothelioma News TodayPharmaceutical Industry TodayProstate Cancer News TodayScience / TechnologyBiotechnology News TodayEnvironmental News TodayGlobal Warming News TodayIT Industry TodayNanotechnology News TodaySemiconductor Industry TodaySoftware Industry TodayTechnology TodayVideo Games Industry TodayEnergyBiofuel Industry TodayElectric Power News TodayEnergy Industry TodayEthanol News TodayGeothermal Power News TodayNatural Gas Industry TodayNuclear Power News TodayOil & Gas Industry TodayPower Plant News TodayRenewable Energy News TodaySolar Energy Industry TodayWind Energy Industry Today Company Daily ReportsAirbus Daily ReportBoeing Daily ReportBP Energy Daily ReportCoca-Cola Daily ReportConocoPhillips Daily ReportExxon Mobil Daily ReportGazprom Daily ReportGlaxoSmithKline Daily ReportMerck Daily ReportPepsi-Cola Daily ReportPfizer Daily ReportShell Energy Daily ReportStarbucks Daily ReportToyota Daily ReportSocietyEducation News TodayGay Rights News TodayHuman Rights TodayInternational Development News TodayReligion TodayBusiness / FinanceBanking Industry TodayBrazil Business TodayConferences & Trade Shows TodayConsumer News TodayInternational Employment TodayFinance Industry TodayFOREX Trading News TodayGold Industry TodayGlobal Investing TodayIPO News TodayMarketing & Advertising Industry TodayResidential Real Estate TodayInternational Trade News Today
+Regional / PoliticsAfrica NewsAsia NewsAustralia NewsBalkans NewsCentral Asia NewsBrazil Business TodayCentral Europe OnlineEU Politics TodayCzech Republic NewsEurope NewsInside China TodayLatin America NewsMiddle East NewsRussia & CIS NewsRussia News ServiceUnited States NewsWorld Business NewsWorld Economy NewsWorld NewsWorld Terrorism NewsU.S.Hillary Clinton TodayObama News TodaySarah Palin News TodayTea Party News TodayUS Politics TodayIndustryAirline Industry TodayBook Publishing Industry TodayMobile Phone Industry TodayChemical Industry TodayCosmetics & Beauty Industry TodayInsurance Industry TodayMedia Industry TodayMilitary Industry TodayMining Industry TodayMovie Industry TodayMusic Industry TodayPatents and Trademarks TodayShipping & Logistics Industry TodayTextile Industry TodayTobacco Industry TodayTravel Industry TodayWaste Management & Recycling TodayAutomotiveAutomotive Industry TodayElectric Cars News TodayHybrid Cars News TodayMotorcycle News TodayTire Industry TodayTruck Industry TodayFood / BeveragesAgriculture Industry TodayBeverage Industry TodayFast Food News TodayFood Industry TodayFood Safety News TodayOrganic Food News TodaySeafood News TodayHealth / PharmaceuticalsAutism News TodayBrain Cancer News TodayBreast Cancer News TodayDental Industry TodayH1N1 News TodayHealthcare Industry TodayLung Cancer News TodayMesothelioma News TodayPharmaceutical Industry TodayProstate Cancer News TodayScience / TechnologyBiotechnology News TodayEnvironmental News TodayGlobal Warming News TodayIT Industry TodayNanotechnology News TodaySemiconductor Industry TodaySoftware Industry TodayTechnology TodayVideo Games Industry TodayEnergyBiofuel Industry TodayElectric Power News TodayEnergy Industry TodayEthanol News TodayGeothermal Power News TodayNatural Gas Industry TodayNuclear Power News TodayOil & Gas Industry TodayPower Plant News TodayRenewable Energy News TodaySolar Energy Industry TodayWind Energy Industry TodayCompany Daily ReportsAirbus Daily ReportBoeing Daily ReportBP Energy Daily ReportCoca-Cola Daily ReportConocoPhillips Daily ReportExxon Mobil Daily ReportGazprom Daily ReportGlaxoSmithKline Daily ReportMerck Daily ReportPepsi-Cola Daily ReportPfizer Daily ReportShell Energy Daily ReportStarbucks Daily ReportToyota Daily ReportSocietyEducation News TodayGay Rights News TodayHuman Rights TodayInternational Development News TodayReligion TodayBusiness / FinanceBanking Industry TodayBrazil Business TodayConferences & Trade Shows TodayConsumer News TodayInternational Employment TodayFinance Industry TodayFOREX Trading News TodayGold Industry TodayGlobal Investing TodayIPO News TodayMarketing & Advertising Industry TodayResidential Real Estate TodayInternational Trade News Today
 
 
 OTHER EIN NEWS SERVICES
 
-News Publications · In-depth geopolitical and industry specific news coverage aggregated from 35,000 online outlets. Updated every 15 minutes.
-News Alerts · Receive a free selection of the day's top stories hand picked by EIN News editors.
-Newsfeed Maker · Integrate customized newsfeeds in any format covering all industry and geopolitical topics, updated every 15 minutes.
-EIN Presswire · Upload press releases to the EIN network and have them submitted to journalists and decision-makers worldwide.
-EIN Events · Add trade events to the World Trade Shows & Business Conferences Directory. They will be shown to the people you want to reach.
-Inbox Robot · Customized newsletters delivered by e-mail. Search a news index monitoring thousands of trusted media sources.
-EIN Marketplace · Designed to help small businesses tap into the EIN News audience of industry professionals.
+News Publications  In-depth geopolitical and industry specific news coverage aggregated from 35,000 online outlets. Updated every 15 minutes.
+News Alerts  Receive afree selection of the day's top stories hand picked by EIN News editors.
+Newsfeed Maker  Integrate customized newsfeeds in any format covering all industry and geopolitical topics, updated every 15 minutes.
+EIN Presswire  Upload press releases to the EIN network and have them submitted to journalists and decision-makers worldwide.
+EIN Events  Add trade events to the World Trade Shows & Business Conferences Directory. They will be shown to the people you want to reach.
+Inbox Robot  Customized newsletters delivered by e-mail. Search a news index monitoring thousands of trusted media sources.
+EIN Marketplace  Designed to help small businesses tap into the EIN News audience of industry professionals.
 
 
 ABOUT
 
-About EIN News · Established in 1995, EIN News began by supplying business professionals and individuals with relevant and interesting news products. It has grown to become the largest digital news provider in Europe.
-Member List · See the partial member list and join a community of professionals from private industry, institutions, and governments that rely on EIN as a critical source for research, breaking news and media services.
+About EIN News  Established in 1995, EINNews began by supplying business professionals and individuals with relevant and interesting news products. It has grown to become the largest digital news provider in Europe.
+Member List  See the partial member list and join acommunity ofprofessionals from private industry, institutions, and governments that rely on EIN as acritical source for research, breaking news and media services.
 
 
 
@@ -362,7 +362,7 @@ Member List · See the partial member list and join a community of professiona
 
 
 
-© 1995 - 2011 IPD Group, Inc. All Rights Reserved. | User Agreement | Privacy Policy | Contact
+ 1995 - 2011 IPD Group, Inc. All Rights Reserved. | User Agreement | Privacy Policy | Contact
 
 
 

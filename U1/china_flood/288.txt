@@ -8,7 +8,7 @@
 
 
 
- 
+
 
 
 
@@ -387,7 +387,7 @@ HP close to naming Whitman CEO, ejecting Apotheker
 133
 Obama to propose $3 trillion in deficit cuts
 79
-Geithner’s ”succinct” message irks Europeans
+Geithners succinct message irks Europeans
 60
 House unexpectedly defeats spending bill
 
@@ -473,7 +473,7 @@ China sends ship "to protect sovereignty" in disputed seaThu, Jun 16 2011Missour
 Analysis & Opinion
 
 
-China plans to help Nepal develop Buddha’s birthplace at Lumbini
+China plans to help Nepal develop Buddhas birthplace at Lumbini
 
 Jobs or infrastructure?
 
@@ -486,7 +486,7 @@ Jobs or infrastructure?
 Related Topics
 
 
-China »
+China 
 
 
 
@@ -615,7 +615,7 @@ This discussion is now closed. We welcome comments on our articles for a limited
 
 
 
-  
+ 
 
 
 Edition:
@@ -684,12 +684,12 @@ Advertise With Us
 
 Connect with Reuters
 
-Twitter  
-Facebook  
-LinkedIn  
-RSS  
-Podcast  
-Newsletters  
+Twitter
+Facebook
+LinkedIn
+RSS
+Podcast
+Newsletters
 Mobile
 
 About
@@ -729,7 +729,7 @@ Contact Us
 
 
 
- 
+
 
 
 Thomson Reuters is the world's largest international multimedia news agency, providing investing news, world news, business news, technology news, headline news, small business news, news alerts, personal finance, stock market, and mutual funds information available on Reuters.com, video, mobile, and interactive television platforms. Thomson Reuters journalists are subject to an Editorial Handbook which requires fair presentation and disclosure of relevant interests.

@@ -46,7 +46,7 @@ About
 
 China Floods News
 
-All China News Sections
+AllChinaNewsSections
 > Floods
 China Floods News. Service for global professionals. Constantly updated news and information about China.
  |
@@ -69,20 +69,20 @@ Pakistan: 'Flood waters damage nearly a million houses' 13 Sep 2011 07:00 GMT ..
 Water and dams, China's new war path 17 Sep 2011 09:22 GMT ... Water and dams, China's new war path Beijing, ignoring international conventions, is exercising dissolute rule  ...  the important international rivers flowing out of Chinese territory. Getting this pre-eminent riparian power to  ...
 Chinese dams drown livelihoods 19 Sep 2011 09:21 GMT ...  built this year to resettle migrants from China's latest and greatest hydro-engineering project, wobbles when  ...  relocated in a desperate bid to ease Beijing's drought crisis by transfusing water from the  ...  old home and farmland will soon be flooded by the central leg of the three  ...
 Shennongjia exposes reckless development of China's water resources 15 Sep 2011 12:20 GMT ...  built within Shengnongjia natural reserve, Hubei province, China. Photograph: Jonathan Watts for the Guardian The  ...  said a villager, referring to the classical Chinese story of a mythical paradise. "But if  ...  hydropower stations." Locals said senior leaders from Beijing were expected to visit, pass judgment and  ...
-Pity the poor dam planner 22 Sep 2011 15:42 GMT ... Usually, when people think about how we’ll adapt  ...  climate, they think famine in Africa or floods in Bangladesh or dengue fever run wild.  ...  all wrong. Typically, dam engineers study historical water data and decide on a flow rate  ...
+Pity the poor dam planner 22 Sep 2011 15:42 GMT ... Usually, when people think about how well adapt  ...  climate, they think famine in Africa or floods in Bangladesh or dengue fever run wild.  ...  all wrong. Typically, dam engineers study historical water data and decide on a flow rate  ...
 More rain forecast for flood-hit southwest 21 Sep 2011 00:56 GMT ... Updated: 2011-09-21 08:04 (China Daily) Rescuers in Baoji, Northwest Chna's Shaanxi province,  ...  stream of the Yangtze River, China's longest waterway, caused this year's biggest flood crest on Tuesday, damaging thousands of houses  ...
 More rain forecast for flood-hit SW 21 Sep 2011 01:43 GMT ...  two on Tuesday. [Photo by Yang Yongtao/for China Daily] YICHANG, Hubei - Torrential rain in the  ...  stream of the Yangtze River, China's longest waterway, caused this year's biggest flood crest on Tuesday, damaging thousands of houses  ...
-Burma must be vigilant to avoid the disastrous dam on Irrawaddy River 18 Sep 2011 19:30 GMT ...  (KDNG) published a report – “Resisting the Flood” – highlighting the implementation of the Myitsone  ...  the project that is sponsored by the China Power Investment Corporation (CPI), its main investor  ...  the KIA, sent an open letter to Chinese President, Hu Jintao, in March this year,  ...
+Burma must be vigilant to avoid the disastrous dam on Irrawaddy River 18 Sep 2011 19:30 GMT ...  (KDNG) published a report  Resisting the Flood  highlighting the implementation of the Myitsone  ...  the project that is sponsored by the China Power Investment Corporation (CPI), its main investor  ...  the KIA, sent an open letter to Chinese President, Hu Jintao, in March this year,  ...
 Controversy Over Dam Fuels Rare Public Outcry in Myanmar 21 Sep 2011 21:01 GMT ...  reconsider its plans. The Myitsone dam will flood an area four times the size of  ...  is being built and financed by a Chinese company, has also become a lightning rod  ...  public consultation. Others channel their frustration toward China, which plans to import 90 percent of  ...
 Death toll in China floods rises to around 100 22 Sep 2011 08:21 GMT ... Beijing - Floods and landslides caused by heavy rains have  ...  rains have killed around 100 people in China, the National Disaster Reduction Commission and media reports  ...
-Chinese protest factory pollution 19 Sep 2011 10:20 GMT ... Chinese police officers, left, watch over villagers gathered  ...  city in eastern China’s Zhejiang province. (AP) BEIJING — Hundreds of villagers in eastern China have demonstrated in recent days against pollution  ...
-Hundreds protest pollution from Chinese factory 18 Sep 2011 13:16 GMT ...  Sunday Sep. 18, 2011 8:39 AM ET BEIJING — Hundreds of villagers in eastern China have demonstrated in recent days against pollution  ...  subsidiary of a New York Stock Exchange-listed Chinese solar company, JinkoSolar Holding Co. Calls to  ...
+Chinese protest factory pollution 19 Sep 2011 10:20 GMT ... Chinese police officers, left, watch over villagers gathered  ...  city in eastern Chinas Zhejiang province. (AP) BEIJING  Hundreds of villagers in eastern China have demonstrated in recent days against pollution  ...
+Hundreds protest pollution from Chinese factory 18 Sep 2011 13:16 GMT ...  Sunday Sep. 18, 2011 8:39 AM ET BEIJING  Hundreds of villagers in eastern China have demonstrated in recent days against pollution  ...  subsidiary of a New York Stock Exchange-listed Chinese solar company, JinkoSolar Holding Co. Calls to  ...
 Villagers Protest China Factory Pollution 19 Sep 2011 04:41 GMT ... BEIJING - Hundreds of villagers in eastern China have demonstrated in recent days against pollution  ...  subsidiary of a New York Stock Exchange-listed Chinese solar company, JinkoSolar Holding Co. Calls to  ...
 Villagers detained after more than 500 protest Chinese factory pollution, storm compound 19 Sep 2011 06:01 GMT ...  Hongxiao village in Haining city in eastern China's Zhejiang province. Hundreds of villagers have been  ...  guarding the plant and raised fears that flood waters could release toxic chemicals. The massive  ...  Gillian Wong and researchers Henry Hou in Beijing and Fu Ting in Shanghai contributed to  ...
 Economic Transformation, the Chinese Way 20 Sep 2011 09:26 GMT ...  sharpened, we should try to follow the Chinese footsteps. But what is it that China did, and how did it do it  ...  while cheap Chinese goods flooded western markets, Beijing also loaned western banks the proceeds to  ...
 
 
-1 - 15 / 851      NEXT 
+1 - 15 / 851NEXT 
 Powered by 
 NOT SATISFIED WITH THIS FLOODS NEWS SECTION? TRY OUR OTHER MEDIA MONITORING SERVICES.
 
@@ -92,7 +92,6 @@ NOT SATISFIED WITH THIS FLOODS NEWS SECTION? TRY OUR OTHER MEDIA MONITORING SERV
 <<< Please read the disclaimer for more details.>>>
 
 
- 
 
 
 
@@ -105,7 +104,8 @@ NOT SATISFIED WITH THIS FLOODS NEWS SECTION? TRY OUR OTHER MEDIA MONITORING SERV
 
 
 
- 
+
+
 
 
 
@@ -129,7 +129,7 @@ see allget listedEVENTS & CONFERENCES
 
 3rd International Temos Conference, 20-23rd November, 2011, Mercedes-Benz Center, Cologne, Cologne, Germany, Platform for business & science in healthcare abroad & health tourism.
 Main topics:
-– Medical Tourism I: case management & imp... [read more]
+ Medical Tourism I: case management & imp... [read more]
 
 
 submit press release PRESSWIRE
@@ -145,7 +145,7 @@ The Guy Who Stole Turkey Dinner! [22 Sep 2011] Marketwire
 Pegasystems Thought Leader Contributes to Adaptive Case Management Book  [22 Sep 2011] Marketwire
 Cloudera Unveils Speaker and Exhibitor Lineup for Hadoop World 2011: "Hadoop for the Data Driven Enterprise"  [22 Sep 2011] Marketwire
 Queen Grace to Participate in Howard University Homecoming Fashion Show  [22 Sep 2011] Marketwire
-see all  press releases » 
+see all  press releases  
 
 
  |
@@ -218,7 +218,7 @@ get free trial
 
 get free trial
 
-see all publications »
+see all publications 
 
 
 
@@ -243,14 +243,14 @@ Is the situation ripe for Palestine to get a UN seat? (Sep. 20, 2011)
  Yes.
  No.
  Don't know.
- 
+
 
 
 
 
 
 Quote of the Day"China strongly urges the United States to be fully aware of the high sensitivity and serious harm of the issue, seriously treat the solemn stance of China, honor its commitment and immediately cancel the wrong decision."
-— China’s Vice Foreign Minister Zhang Zhijun> China & Taiwan News
+ Chinas Vice Foreign Minister Zhang Zhijun> China & Taiwan News
 
 
 
@@ -326,7 +326,7 @@ Taiwan Taiex: 7,305.50(-230.38)
 
 Country Info About ChinaVisit the World Factbook  for detailed information about China.
 
- 
+
 
 
 This Day in HistorySep. 22
@@ -357,27 +357,27 @@ Show More Readers' Picks
 
 
 
-You are currently reading World News Report, an EIN News publication.
+You are currently reading World News Report, anEINNewspublication.
 
 EIN News provides breaking news coverage on the following topics: 
-Regional / PoliticsAfrica NewsAsia NewsAustralia NewsBalkans NewsCentral Asia NewsBrazil Business TodayCentral Europe OnlineEU Politics TodayCzech Republic NewsEurope NewsInside China TodayLatin America NewsMiddle East NewsRussia & CIS NewsRussia News ServiceUnited States NewsWorld Business NewsWorld Economy NewsWorld NewsWorld Terrorism NewsU.S.Hillary Clinton TodayObama News TodaySarah Palin News TodayTea Party News TodayUS Politics Today IndustryAirline Industry TodayBook Publishing Industry TodayMobile Phone Industry TodayChemical Industry TodayCosmetics & Beauty Industry TodayInsurance Industry TodayMedia Industry TodayMilitary Industry TodayMining Industry TodayMovie Industry TodayMusic Industry TodayPatents and Trademarks TodayShipping & Logistics Industry TodayTextile Industry TodayTobacco Industry TodayTravel Industry TodayWaste Management & Recycling TodayAutomotiveAutomotive Industry TodayElectric Cars News TodayHybrid Cars News TodayMotorcycle News TodayTire Industry TodayTruck Industry TodayFood / BeveragesAgriculture Industry TodayBeverage Industry TodayFast Food News TodayFood Industry TodayFood Safety News TodayOrganic Food News TodaySeafood News Today Health / PharmaceuticalsAutism News TodayBrain Cancer News TodayBreast Cancer News TodayDental Industry TodayH1N1 News TodayHealthcare Industry TodayLung Cancer News TodayMesothelioma News TodayPharmaceutical Industry TodayProstate Cancer News TodayScience / TechnologyBiotechnology News TodayEnvironmental News TodayGlobal Warming News TodayIT Industry TodayNanotechnology News TodaySemiconductor Industry TodaySoftware Industry TodayTechnology TodayVideo Games Industry TodayEnergyBiofuel Industry TodayElectric Power News TodayEnergy Industry TodayEthanol News TodayGeothermal Power News TodayNatural Gas Industry TodayNuclear Power News TodayOil & Gas Industry TodayPower Plant News TodayRenewable Energy News TodaySolar Energy Industry TodayWind Energy Industry Today Company Daily ReportsAirbus Daily ReportBoeing Daily ReportBP Energy Daily ReportCoca-Cola Daily ReportConocoPhillips Daily ReportExxon Mobil Daily ReportGazprom Daily ReportGlaxoSmithKline Daily ReportMerck Daily ReportPepsi-Cola Daily ReportPfizer Daily ReportShell Energy Daily ReportStarbucks Daily ReportToyota Daily ReportSocietyEducation News TodayGay Rights News TodayHuman Rights TodayInternational Development News TodayReligion TodayBusiness / FinanceBanking Industry TodayBrazil Business TodayConferences & Trade Shows TodayConsumer News TodayInternational Employment TodayFinance Industry TodayFOREX Trading News TodayGold Industry TodayGlobal Investing TodayIPO News TodayMarketing & Advertising Industry TodayResidential Real Estate TodayInternational Trade News Today
+Regional / PoliticsAfrica NewsAsia NewsAustralia NewsBalkans NewsCentral Asia NewsBrazil Business TodayCentral Europe OnlineEU Politics TodayCzech Republic NewsEurope NewsInside China TodayLatin America NewsMiddle East NewsRussia & CIS NewsRussia News ServiceUnited States NewsWorld Business NewsWorld Economy NewsWorld NewsWorld Terrorism NewsU.S.Hillary Clinton TodayObama News TodaySarah Palin News TodayTea Party News TodayUS Politics TodayIndustryAirline Industry TodayBook Publishing Industry TodayMobile Phone Industry TodayChemical Industry TodayCosmetics & Beauty Industry TodayInsurance Industry TodayMedia Industry TodayMilitary Industry TodayMining Industry TodayMovie Industry TodayMusic Industry TodayPatents and Trademarks TodayShipping & Logistics Industry TodayTextile Industry TodayTobacco Industry TodayTravel Industry TodayWaste Management & Recycling TodayAutomotiveAutomotive Industry TodayElectric Cars News TodayHybrid Cars News TodayMotorcycle News TodayTire Industry TodayTruck Industry TodayFood / BeveragesAgriculture Industry TodayBeverage Industry TodayFast Food News TodayFood Industry TodayFood Safety News TodayOrganic Food News TodaySeafood News TodayHealth / PharmaceuticalsAutism News TodayBrain Cancer News TodayBreast Cancer News TodayDental Industry TodayH1N1 News TodayHealthcare Industry TodayLung Cancer News TodayMesothelioma News TodayPharmaceutical Industry TodayProstate Cancer News TodayScience / TechnologyBiotechnology News TodayEnvironmental News TodayGlobal Warming News TodayIT Industry TodayNanotechnology News TodaySemiconductor Industry TodaySoftware Industry TodayTechnology TodayVideo Games Industry TodayEnergyBiofuel Industry TodayElectric Power News TodayEnergy Industry TodayEthanol News TodayGeothermal Power News TodayNatural Gas Industry TodayNuclear Power News TodayOil & Gas Industry TodayPower Plant News TodayRenewable Energy News TodaySolar Energy Industry TodayWind Energy Industry TodayCompany Daily ReportsAirbus Daily ReportBoeing Daily ReportBP Energy Daily ReportCoca-Cola Daily ReportConocoPhillips Daily ReportExxon Mobil Daily ReportGazprom Daily ReportGlaxoSmithKline Daily ReportMerck Daily ReportPepsi-Cola Daily ReportPfizer Daily ReportShell Energy Daily ReportStarbucks Daily ReportToyota Daily ReportSocietyEducation News TodayGay Rights News TodayHuman Rights TodayInternational Development News TodayReligion TodayBusiness / FinanceBanking Industry TodayBrazil Business TodayConferences & Trade Shows TodayConsumer News TodayInternational Employment TodayFinance Industry TodayFOREX Trading News TodayGold Industry TodayGlobal Investing TodayIPO News TodayMarketing & Advertising Industry TodayResidential Real Estate TodayInternational Trade News Today
 
 
 OTHER EIN NEWS SERVICES
 
-News Publications · In-depth geopolitical and industry specific news coverage aggregated from 35,000 online outlets. Updated every 15 minutes.
-News Alerts · Receive a free selection of the day's top stories hand picked by EIN News editors.
-Newsfeed Maker · Integrate customized newsfeeds in any format covering all industry and geopolitical topics, updated every 15 minutes.
-EIN Presswire · Upload press releases to the EIN network and have them submitted to journalists and decision-makers worldwide.
-EIN Events · Add trade events to the World Trade Shows & Business Conferences Directory. They will be shown to the people you want to reach.
-Inbox Robot · Customized newsletters delivered by e-mail. Search a news index monitoring thousands of trusted media sources.
-EIN Marketplace · Designed to help small businesses tap into the EIN News audience of industry professionals.
+News Publications  In-depth geopolitical and industry specific news coverage aggregated from 35,000 online outlets. Updated every 15 minutes.
+News Alerts  Receive afree selection of the day's top stories hand picked by EIN News editors.
+Newsfeed Maker  Integrate customized newsfeeds in any format covering all industry and geopolitical topics, updated every 15 minutes.
+EIN Presswire  Upload press releases to the EIN network and have them submitted to journalists and decision-makers worldwide.
+EIN Events  Add trade events to the World Trade Shows & Business Conferences Directory. They will be shown to the people you want to reach.
+Inbox Robot  Customized newsletters delivered by e-mail. Search a news index monitoring thousands of trusted media sources.
+EIN Marketplace  Designed to help small businesses tap into the EIN News audience of industry professionals.
 
 
 ABOUT
 
-About EIN News · Established in 1995, EIN News began by supplying business professionals and individuals with relevant and interesting news products. It has grown to become the largest digital news provider in Europe.
-Member List · See the partial member list and join a community of professionals from private industry, institutions, and governments that rely on EIN as a critical source for research, breaking news and media services.
+About EIN News  Established in 1995, EINNews began by supplying business professionals and individuals with relevant and interesting news products. It has grown to become the largest digital news provider in Europe.
+Member List  See the partial member list and join acommunity ofprofessionals from private industry, institutions, and governments that rely on EIN as acritical source for research, breaking news and media services.
 
 
 
@@ -386,7 +386,7 @@ Member List · See the partial member list and join a community of professiona
 
 
 
-© 1995 - 2011 IPD Group, Inc. All Rights Reserved. | User Agreement | Privacy Policy | Contact
+ 1995 - 2011 IPD Group, Inc. All Rights Reserved. | User Agreement | Privacy Policy | Contact
 
 
 

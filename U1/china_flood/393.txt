@@ -10,10 +10,10 @@ Javascript is turned off. For the best experience please turn Javascript on!
 E&E HomeAboutContactStart a TrialSubscribe
 
 
-ClimateWireE&E DailyGreenwireE&ENews PM
+ClimateWireE&EDailyGreenwireE&ENewsPM
 
 
-E&ETVLand LetterReports
+E&ETVLandLetterReports
 
 
 
@@ -34,7 +34,7 @@ The politics and business of climate change
 
 
 
-  
+ 
 
 
 
@@ -52,12 +52,12 @@ Thu., Sep. 22Wed., Sep. 21Tue., Sep. 20Mon., Sep. 19Edition Archive
 
 
 
-TODAY'S EDITION: Thursday, September 22, 2011 -- 08:43 AM
+TODAY'S EDITION: Thursday,September22,2011--08:43AM
 
 
 
-Read full edition&nbspRead full edition
-Customize edition&nbspCustomize edition
+Readfulledition&nbspReadfulledition
+Customizeedition&nbspCustomizeedition
 
 
 
@@ -70,7 +70,7 @@ A Sherpa's view of the melting of the Himalayan glaciers
 
 				
 					NAMCHE BAZAAR, Nepal -- By this time next month, Kancha Sherpa will, once again, become a busy man. At 79, he is the last living guide among the 103 guides who accompanied the famous mountaineer Sir Edmund Hillary on the first successful 1953 expedition to Everest. Come peak tourist season in this town of Internet cafes and gear shops that serves as the gateway to Mount Everest Base Camp, Kancha Sherpa will be besieged by journalists and climbers alike, eager to hear his memories of the ascent. 
-					Go to story #1
+					Gotostory#1
 
 
 
@@ -159,7 +159,7 @@ New COMPETE report says deregulated electricity markets will boost economy
 
 
 
-Climate Digest
+ClimateDigest
 
 
 
@@ -168,13 +168,13 @@ Climate Digest: Top climate stories from E&E's newsroom&nbsp
 
 
 
-The House Energy and Commerce Committee yesterday voted to clear two bills delaying the Obama administration's new rules for industrial boilers and cement kilns, setting up another floor fight on the future of the Clean Air Act. (E&ENews PM, 09/21/2011)
-Following a tumultuous spring that briefly left the popular Department of Energy competition homeless, the Solar Decathlon returns to Washington, D.C., today at a dramatic time for solar industry in general. (E&ENews PM, 09/21/2011)
+The House Energy and Commerce Committee yesterday voted to clear two bills delaying the Obama administration's new rules for industrial boilers and cement kilns, setting up another floor fight on the future of the Clean Air Act. (E&ENewsPM, 09/21/2011)
+Following a tumultuous spring that briefly left the popular Department of Energy competition homeless, the Solar Decathlon returns to Washington, D.C., today at a dramatic time for solar industry in general. (E&ENewsPM, 09/21/2011)
 Allowing oil and gas drilling on 3 percent of the sprawling Arctic National Wildlife Refuge could provide hundreds of billions of dollars in new revenue and thousands of new jobs while causing minimal impacts to the environment, Alaska officials, lawmakers and local leaders said. (Greenwire, 09/21/2011)
 
 
   "God is not happy." (ClimateWire, 09/22/2011)
-The top Republican on the Senate Energy and Natural Resources Committee blasted Democratic leaders Tuesday for not following through on their promises of an energy policy debate. (E&E Daily, 09/21/2011)
+The top Republican on the Senate Energy and Natural Resources Committee blasted Democratic leaders Tuesday for not following through on their promises of an energy policy debate. (E&EDaily, 09/21/2011)
 What should children be taught about climate change? Authors and educators are wrestling with that question, which has been further complicated by clashing opinions on climate change and science. (Greenwire, 09/21/2011)
 
 
@@ -217,7 +217,7 @@ Receive E-mail Alerts
 
 
 
- 
+
 
 Advertisement
 
@@ -231,7 +231,7 @@ E&E Daily&nbspMore Headlines&nbspMore HeadlinesThursday, September 22, 2011 -- 0
 
 Greenwire&nbspMore Headlines&nbspMore HeadlinesThursday, September 22, 2011 -- 12:37 PMWATER:Determined Fla. city digs deep to expand suppliesAIR POLLUTION:EPA will enforce Bush-era ozone limit -- JacksonSOLYNDRA:Issa, DOE official clash over Obama's early role in loan guaranteeAIR POLLUTION:Texas sues EPA over interstate emissions rule
 
- 
+
 
 
 
@@ -268,7 +268,7 @@ FERC, public service commissioners discuss smart grid outlook (09/20/2011)
 
 
 
- 
+
 
 
 Return to the top of the page.
@@ -276,7 +276,7 @@ Return to the top of the page.
 
 
 
-E&E HomeAboutStart a TrialGet E-mail AlertsAdvertiseStaff DirectoryReportsPublic SiteRSS
+E&EHomeAboutStartaTrialGet E-mail AlertsAdvertiseStaffDirectoryReportsPublicSiteRSS
 
 
 E&E Publishing&nbspClimateWire&nbspE&E Daily&nbspGreenwire&nbspLand Letter&nbspE&ENews PM&nbspE&ETV&nbsp
@@ -284,7 +284,7 @@ E&E Publishing&nbspClimateWire&nbspE&E Daily&nbspGreenwire&nbspLand Letter&nbspE
 
 
 The Premier Information Source for Professionals Who Track Environmental and Energy Policy.
-© 1996-2011 E&E Publishing, LLC  Privacy Policy  Site Map
+ 1996-2011 E&E Publishing, LLCPrivacy PolicySite Map
 
 
 

@@ -27,16 +27,16 @@ Middle East
 
 
 English
-Français
+Franais
 Deutsch
 Italiano
-Español
-Português
-Türkçe
-Українська
-Pусский
-عــربي
-فارسی
+Espaol
+Portugus
+Trke
+
+P
+
+
 
 
 
@@ -124,11 +124,11 @@ Over 100 dead in China floods 15/06/2011 11:03 CET
 
 Over half a million people have been evacuated in southern China after four days of torrential rain flooded vast areas of seven provinces. 
 State media are saying that at least 105 people have been killed and 65 are missing.
-The government has raised its disaster alert to four – its highest – and the floods are being described as the worst in over 50 years. 
+The government has raised its disaster alert to four  its highest  and the floods are being described as the worst in over 50 years. 
 The army has been mobilized to help with the relief operation. Thousands of people are trapped in their homes waiting to be rescued. Others are doing what they can to help themselves. 
 The worst affected area is in Zhejiang Province where two dykes were breached on Thursday. The waters from the Qianting River poured into two towns and 21 villages.  
 In some places the problem has been made worse by landslides which have blocked rivers and caused further flooding. 
-Forecasters are warning of more rain in the coming days especially in the south-west.Copyright © 2011 euronews
+Forecasters are warning of more rain in the coming days especially in the south-west.Copyright  2011 euronews
 
 
 
@@ -150,10 +150,10 @@ Forecasters are warning of more rain in the coming days especially in the south-
 
 Latest world news
 
-Papandreou tells Greeks ‘don’t waste sacrifices’22/09 20:03 CET
+Papandreou tells Greeks dont waste sacrifices22/09 20:03 CET
 EU blamed for mistreating migrants in Greece22/09 19:48 CET
 Red Cross urges global food price action22/09 19:31 CET
-‘Don’t confuse power with justice’, Pope tells German…22/09 19:23 CET
+Dont confuse power with justice, Pope tells German22/09 19:23 CET
 Anti-Gaddafi forces hindered by bad organisation22/09 17:34 CET
 Britain makes Bloody Sunday payout offer22/09 17:33 CET
 
@@ -181,16 +181,16 @@ London, United Kingdom
 
 
 
-64°F
-17°C
+64F
+17C
 
                    /
                    
-49°F
-9°C
+49F
+9C
 
 
-More Weather…
+More Weather
 
 
 
@@ -219,14 +219,14 @@ TodayYesterday7 Days
 
 1Death row killer Troy Davis is executed in the US
 2Obama tries to avoid Friday showdown at the UN
-3NATO agrees extension to Libya campaign, as Gaddafi’s hometown is targeted
+3NATO agreesextension toLibya campaign, as Gaddafis hometown is targeted
 4Middle East peace talks must be revived: Obama
 5German MPs plan to boycott papal speech1Italian scientists on trial after earthquake
 2Crisis talks intensify to avoid Mideast diplomatic clash at UN
-3Home of ‘Gaddafi ally’ attacked in Tripoli
+3Home of Gaddafi ally attacked in Tripoli
 4Thousands protest in Japan against nuclear power
-5NATO agrees extension to Libya campaign, as Gaddafi’s hometown is targeted1Lagarde fires off warning to world leaders
-2Berlusconi ‘sex stories’ caught on tape
+5NATO agreesextension toLibya campaign, as Gaddafis hometown is targeted1Lagarde fires off warning to world leaders
+2Berlusconi sex stories caught on tape
 3Thousands protest in Japan against nuclear power
 4US veto set to upset Palestinian UN move
 5Turkey warns Cyprus over oil and gas plans
@@ -406,7 +406,7 @@ the station
 
 
 
-Copyright © euronews 2011
+Copyright  euronews 2011
 euronews - International News
 
 

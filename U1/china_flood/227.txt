@@ -48,7 +48,7 @@ China floods kill 52 people, more rain forecast in south
 
 
 
-English.news.cn   2011-06-08 20:12:59
+English.news.cn 2011-06-08 20:12:59
 FeedbackPrintRSS
 
 
@@ -75,7 +75,7 @@ The drought in Hubei and Anhui has also been eased, but in the nearby province o
 Thunder showers also hit the country's north Tuesday night.
 Two people were killed and one was injured by lightning in Beijing, where more than 1,000 thunder strikes were recorded late Tuesday and early Wednesday.
 In the northern province of Hebei, a wall collapsed in a rainstorm Tuesday evening, killing one passerby and wounding six others.
-According to Shu, southern China will be hit by more rain over the coming few days. He asked local authorities to closely monitor rainfall and water levels and warned of more floods, landslides and mountain torrents. 
+According to Shu, southern China will be hit by more rain over the coming few days. He asked local authorities to closely monitor rainfall and water levels and warned of more floods, landslides and mountain torrents.
 
 
 
@@ -125,7 +125,7 @@ Related News
 
 
 
-•
+
 
 Students from flood-hit area took part in college entrance exam
 
@@ -134,7 +134,7 @@ Students from flood-hit area took part in college entrance exam
 
 
 
-•
+
 
 China floods kill 24, force evacuation of 100,000
 
@@ -143,7 +143,7 @@ China floods kill 24, force evacuation of 100,000
 
 
 
-•
+
 
 Temporary tents offered to rain-triggered floods victims in Guizhou Province
 
@@ -152,7 +152,7 @@ Temporary tents offered to rain-triggered floods victims in Guizhou Province
 
 
 
-•
+
 
 Schools rendered inaccessible in flooded county in Guizhou
 
@@ -161,7 +161,7 @@ Schools rendered inaccessible in flooded county in Guizhou
 
 
 
-•
+
 
 Rain-triggered floods cause damages in SW China's Guizhou
 

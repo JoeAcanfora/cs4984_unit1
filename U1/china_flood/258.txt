@@ -509,9 +509,9 @@ Search for:
 Weather: 
 
 
-						Melbourne 11°C
+						Melbourne 11C
 						-
-						17°C
+						17C
 .
 					 Early shower or two.
 				
@@ -1152,7 +1152,7 @@ Privacy Policy
 Accessibility
 Sitemap
 
-© Herald and Weekly Times. All times AEST (GMT +10) 
+ Herald and Weekly Times. All times AEST (GMT +10) 
 
 
 

@@ -206,7 +206,7 @@ guardian.co.uk,
 The floods in China have caused chaos in many areas. Here, students cross a flooded school playground in the city of Wuhan, Hubei province. Photograph: Getty Images
 
 
-Food prices are expected to rise steeply in China after flooding inundated more than 1 million acres of farmland in eastern provinces, killing at least 100 people and displacing hundreds of thousands more.Weeks of torrential rain in Zhejiang province in the Yangtze delta have caused nearly 6bn yuan (£575m) of damage, reducing vegetable production by 20% and pushing prices in the provincial capital of Hangzhou up by as much as 40%, Xinhua news agency said.The rains have forced almost 1,000 businesses to suspend operations and affected the lives of 5.7 million people, China's official news agency said in a brief report. More than 7,000 homes had collapsed or were otherwise damaged. The rains are expected to continue for two days, stretching from the financial hub of Shanghai in the east to rural Yunnan in the far south-west.Farmers quoted by Xinhua reported shortages of fruit and grains. Prices for green vegetables were up 40%, the agency said, adding pressure to inflation already at a three-year high of 5.5%.Villagers on the outskirts of Zhuji in Zhejiang returned to their homes on Sunday as floodwaters receded. Two towns were inundated and thousands of people were evacuated after the breach of two dykes on Thursday. China has mobilised troops to rescue stricken farmers and distribute food, but some villagers said more could have been done to prevent the flooding."When the flooding first started, the breach was not that huge. We could have easily fixed it," said Shou Qiongdan, 22. "But the government did not do anything. None of the local officials tried to salvage the situation. That's why we have such huge economic losses and so many people being affected by the flooding."In neighbouring Jiangsu province, more than 20cm of rain fell on Suzhou city on Friday night, and the Yangtze river and its tributaries burst their banks, affecting up to 3 million people.
+Food prices are expected to rise steeply in China after flooding inundated more than 1 million acres of farmland in eastern provinces, killing at least 100 people and displacing hundreds of thousands more.Weeks of torrential rain in Zhejiang province in the Yangtze delta have caused nearly 6bn yuan (575m) of damage, reducing vegetable production by 20% and pushing prices in the provincial capital of Hangzhou up by as much as 40%, Xinhua news agency said.The rains have forced almost 1,000 businesses to suspend operations and affected the lives of 5.7 million people, China's official news agency said in a brief report. More than 7,000 homes had collapsed or were otherwise damaged. The rains are expected to continue for two days, stretching from the financial hub of Shanghai in the east to rural Yunnan in the far south-west.Farmers quoted by Xinhua reported shortages of fruit and grains. Prices for green vegetables were up 40%, the agency said, adding pressure to inflation already at a three-year high of 5.5%.Villagers on the outskirts of Zhuji in Zhejiang returned to their homes on Sunday as floodwaters receded. Two towns were inundated and thousands of people were evacuated after the breach of two dykes on Thursday. China has mobilised troops to rescue stricken farmers and distribute food, but some villagers said more could have been done to prevent the flooding."When the flooding first started, the breach was not that huge. We could have easily fixed it," said Shou Qiongdan, 22. "But the government did not do anything. None of the local officials tried to salvage the situation. That's why we have such huge economic losses and so many people being affected by the flooding."In neighbouring Jiangsu province, more than 20cm of rain fell on Suzhou city on Friday night, and the Yangtze river and its tributaries burst their banks, affecting up to 3 million people.
 
 
 
@@ -350,14 +350,14 @@ License/buy our content
 World news
 
 
-China ·															
+China 															
 
 Natural disasters and extreme weather 
 
 Environment
 
 
-Flooding ·															
+Flooding 															
 
 Food 
 
@@ -652,7 +652,7 @@ Last 24 hours
 
 
 
-1. 
+1.
 Troy Davis: 10 reasons why he should not be executed
 
 
@@ -709,7 +709,7 @@ Last 24 hours
 
 
 
-1. 
+1.
 US military chief Mike Mullen accuses Pakistan of backing terror group
 
 
@@ -748,7 +748,7 @@ Bestsellers from the Guardian shop
 
 Milano touch fastening 
 Classic, well-built and reliable leather shoes. Buy one pair and get another pair of your choice free.
-From: £43.90
+From: 43.90
 
 
 
@@ -784,8 +784,8 @@ about 33 minutes ago
 
 
 
-• Read more tweets from our foreign news team
-• Follow all our correspondents on a Twitter list
+Read more tweets from our foreign news team
+Follow all our correspondents on a Twitter list
 
 
 
@@ -800,54 +800,54 @@ This week's bestsellers
 
 
 
-1. 
+1.
 River Cottage Veg Every Day!
 
                         
 	                        by Hugh Fearnley-Whittingstall
                         
                         
-                        £25.00
+                        25.00
 
 
 
-2. 
+2.
 Life and Fate
 
                         
 	                        by Vasily Grossman
                         
                         
-                        £9.99
+                        9.99
 
 
 
-3. 
+3.
 Romantic Poets Collection
 
-£64.00
+64.00
 
 
 
-4. 
+4.
 Short and Sweet
 
                         
 	                        by Dan Lepard
                         
                         
-                        £25.00
+                        25.00
 
 
 
-5. 
+5.
 How Mothers Love
 
                         
 	                        by Naomi Stadlen
                         
                         
-                        £13.99
+                        13.99
 
 
 
@@ -922,8 +922,8 @@ Browse all jobs
 
 
 
-Country Director – Liberia & Haiti
-Liberia or Haiti | €40,532 to €47,417 with benefits
+Country Director  Liberia & Haiti
+Liberia or Haiti | 40,532 to 47,417 with benefits
 CONCERN WORLDWIDE
 
 
@@ -939,12 +939,12 @@ Related information
 
 World news
 
-China · Natural disasters and extreme weather
+China  Natural disasters and extreme weather
 
 
 Environment
 
-Flooding · Food
+Flooding  Food
 
 
 
@@ -1085,7 +1085,7 @@ About guardiannews.com
 
 
 
-© 2011 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+ 2011 Guardian News and Media Limited or its affiliated companies. All rights reserved.
 
 
 

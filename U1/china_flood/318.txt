@@ -280,7 +280,7 @@ Print
 
 
 
-BEIJING — Heavy rain drenched a drought-ravaged swathe of southern and eastern China, killing 52 people and forcing more than 100,000 to evacuate, state media reported on Wednesday.
+BEIJING Heavy rain drenched a drought-ravaged swathe of southern and eastern China, killing 52 people and forcing more than 100,000 to evacuate, state media reported on Wednesday.
     
 
 
@@ -471,9 +471,9 @@ Discussion comments
 
 
 
-“
 
-”
+
+
 
 
 
@@ -880,7 +880,7 @@ Ed
 msnbc tv
 
 
-© 2011 msnbc.com
+ 2011 msnbc.com
 
 About us
 
@@ -938,7 +938,7 @@ Site map
 
 
 
-        Hu Guolin / EPA
+        Hu Guolin/EPA
     
 
 

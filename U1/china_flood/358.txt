@@ -53,7 +53,7 @@ Contact
               Latest events - The 3rd Guangzhou International Theater & Cinema Facilities Import & Export Fair2012
 
 
-              Latest events - IEEE PES Innovative Smart Grid Technologies 2011 Conference / 2nd IEEE PES International conference and Exhibition on “Innovative Smart Grid Technologies – Europe” 
+              Latest events - IEEE PES Innovative Smart Grid Technologies 2011 Conference / 2nd IEEE PES International conference and Exhibition on Innovative Smart Grid Technologies  Europe 
 
 
               Latest events - The 6th Guangzhou (China) International KTV, Disco , Bar Equipment & Supplies Exhibition2012
@@ -72,7 +72,7 @@ Contact
 
 
 
-All Conferences by Date
+All Conferences byDate
 
 
 
@@ -218,7 +218,7 @@ Sat
 
 
 
-Trade Shows & Conferences by Country
+Trade Shows & Conferences byCountry
 
 
 
@@ -266,7 +266,7 @@ Show all countries
 
 
 
-Trade Shows & Conferences by U.S. State
+Trade Shows & Conferences byU.S. State
 
 
 
@@ -294,7 +294,7 @@ Show all U.S. States
 
 
 
-Trade Shows & Conferences by Category
+Trade Shows & Conferences byCategory
 
 
 
@@ -483,7 +483,7 @@ The 3rd Guangzhou International Theater & Cinema Facilities Import & Export Fair
 The 6th Guangzhou (China) International KTV, Disco , Bar Equipment & Supplies Exhibition2012
 
 
-IEEE PES Innovative Smart Grid Technologies 2011 Conference / 2nd IEEE PES International conference and Exhibition on “Innovative Smart Grid Technologies – Europe”
+IEEE PES Innovative Smart Grid Technologies 2011 Conference / 2nd IEEE PES International conference and Exhibition on Innovative Smart Grid Technologies  Europe
 
 
 
@@ -761,7 +761,7 @@ Nigeria
 
 
 
-Who is ´us` and who is ´them´ after 9/11 – Reflections on Language, Culture and Literature in Times of Ideological Clashes
+Who is us` and who is them after 9/11  Reflections on Language, Culture and Literature in Times of Ideological Clashes
 
 
 
@@ -791,7 +791,7 @@ Poland
 
 
 
-InterTexts  a one-day conference on interdisciplinarity
+InterTexts  a one-day conference on interdisciplinarity
 
 
 
@@ -1034,7 +1034,7 @@ Montreal
 
                   How has cinema, as a key display practice of the
                   20th century, helped to generate and contest
-                  notions of Europeanness? We welcome papers
+                  notions of Europeanness? We welcome papers
                   exploring any aspect of the relation between
                   European cinema(s) and display from the 19th
                   century to the p
@@ -1057,7 +1057,7 @@ Last
 
 
 
-        © 2005-2011 IPD Group, Inc. All Right Reserved.
+         2005-2011 IPD Group, Inc. All Right Reserved.
         User Agreement
         |
         Privacy Policy

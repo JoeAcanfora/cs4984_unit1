@@ -46,7 +46,7 @@ About
 
 China Floods News
 
-All China News Sections
+AllChinaNewsSections
 > Floods
 China Floods News. Service for global professionals. Constantly updated news and information about China.
  |
@@ -72,17 +72,17 @@ Enjoy Munich In The Sun And The Snow 2 hrs ago 22 Sep 2011 18:03 GMT ... Posted:
 Myanmar stands firm on Myitsone dam 22 Sep 2011 17:56 GMT ...  effort by Myanmar's military government and the China Power Investment Corp., is expected to produce  ...  to China. Under an agreement signed by Chinese and Myanmar officials, CPI will receive 70  ...  Creation of the Myitsone Dam's reservoir will flood an area larger than Singapore KDNG says.  ...
 Power problems leave trains stranded in NYC, NJ 22 Sep 2011 17:20 GMT ...  toll in crash of bullet trains in China reaches at least 35 The death toll from  ...  try. Choppers rescue tourists caught by Cambodian flood Flash floods at a centuries-old temple in  ...  the two podmates released in deep Atlantic waters on Saturday. There's no timeline for that,  ...
 Flooded river hits Sichuan, leave 25 dead 22 Sep 2011 17:01 GMT ... BEIJING, Sept. 22 (UPI) -- The swollen Qujiang  ...  River passed through Sichuan province in southwest China, leaving at least 25 people dead and 14  ...  River to overflow its banks and cause flooding along its path, China's state-run Xinhua news  ...
-Pity the poor dam planner 22 Sep 2011 15:42 GMT ... Usually, when people think about how we’ll adapt  ...  climate, they think famine in Africa or floods in Bangladesh or dengue fever run wild.  ...  all wrong. Typically, dam engineers study historical water data and decide on a flow rate  ...
+Pity the poor dam planner 22 Sep 2011 15:42 GMT ... Usually, when people think about how well adapt  ...  climate, they think famine in Africa or floods in Bangladesh or dengue fever run wild.  ...  all wrong. Typically, dam engineers study historical water data and decide on a flow rate  ...
 Enjoy Munich In The Sun And The Snow 22 Sep 2011 15:22 GMT ... Posted: 5:47 am PDT September 20, 2011 Updated:  ...  the warmer months. Locals and tourists alike flood the streets and fill cafes. Take advantage  ...  and bratwurst for the most part. The Chinese Tower Beer Garden, in the large city  ...
 China, Japan to send tents for flood victims: NDMA 22 Sep 2011 14:41 GMT ...  Management Authority (NDMA) on Thursday said that China and Japan have announced to send tents for flood affectees.Addressing a joint press conference with renowned  ...  of medicines, blankets, mosquito nets, Hygiene kits, water purifications tablets etc. He said 8,188,000 people  ...
-Death toll from month of flooding in China rises 22 Sep 2011 14:16 GMT ... BEIJING (AP) — The death toll from a month of flooding triggered by heavy rains across China has climbed to 90, with another 22 people missing. The Ministry of Civil Affairs website  ...
+Death toll from month of flooding in China rises 22 Sep 2011 14:16 GMT ... BEIJING (AP)  The death toll from a month of flooding triggered by heavy rains across China has climbed to 90, with another 22 people missing. The Ministry of Civil Affairs website  ...
 Death toll from month of flooding in China at 90 22 Sep 2011 14:10 GMT ...  Shaanxi and Sichuan, the ministry reported. The floods in Shaanxi in the northwest are the  ...  years, Xinhua News Agency reported. In Sichuan, water levels of the Qujiang River rose about  ...  in water and people rowing to safety. China's Meteorological Administration reported that more than 40  ...
 Madison's ethnic grocery stores offer a culinary trip around the world 22 Sep 2011 12:43 GMT ...  time to wander the aisles of Madison's Chinese and Japanese markets will find far more  ...  Lee said she would ice skate on flooded, frozen rice fields in the wintertime. Instead  ...  goods and sauces imported from Thailand or China make up a large part of the  ...
 The Mongol Rally: All the way to Ulaanbaatar in an ambulance 22 Sep 2011 11:31 GMT ...  sheepishly admits that they accidentally ventured into China. Oops. The reality of life on the Rally  ...  quickly apparent. After stocking up on petrol, water and cheap Mongolian vodka we set off  ...  navigate over various streams and rivers without flooding our engines. The convoy suffers a loss  ...
 Flash floods in quake-hit Sikkim, 116 dead 22 Sep 2011 09:02 GMT ...  state was on Thursday hit by flash floods. The flash floods hit Lachung, located in  ...  Lachung, located in north Sikkim district near China border, damaging at least two houses, including one  ...  in camps, and to restore connectivity and water supply. On arrival Chidambaram visited the STNM  ...
 
 
-1 - 15 / 851      NEXT 
+1 - 15 / 851NEXT 
 Powered by 
 NOT SATISFIED WITH THIS FLOODS NEWS SECTION? TRY OUR OTHER MEDIA MONITORING SERVICES.
 
@@ -92,7 +92,6 @@ NOT SATISFIED WITH THIS FLOODS NEWS SECTION? TRY OUR OTHER MEDIA MONITORING SERV
 <<< Please read the disclaimer for more details.>>>
 
 
- 
 
 
 
@@ -105,7 +104,8 @@ NOT SATISFIED WITH THIS FLOODS NEWS SECTION? TRY OUR OTHER MEDIA MONITORING SERV
 
 
 
- 
+
+
 
 
 
@@ -144,7 +144,7 @@ The Guy Who Stole Turkey Dinner! [22 Sep 2011] Marketwire
 Pegasystems Thought Leader Contributes to Adaptive Case Management Book  [22 Sep 2011] Marketwire
 Cloudera Unveils Speaker and Exhibitor Lineup for Hadoop World 2011: "Hadoop for the Data Driven Enterprise"  [22 Sep 2011] Marketwire
 Queen Grace to Participate in Howard University Homecoming Fashion Show  [22 Sep 2011] Marketwire
-see all  press releases » 
+see all  press releases  
 
 
  |
@@ -218,7 +218,7 @@ get free trial
 
 get free trial
 
-see all publications »
+see all publications 
 
 
 
@@ -243,14 +243,14 @@ Is the situation ripe for Palestine to get a UN seat? (Sep. 20, 2011)
  Yes.
  No.
  Don't know.
- 
+
 
 
 
 
 
 Quote of the Day"China strongly urges the United States to be fully aware of the high sensitivity and serious harm of the issue, seriously treat the solemn stance of China, honor its commitment and immediately cancel the wrong decision."
-— China’s Vice Foreign Minister Zhang Zhijun> China & Taiwan News
+ Chinas Vice Foreign Minister Zhang Zhijun> China & Taiwan News
 
 
 
@@ -326,7 +326,7 @@ Taiwan Taiex: 7,305.50(-230.38)
 
 Country Info About ChinaVisit the World Factbook  for detailed information about China.
 
- 
+
 
 
 This Day in HistorySep. 22
@@ -357,27 +357,27 @@ Show More Readers' Picks
 
 
 
-You are currently reading World News Report, an EIN News publication.
+You are currently reading World News Report, anEINNewspublication.
 
 EIN News provides breaking news coverage on the following topics: 
-Regional / PoliticsAfrica NewsAsia NewsAustralia NewsBalkans NewsCentral Asia NewsBrazil Business TodayCentral Europe OnlineEU Politics TodayCzech Republic NewsEurope NewsInside China TodayLatin America NewsMiddle East NewsRussia & CIS NewsRussia News ServiceUnited States NewsWorld Business NewsWorld Economy NewsWorld NewsWorld Terrorism NewsU.S.Hillary Clinton TodayObama News TodaySarah Palin News TodayTea Party News TodayUS Politics Today IndustryAirline Industry TodayBook Publishing Industry TodayMobile Phone Industry TodayChemical Industry TodayCosmetics & Beauty Industry TodayInsurance Industry TodayMedia Industry TodayMilitary Industry TodayMining Industry TodayMovie Industry TodayMusic Industry TodayPatents and Trademarks TodayShipping & Logistics Industry TodayTextile Industry TodayTobacco Industry TodayTravel Industry TodayWaste Management & Recycling TodayAutomotiveAutomotive Industry TodayElectric Cars News TodayHybrid Cars News TodayMotorcycle News TodayTire Industry TodayTruck Industry TodayFood / BeveragesAgriculture Industry TodayBeverage Industry TodayFast Food News TodayFood Industry TodayFood Safety News TodayOrganic Food News TodaySeafood News Today Health / PharmaceuticalsAutism News TodayBrain Cancer News TodayBreast Cancer News TodayDental Industry TodayH1N1 News TodayHealthcare Industry TodayLung Cancer News TodayMesothelioma News TodayPharmaceutical Industry TodayProstate Cancer News TodayScience / TechnologyBiotechnology News TodayEnvironmental News TodayGlobal Warming News TodayIT Industry TodayNanotechnology News TodaySemiconductor Industry TodaySoftware Industry TodayTechnology TodayVideo Games Industry TodayEnergyBiofuel Industry TodayElectric Power News TodayEnergy Industry TodayEthanol News TodayGeothermal Power News TodayNatural Gas Industry TodayNuclear Power News TodayOil & Gas Industry TodayPower Plant News TodayRenewable Energy News TodaySolar Energy Industry TodayWind Energy Industry Today Company Daily ReportsAirbus Daily ReportBoeing Daily ReportBP Energy Daily ReportCoca-Cola Daily ReportConocoPhillips Daily ReportExxon Mobil Daily ReportGazprom Daily ReportGlaxoSmithKline Daily ReportMerck Daily ReportPepsi-Cola Daily ReportPfizer Daily ReportShell Energy Daily ReportStarbucks Daily ReportToyota Daily ReportSocietyEducation News TodayGay Rights News TodayHuman Rights TodayInternational Development News TodayReligion TodayBusiness / FinanceBanking Industry TodayBrazil Business TodayConferences & Trade Shows TodayConsumer News TodayInternational Employment TodayFinance Industry TodayFOREX Trading News TodayGold Industry TodayGlobal Investing TodayIPO News TodayMarketing & Advertising Industry TodayResidential Real Estate TodayInternational Trade News Today
+Regional / PoliticsAfrica NewsAsia NewsAustralia NewsBalkans NewsCentral Asia NewsBrazil Business TodayCentral Europe OnlineEU Politics TodayCzech Republic NewsEurope NewsInside China TodayLatin America NewsMiddle East NewsRussia & CIS NewsRussia News ServiceUnited States NewsWorld Business NewsWorld Economy NewsWorld NewsWorld Terrorism NewsU.S.Hillary Clinton TodayObama News TodaySarah Palin News TodayTea Party News TodayUS Politics TodayIndustryAirline Industry TodayBook Publishing Industry TodayMobile Phone Industry TodayChemical Industry TodayCosmetics & Beauty Industry TodayInsurance Industry TodayMedia Industry TodayMilitary Industry TodayMining Industry TodayMovie Industry TodayMusic Industry TodayPatents and Trademarks TodayShipping & Logistics Industry TodayTextile Industry TodayTobacco Industry TodayTravel Industry TodayWaste Management & Recycling TodayAutomotiveAutomotive Industry TodayElectric Cars News TodayHybrid Cars News TodayMotorcycle News TodayTire Industry TodayTruck Industry TodayFood / BeveragesAgriculture Industry TodayBeverage Industry TodayFast Food News TodayFood Industry TodayFood Safety News TodayOrganic Food News TodaySeafood News TodayHealth / PharmaceuticalsAutism News TodayBrain Cancer News TodayBreast Cancer News TodayDental Industry TodayH1N1 News TodayHealthcare Industry TodayLung Cancer News TodayMesothelioma News TodayPharmaceutical Industry TodayProstate Cancer News TodayScience / TechnologyBiotechnology News TodayEnvironmental News TodayGlobal Warming News TodayIT Industry TodayNanotechnology News TodaySemiconductor Industry TodaySoftware Industry TodayTechnology TodayVideo Games Industry TodayEnergyBiofuel Industry TodayElectric Power News TodayEnergy Industry TodayEthanol News TodayGeothermal Power News TodayNatural Gas Industry TodayNuclear Power News TodayOil & Gas Industry TodayPower Plant News TodayRenewable Energy News TodaySolar Energy Industry TodayWind Energy Industry TodayCompany Daily ReportsAirbus Daily ReportBoeing Daily ReportBP Energy Daily ReportCoca-Cola Daily ReportConocoPhillips Daily ReportExxon Mobil Daily ReportGazprom Daily ReportGlaxoSmithKline Daily ReportMerck Daily ReportPepsi-Cola Daily ReportPfizer Daily ReportShell Energy Daily ReportStarbucks Daily ReportToyota Daily ReportSocietyEducation News TodayGay Rights News TodayHuman Rights TodayInternational Development News TodayReligion TodayBusiness / FinanceBanking Industry TodayBrazil Business TodayConferences & Trade Shows TodayConsumer News TodayInternational Employment TodayFinance Industry TodayFOREX Trading News TodayGold Industry TodayGlobal Investing TodayIPO News TodayMarketing & Advertising Industry TodayResidential Real Estate TodayInternational Trade News Today
 
 
 OTHER EIN NEWS SERVICES
 
-News Publications · In-depth geopolitical and industry specific news coverage aggregated from 35,000 online outlets. Updated every 15 minutes.
-News Alerts · Receive a free selection of the day's top stories hand picked by EIN News editors.
-Newsfeed Maker · Integrate customized newsfeeds in any format covering all industry and geopolitical topics, updated every 15 minutes.
-EIN Presswire · Upload press releases to the EIN network and have them submitted to journalists and decision-makers worldwide.
-EIN Events · Add trade events to the World Trade Shows & Business Conferences Directory. They will be shown to the people you want to reach.
-Inbox Robot · Customized newsletters delivered by e-mail. Search a news index monitoring thousands of trusted media sources.
-EIN Marketplace · Designed to help small businesses tap into the EIN News audience of industry professionals.
+News Publications  In-depth geopolitical and industry specific news coverage aggregated from 35,000 online outlets. Updated every 15 minutes.
+News Alerts  Receive afree selection of the day's top stories hand picked by EIN News editors.
+Newsfeed Maker  Integrate customized newsfeeds in any format covering all industry and geopolitical topics, updated every 15 minutes.
+EIN Presswire  Upload press releases to the EIN network and have them submitted to journalists and decision-makers worldwide.
+EIN Events  Add trade events to the World Trade Shows & Business Conferences Directory. They will be shown to the people you want to reach.
+Inbox Robot  Customized newsletters delivered by e-mail. Search a news index monitoring thousands of trusted media sources.
+EIN Marketplace  Designed to help small businesses tap into the EIN News audience of industry professionals.
 
 
 ABOUT
 
-About EIN News · Established in 1995, EIN News began by supplying business professionals and individuals with relevant and interesting news products. It has grown to become the largest digital news provider in Europe.
-Member List · See the partial member list and join a community of professionals from private industry, institutions, and governments that rely on EIN as a critical source for research, breaking news and media services.
+About EIN News  Established in 1995, EINNews began by supplying business professionals and individuals with relevant and interesting news products. It has grown to become the largest digital news provider in Europe.
+Member List  See the partial member list and join acommunity ofprofessionals from private industry, institutions, and governments that rely on EIN as acritical source for research, breaking news and media services.
 
 
 
@@ -386,7 +386,7 @@ Member List · See the partial member list and join a community of professiona
 
 
 
-© 1995 - 2011 IPD Group, Inc. All Rights Reserved. | User Agreement | Privacy Policy | Contact
+ 1995 - 2011 IPD Group, Inc. All Rights Reserved. | User Agreement | Privacy Policy | Contact
 
 
 

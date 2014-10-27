@@ -190,7 +190,7 @@ Like
 
 
 
- 
+
 
 
 
@@ -198,8 +198,8 @@ Like
 
 
 CONNECT
- 
- 
+
+
 
 
 
@@ -489,7 +489,7 @@ Follow
 
 
 
- 
+
 
 														China
 													
@@ -590,7 +590,7 @@ stumble
 
 
 
-BEIJING (Reuters) – Heavy rain drenched a drought-ravaged swathe of southern and eastern China, killing 52 people and forcing more than 100,000 to evacuate, state media reported on Wednesday.
+BEIJING (Reuters)  Heavy rain drenched a drought-ravaged swathe of southern and eastern China, killing 52 people and forcing more than 100,000 to evacuate, state media reported on Wednesday.
 The deaths have been concentrated in the poor southern province of Guizhou, where tens of thousands have left their homes to escape the rising waters over the past few days, the official Xinhua news agency said.
 Another 32 people were missing, the report added, suggesting the death toll could rise.
 Almost 8,000 houses have been destroyed by the floods and thousands of hectares (acres) of farmland inundated, it said.
@@ -699,13 +699,13 @@ China
 
 				
 
-BEIJING (Reuters) – Heavy rain drenched a drought-ravaged swathe of southern and eastern China, killing 52 people and forcing more than 100,000 to evacuate, state media reported on Wednesday.
+BEIJING (Reuters)  Heavy rain drenched a drought-ravaged swathe of southern and eastern China, killing 52 people and forcing more than 100,000 to evacuate, state media reported on Wednesday.
 
 ...			
 
 				
 
-BEIJING (Reuters) – Heavy rain drenched a drought-ravaged swathe of southern and eastern China, killing 52 people and forcing more than 100,000 to evacuate, state media reported on Wednesday.
+BEIJING (Reuters)  Heavy rain drenched a drought-ravaged swathe of southern and eastern China, killing 52 people and forcing more than 100,000 to evacuate, state media reported on Wednesday.
 
 ...			
 
@@ -768,7 +768,7 @@ Loading...
 
 
 
- 
+
 
 
 
@@ -856,7 +856,7 @@ Around the Web:
 
 Filed by Curtis M. Wong
 
-												 | 
+												|
 										
 										
 								
@@ -877,7 +877,7 @@ Palestine Statehood Bid: Obama Slammed By ProtestersRussia: Car Bomb Rocks Dages
 
 
 
- 
+
 
 
 
@@ -946,7 +946,7 @@ Favorites
 
 
 Recency
-							 | 
+							|
 						
 
 Popularity
@@ -976,7 +976,7 @@ EcoHustler
 
 
 
- 
+
 
 
 
@@ -989,9 +989,9 @@ EcoHustler
 					05:33 AM on 6/09/2011				
 
 																												
-				It is a disturbing sign of the times that there was a large Shell advert in the middle of this article when I read it. The big oil companies are investing billions in going for the last hard-to-re­ach reserves of fossil fuels which is destroying our last precious wilderness­es and worsening climate change, increasing the likelihood of more extreme weather.
+				It is a disturbing sign of the times that there was a large Shell advert in the middle of this article when I read it. The big oil companies are investing billions in going for the last hard-to-reach reserves of fossil fuels which is destroying our last precious wildernesses and worsening climate change, increasing the likelihood of more extreme weather.
 
-I am sure AOLHuffpos­t doesn't mind, as it wallows in the cash, and anyway, these oil companies can afford the best PR firms, so the adverts look nice, and may just kid people that we are not burning our planet up in a deranged, myopic trance.			
+I am sure AOLHuffpost doesn't mind, as it wallows in the cash, and anyway, these oil companies can afford the best PR firms, so the adverts look nice, and may just kid people that we are not burning our planet up in a deranged, myopic trance.			
 
 
 EcoHustler: It is a disturbing sign of the times that there
@@ -999,12 +999,12 @@ http://www.huffingtonpost.com/social/EcoHustler/china-floods-kill-52-people-forc
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1040,7 +1040,7 @@ TYRANNASAURUS
 					06:30 PM on 6/08/2011				
 
 																												
-				Deadly Floods Kill Dozens, Force 100,000 To Evacuate in China.....­......Heav­y rain drenched a drought-ra­vaged swathe of southern and eastern China.....­I've been following this ...the drought destroyed thousands of acres of crops and now the floods are carrying away whatever was left...... it amazes me that so many people are not alarmed by global warming.			
+				Deadly Floods Kill Dozens, Force 100,000 To Evacuate in China...........Heavy rain drenched a drought-ravaged swathe of southern and eastern China.....I've been following this ...the drought destroyed thousands of acres of crops and now the floods are carrying away whatever was left...... it amazes me that so many people are not alarmed by global warming.			
 
 
 TYRANNASAURUS: Deadly Floods Kill Dozens, Force 100,000 To Evacuate in China...........Heavy
@@ -1048,12 +1048,12 @@ http://www.huffingtonpost.com/social/TYRANNASAURUS/china-floods-kill-52-people-f
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1080,7 +1080,7 @@ LeylaLoveXO
 
 
 
- 
+
 
 
 
@@ -1093,7 +1093,7 @@ LeylaLoveXO
 					09:15 PM on 6/08/2011				
 
 																												
-				thats because people listen to the conservati­ves who laugh it off.. it's easier for these lazy people to justify not doing anything when they deny it exists.. i think more needs to be done, before it is too late, but too many people go with the mentality.­. "only when the last tree has died and the last river been poisoned and the last fish been caught will we realize we cannot eat money". we can't keep trashing our home and expect it to be fine. Serious action needs to be taken!			
+				thats because people listen to the conservatives who laugh it off.. it's easier for these lazy people to justify not doing anything when they deny it exists.. i think more needs to be done, before it is too late, but too many people go with the mentality.. "only when the last tree has died and the last river been poisoned and the last fish been caught will we realize we cannot eat money". we can't keep trashing our home and expect it to be fine. Serious action needs to be taken!			
 
 
 LeylaLoveXO: thats because people listen to the conservatives who laugh it
@@ -1101,12 +1101,12 @@ http://www.huffingtonpost.com/social/LeylaLoveXO/china-floods-kill-52-people-for
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1147,7 +1147,7 @@ Jambala99
 					04:16 PM on 6/08/2011				
 
 																												
-				Question..­.........W­hat happens when you melt the polar ice caps (wit global warming) and THEN introduce trillions of extra gallons of water into the atmosphere­?			
+				Question...........What happens when you melt the polar ice caps (wit global warming) and THEN introduce trillions of extra gallons of water into the atmosphere?			
 
 
 Jambala99: Question...........What happens when you melt the polar ice caps (wit
@@ -1155,12 +1155,12 @@ http://www.huffingtonpost.com/social/Jambala99/china-floods-kill-52-people-force
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1202,12 +1202,12 @@ http://www.huffingtonpost.com/social/who38/china-floods-kill-52-people-force-eva
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1244,7 +1244,7 @@ Jambala99
 					08:36 PM on 6/08/2011				
 
 																												
-				.....almos­t, we will have global torrential flooding (Like we are having in the midwest, China, and last year in Pakistan when half the country was underwater­), we will have storms that are MUCH more intense than normal (like the crazy snowstorms in the Northeast that are causing these huge flooding "Melt Off's", AND all of the tornadoes that we have been experienci­ng in the midwest)..­.....ALL of these things will get worse, and worse.....­.......			
+				.....almost, we will have global torrential flooding (Like we are having in the midwest, China, and last year in Pakistan when half the country was underwater), we will have storms that are MUCH more intense than normal (like the crazy snowstorms in the Northeast that are causing these huge flooding "Melt Off's", AND all of the tornadoes that we have been experiencing in the midwest).......ALL of these things will get worse, and worse............			
 
 
 Jambala99: .....almost, we will have global torrential flooding (Like we are
@@ -1252,12 +1252,12 @@ http://www.huffingtonpost.com/social/Jambala99/china-floods-kill-52-people-force
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1303,12 +1303,12 @@ http://www.huffingtonpost.com/social/linkatlin/china-floods-kill-52-people-force
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1351,12 +1351,12 @@ http://www.huffingtonpost.com/social/corsair1917/china-floods-kill-52-people-for
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1399,12 +1399,12 @@ http://www.huffingtonpost.com/social/Counterintuitive/china-floods-kill-52-peopl
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1446,12 +1446,12 @@ http://www.huffingtonpost.com/social/TYRANNASAURUS/china-floods-kill-52-people-f
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1502,12 +1502,12 @@ http://www.huffingtonpost.com/social/Mondayboy/china-floods-kill-52-people-force
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1549,12 +1549,12 @@ http://www.huffingtonpost.com/social/who38/china-floods-kill-52-people-force-eva
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1590,7 +1590,7 @@ Timma
 
 
 
- 
+
 
 
 
@@ -1611,12 +1611,12 @@ http://www.huffingtonpost.com/social/Timma/china-floods-kill-52-people-force-eva
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1659,12 +1659,12 @@ http://www.huffingtonpost.com/social/Counterintuitive/china-floods-kill-52-peopl
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1702,7 +1702,7 @@ Brown Buddha
 					01:25 PM on 6/08/2011				
 
 																												
-				we won't do a damn thing about it. We are all addicted to modern living. lazy lifestyle, and dollar stores consumeris­m.			
+				we won't do a damn thing about it. We are all addicted to modern living. lazy lifestyle, and dollar stores consumerism.			
 
 
 Brown_Buddha: we won't do a damn thing about it. We are
@@ -1710,12 +1710,12 @@ http://www.huffingtonpost.com/social/Brown_Buddha/china-floods-kill-52-people-fo
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1748,7 +1748,7 @@ corsair1917
 					02:13 PM on 6/08/2011				
 
 																												
-				We live in a disposable society and if we keep it up, we are going to be the ones who are disposable­!			
+				We live in a disposable society and if we keep it up, we are going to be the ones who are disposable!			
 
 
 corsair1917: We live in a disposable society and if we keep
@@ -1756,12 +1756,12 @@ http://www.huffingtonpost.com/social/corsair1917/china-floods-kill-52-people-for
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1796,7 +1796,7 @@ Counterintuitive
 					03:18 PM on 6/08/2011				
 
 																												
-				... so our values leave us 'predispos­ed' to these types of events?			
+				... so our values leave us 'predisposed' to these types of events?			
 
 
 Counterintuitive: ... so our values leave us 'predisposed' to these types
@@ -1804,12 +1804,12 @@ http://www.huffingtonpost.com/social/Counterintuitive/china-floods-kill-52-peopl
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1858,12 +1858,12 @@ http://www.huffingtonpost.com/social/who38/china-floods-kill-52-people-force-eva
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1895,7 +1895,7 @@ blood1
 
 
 
- 
+
 
 
 
@@ -1920,12 +1920,12 @@ http://www.huffingtonpost.com/social/blood1/china-floods-kill-52-people-force-ev
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -1964,7 +1964,7 @@ Jambala99
 																												
 				I think my new friend upstream said it best....
 
-"if big oil can't control the sun's rays solar will never be profitable­"			
+"if big oil can't control the sun's rays solar will never be profitable"			
 
 
 Jambala99: I think my new friend upstream said it best.... "if
@@ -1972,12 +1972,12 @@ http://www.huffingtonpost.com/social/Jambala99/china-floods-kill-52-people-force
 
 
 								History
-							 |
+							|
 						
 
 							Permalink
 						
-												 |						
+												|						
 							Share it
 						
 
@@ -2001,13 +2001,13 @@ http://www.huffingtonpost.com/social/Jambala99/china-floods-kill-52-people-force
 
 
 
- new comment(s) on this entry — Click to refresh
+ new comment(s) on this entry  Click to refresh
 
 
 
 
 
-		Loading comments…
+		Loading comments
 	
 
 
@@ -2452,7 +2452,7 @@ Bee Aware
 
 
 Rep. Carolyn Maloney
-President’s Policies Are Great for Women
+Presidents Policies Are Great for Women
 
 
 
@@ -2497,7 +2497,7 @@ Ahmadinejad Is the Real Threat
 
 
 David Crosby
-Danger Signs: America’s So Nuclear Wasted
+Danger Signs: Americas So Nuclear Wasted
 
 
 
@@ -3066,14 +3066,14 @@ George Clooney
 
 
 
-more big news pages »
+more big news pages 
 			
 
 
 
 
 
- 
+
 
 
 
@@ -3316,7 +3316,7 @@ About Us |
 Contact Us
 
 
-Copyright © 2011 TheHuffingtonPost.com, Inc. | 
+Copyright  2011 TheHuffingtonPost.com, Inc. | 
 "The Huffington Post" is a registered trademark of TheHuffingtonPost.com, Inc. All rights reserved.
 
 

@@ -90,12 +90,12 @@ More
 
 
 
- 
 
 
 
 
- 
+
+
 
 
 
@@ -106,17 +106,17 @@ News
 
 
 
- 
 
 
 
 
- 
 
 
 
 
- 
+
+
+
 
 
 
@@ -208,18 +208,18 @@ Send Feedback
 
 
 
-The flooding has caused more than $700m worth of damage, with the Zhejiang province hit especially hard [Reuters]
+The flooding has caused more than $700m worth of damage,with the Zhejiang province hit especially hard[Reuters]
 
 
 
-More than five million people are believed to have been affected by severe floods in eastern China, amid predictions of further heavy rains in the coming days.
+More than five million people are believed to have been affected by severe floods in eastern China, amid predictions offurther heavy rains in the coming days.
 The Chinese government has raised its disaster alert to the highest level as the flooding has caused more than $700m worth of damage.
-"Severe floods triggered by heavy rains will continue to threaten parts of southern China," Chen Lei, minister of water resources, said on Monday.
+"Severe floods triggered by heavy rains will continue to threaten parts of southern China," Chen Lei, minister of water resources, saidon Monday.
 "There is an increasing possibility that downpours, with enhanced frequency and intensity, will continue to lash regions in the south," he said in a speech posted on his ministry's website.
-Heavy rains hit Zhejiang province over the weekend and the level of a river that passes through Lanxi city has risen sharply, Zhao Fayuan, deputy director of the flood control headquarters, said.
+Heavy rainshit Zhejiang province over the weekend and the level of a river that passes through Lanxi city has risen sharply, Zhao Fayuan, deputy director of the flood control headquarters, said.
 The level of Lanjiang river has now hit 34 metres, the highest since 1966, state-run Xinhua News Agency reported.
 Several sections of the dykes in Lanxi city are barely holding, Zhao said. More than 20,000 people could be affected if the dykes are breached, he said.
-Torrential rains have left huge areas of Hubei and Zhejiang provinces under water, with more than one million acres (432,200 hectares) of farmland inundated, the Xinhua said.
+Torrential rains have left huge areas of Hubei and Zhejiang provinces under water, with more than one million acres (432,200 hectares) of farmland inundated, theXinhua said.
 More than 7,000 homes collapsed or were otherwise damaged and almost 1,000 businesses have been forced to suspend operations.
 Rising death toll
 Flooding in eastern and southern China this month has left more than 170 people dead or missing.
@@ -417,7 +417,7 @@ liability. You hereby provide us with an irrevocable, unlimited, and global lice
 
 use, reuse, delete or publish comments, in accordance with Community 
 
-Rules & Guidelines and Terms and 
+Rules& GuidelinesandTerms and 
 
 Conditions.
 

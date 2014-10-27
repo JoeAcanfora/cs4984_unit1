@@ -1,9 +1,0 @@
-Changing Your Browser Setting     If you are using  Firefox  Under the "Tools" menu, click "Options"   Click the "General" tab on the left   If you are already on the washingtonpost.com homepage, click "Use Current Page", then OK. If not, type http://www.washingtonpost.com in the text box, then OK. If you are using IE, drag this link onto the home button on your browser's toolbar to make us your Home Page. - Or -  Go to the www.washingtonpost.com front page.  Go to the "Tools" menu and choose "Options."  Click on the "General" tab.  Click on the "Use Current Page" button.  Click "OK." If you are using Firefox or Safari for the Mac  Click on "Firefox" in the top left corner and select "Preferences"  If you are not already on the "General" tab, click "General"   Type "http://www.washingtonpost.com/" in the "Location" area  Click the "Enter" button on your keyboard then close  the "Preferences" window.    
-
- 
-   
-
-
-
-
-  

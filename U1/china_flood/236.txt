@@ -16,7 +16,7 @@ Skip to CBC accessibility page
 
 
 
- 
+
 
 
 
@@ -46,11 +46,11 @@ tv drop down menu
 
 
 My Region drop down menu
- 
+
 
 
 More drop down menu
- 
+
 
 
 Watch 
@@ -71,7 +71,7 @@ Sign Up
 Log In
 
 
- 
+
 
 
 
@@ -125,7 +125,7 @@ Jun  7, 2011   3:35 PM ET
 
 
 
- 
+
 Accessibility Links
 
 
@@ -180,7 +180,7 @@ Xinhua, citing county flood officials, reported that the flooding disrupted powe
 About 6,000 students from four schools had to stay at home Tuesday, as their schools were rendered inaccessible by water, the county's education chief Yan Tie said according to Xinhua.  
 Cao Zeying, principal of the county's No. 2 Primary School, said that flooding destroyed the school's 300-metre-long enclosure and submerged several classrooms, with waters on campus 1.6 metres deep on Monday.  
 The provincial civil affairs bureau said floods have hit 14 cities and counties in Guizhou province since June 3, affecting 400,000 people, according to Xinhua. Rain is forecast through Thursday in most of the province.
-© The Associated Press, 2011
+ The Associated Press, 2011
 Accessibility Links
 
 Story Social Media
@@ -233,25 +233,25 @@ Top News Headlines
 
 UN delegations walk out of Ahmadinejad speech  
 
-Delegations from about a dozen countries, including Canada, walked out of the UN General Assembly as Iranian President Mahmoud Ahmadinejad delivered a fiercely anti-American speech.    more »
+Delegations from about a dozen countries, including Canada, walked out of the UN General Assembly as Iranian President Mahmoud Ahmadinejad delivered a fiercely anti-American speech.    more 
 
 
 
 
 TSX falls more than 500  
 
-The Toronto Stock Exchange benchmark index fell more than 500 points Thursday as global markets traded sharply lower and investors reacted to a pessimistic outlook for the global economy. more »
+The Toronto Stock Exchange benchmark index fell more than 500 points Thursday as global markets traded sharply lower and investors reacted to a pessimistic outlook for the global economy. more 
 MacKay defends use of military chopper 
 
-Defence Minister Peter MacKay defended his use of a federal military search and rescue helicopter, saying it was for work, rather than for personal use, while vacationing in central Newfoundland.   more »
+Defence Minister Peter MacKay defended his use of a federal military search and rescue helicopter, saying it was for work, rather than for personal use, while vacationing in central Newfoundland.   more 
 'Pre-riotous behaviour' worried B.C. liquor officials  
 
-Liquor licensing officials noted "pre-riotous behaviour" three days before the final game of the Stanley Cup final, according to documents released by the B.C. government in response to a Freedom of Information request. more »
+Liquor licensing officials noted "pre-riotous behaviour" three days before the final game of the Stanley Cup final, according to documents released by the B.C. government in response to a Freedom of Information request. more 
 Loonie plunges below 97 cents US  
 
-The Canadian dollar has fallen more than two cents to 96.83 US, as nervous investors flock to the relative safety of the U.S. dollar. more »
+The Canadian dollar has fallen more than two cents to 96.83 US, as nervous investors flock to the relative safety of the U.S. dollar. more 
 
-More Headlines »
+More Headlines 
 
 
 
@@ -296,30 +296,30 @@ Latest World News Headlines
 
 UN delegations walk out of Ahmadinejad speech  
 
-Delegations from about a dozen countries, including Canada, walked out of the UN General Assembly as Iranian President Mahmoud Ahmadinejad delivered a fiercely anti-American speech.    more »
+Delegations from about a dozen countries, including Canada, walked out of the UN General Assembly as Iranian President Mahmoud Ahmadinejad delivered a fiercely anti-American speech.    more 
 
 
 
 
 Gadhafi's former prime minister arrested 
 
-Moammar Gadhafi's former prime minister has been arrested in Tunisia, officials said, as Libya's new rulers and NATO warned the fugitive leader and his loyalists that they are running out of places to hide. more »
+Moammar Gadhafi's former prime minister has been arrested in Tunisia, officials said, as Libya's new rulers and NATO warned the fugitive leader and his loyalists that they are running out of places to hide. more 
 Veiled woman seeks French presidency 
 
-Kenza Drider declares her candidacy for the French presidency on Thursday and shows off a campaign poster of herself, hidden by a veil and standing in front of a line of police. more »
+Kenza Drider declares her candidacy for the French presidency on Thursday and shows off a campaign poster of herself, hidden by a veil and standing in front of a line of police. more 
 U.S. dodges Somali militants in aid transactions
 
-The United States is using a controversial money-transfer system to deliver aid directly to Somali famine victims and keep it out of the hands of the militant group al-Shabab.  more »
+The United States is using a controversial money-transfer system to deliver aid directly to Somali famine victims and keep it out of the hands of the militant group al-Shabab.  more 
 Falling satellite chunks will miss North America 
 
-An old satellite set to fall to Earth in pieces will do so on Friday afternoon ET, but won't be over North America when it comes down, NASA says. more »
+An old satellite set to fall to Earth in pieces will do so on Friday afternoon ET, but won't be over North America when it comes down, NASA says. more 
 
-More Headlines »
-
-
+More Headlines 
 
 
-Dispatches »
+
+
+Dispatches
 
 In Haiti, Connie Watson and the army next door Sep. 22, 2011  3:36 PM CBC's Connie Watson found her neighbours in Port-au-Prince to be a lively bunch of uprooted families. Their pigs and goats were no problem.  Nor was the skinny dog she inherited. Then new forces moved in. And we thought Haiti doesn't have a national army!  
 
@@ -511,7 +511,7 @@ Contact Us
 
 CBC Radio-Canada
 
-Copyright © CBC 2011
+Copyright  CBC 2011
 
 cbc.radio-canada.ca
 cbc.ca

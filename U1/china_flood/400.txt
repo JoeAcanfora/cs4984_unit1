@@ -96,7 +96,7 @@ Other ways to buy
 
 
 Search
- 
+
 
 
 Search
@@ -191,16 +191,16 @@ Troubleshooting
 
 
 Download and install Flash Player
-    Windows troubleshooting
-    Windows uninstall
-    Mac troubleshooting and uninstall
+Windows troubleshooting
+Windows uninstall
+Mac troubleshooting and uninstall
 
 Flash Player doesn't work
-    Internet Explorer 9
-    64-bit operating systems
-    Windows 7
-    Mac OS
-    Google Chrome
+Internet Explorer 9
+64-bit operating systems
+Windows 7
+Mac OS
+Google Chrome
 
 Other Flash Player Solutions
 
@@ -278,9 +278,9 @@ Asia Pacific
 
 
 Canada - English
-Canada - Français
-Latinoamérica
-México
+Canada - Franais
+Latinoamrica
+Mxico
 United States
 
 South America
@@ -291,20 +291,20 @@ Brasil
 
 
 Africa - English
-Österreich - Deutsch
+sterreich - Deutsch
 Belgium - English
-Belgique - Français
-België - Nederlands
-България
+Belgique - Franais
+Belgi - Nederlands
+
 Hrvatska
-Česká republika
+esk republika
 Danmark
 Eastern Europe - English
 Eesti
 Suomi
 France
 Deutschland
-Magyarország
+Magyarorszg
 Ireland
 Israel - English
 Italia
@@ -316,39 +316,39 @@ Luxembourg - Deutsch
 
 
 Luxembourg - English
-Luxembourg - Français
+Luxembourg - Franais
 Middle East and North Africa - English
 Nederland
 Norge
 Polska
 Portugal
-România
-Россия
+Romnia
+
 Srbija
 Slovensko
 Slovenija
-España
+Espaa
 Sverige
 Schweiz - Deutsch
-Suisse - Français
+Suisse - Franais
 Svizzera - Italiano
-Türkiye
-Україна
+Trkiye
+
 United Kingdom
 
 
 
 
 Australia
-中国
-中國香港特別行政區
+
+
 Hong Kong S.A.R. of China
 India - English
-日本
-한국
+
+
 New Zealand
 Pacific - English
-台灣
+
 
 Southeast Asia
 
@@ -368,7 +368,7 @@ Ad Choices
 
 
 
-Copyright © 2011 Adobe Systems Incorporated.  All rights reserved.
+Copyright  2011 Adobe Systems Incorporated.  All rights reserved.
 
 Use of this website signifies your agreement to the Terms of Use and Online Privacy Policy (updated 07-14-2009).
 

@@ -4,7 +4,7 @@ Fighting China's Floods - China.org.cn
 
 
 
-Home ︱ News ︱ Photos
+Home  News  Photos
 
 
 
@@ -142,9 +142,8 @@ Full Story
 
 
 
- 
+
 Weather Report 
- 
 
 
 
@@ -154,9 +153,10 @@ Weather Report
 
 
 
- 
+
+
 Links
- 
+
 
 
 
@@ -396,7 +396,7 @@ More>>>
 
 
 
-Copyright © China Internet Information Center. All Rights Reserved
+Copyright  China Internet Information Center. All Rights Reserved
  E-mail: webmaster@china.org.cn Tel: 86-10-88828000(20080321)
 
 

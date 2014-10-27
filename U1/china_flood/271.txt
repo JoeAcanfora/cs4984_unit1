@@ -81,11 +81,11 @@ WSJ Europe
 WSJ Americas
 
 
-en Español
+en Espaol
 													
 
 
-em Português
+em Portugus
 													
 
 
@@ -164,7 +164,7 @@ Message Center ( new)
 
 U.S. Edition Home
 
-↓ More
+ More
 
 
 
@@ -218,13 +218,13 @@ U.S. Edition Home
 
 
 
-                              en Español
+                              en Espaol
                                
 
 
 
 
-                              em Português
+                              em Portugus
                                
 
 
@@ -460,7 +460,7 @@ Register
 
 World
 
-» More
+ More
 
 
 
@@ -471,14 +471,14 @@ World
 
 
 World
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
 
@@ -492,7 +492,7 @@ Loading…
 
 U.S.
 
-» More
+ More
 
 
 
@@ -503,14 +503,14 @@ U.S.
 
 
 U.S.
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
 
@@ -524,7 +524,7 @@ Loading…
 
 New York
 
-» More
+ More
 
 
 
@@ -535,14 +535,14 @@ New York
 
 
 New York
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
 
@@ -556,7 +556,7 @@ Loading…
 
 Business
 
-» More
+ More
 
 
 
@@ -567,14 +567,14 @@ Business
 
 
 Business
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
 
@@ -588,7 +588,7 @@ Loading…
 
 Markets
 
-» More
+ More
 
 
 
@@ -599,14 +599,14 @@ Markets
 
 
 Markets
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
 
@@ -620,7 +620,7 @@ Loading…
 
 Tech
 
-» More
+ More
 
 
 
@@ -631,14 +631,14 @@ Tech
 
 
 Tech
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
 
@@ -652,7 +652,7 @@ Loading…
 
 Personal Finance
 
-» More
+ More
 
 
 
@@ -663,14 +663,14 @@ Personal Finance
 
 
 Personal Finance
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
 
@@ -684,7 +684,7 @@ Loading…
 
 Life & Culture
 
-» More
+ More
 
 
 
@@ -695,14 +695,14 @@ Life & Culture
 
 
 Life & Culture
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
 
@@ -716,7 +716,7 @@ Loading…
 
 Opinion
 
-» More
+ More
 
 
 
@@ -727,14 +727,14 @@ Opinion
 
 
 Opinion
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
 
@@ -748,7 +748,7 @@ Loading…
 
 Careers
 
-» More
+ More
 
 
 
@@ -759,14 +759,14 @@ Careers
 
 
 Careers
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
 
@@ -780,7 +780,7 @@ Loading…
 
 Real Estate
 
-» More
+ More
 
 
 
@@ -791,28 +791,16 @@ Real Estate
 
 
 Real Estate
-» More
+ More
 
 
 
 
 
 
-Loading…
+Loading
 
 
-
-
-
-
-
-
-
-
-
-Small Business
-
-» More
 
 
 
@@ -823,14 +811,26 @@ Small Business
 
 
 Small Business
-» More
+
+ More
 
 
 
 
 
 
-Loading…
+
+
+
+Small Business
+ More
+
+
+
+
+
+
+Loading
 
 
 
@@ -875,7 +875,7 @@ Energy
 CFO Journal
 
 
- 
+
 
 
 
@@ -884,7 +884,7 @@ More Industries
 
 
 
- 
+
 
 
 
@@ -980,7 +980,7 @@ Video
 Slideshow
 Comments
 
-more in Business »
+more in Business 
 
 
 
@@ -1024,7 +1024,7 @@ JUNE 21, 2011
 
 China Floods Claim Victims, Crops 
 Human Toll Rises to at Least 175 Dead, 1.6 Million Displaced; Damage to Some Farm Areas Called Worst in Decades   BY CHUIN-WEI YAP
-              BEIJING—Flooding across eastern, southern and southwestern China has killed at least 175 people and is causing significant damage to vegetable crops, adding to upward pressure on food prices at a time when the government is battling to contain inflation. The flooding, triggered by heavy rains that started early this month, has caused widespread suffering in more than a dozen provinces and regions, with state media calling it the worst in decades in some areas. In addition to the 175 known deaths, 86 people are missing and some 1.6 million people have been displaced by the flooding, which has caused more ...
+              BEIJINGFlooding across eastern, southern and southwestern China has killed at least 175 people and is causing significant damage to vegetable crops, adding to upward pressure on food prices at a time when the government is battling to contain inflation. The flooding, triggered by heavy rains that started early this month, has caused widespread suffering in more than a dozen provinces and regions, with state media calling it the worst in decades in some areas. In addition to the 175 known deaths, 86 people are missing and some 1.6 million people have been displaced by the flooding, which has caused more ...
 
 
 
@@ -1032,7 +1032,7 @@ Human Toll Rises to at Least 175 Dead, 1.6 Million Displaced; Damage to Some Far
 
 
 BY CHUIN-WEI YAP
-              BEIJING—Flooding across eastern, southern and southwestern China has killed at least 175 people and is causing significant damage to vegetable crops, adding to upward pressure on food prices at a time when the government is battling to contain inflation. The flooding, triggered by heavy rains that started early this month, has caused widespread suffering in more than a dozen provinces and regions, with state media calling it the worst in decades in some areas. In addition to the 175 known deaths, 86 people are missing and some 1.6 million people have been displaced by the flooding, which has caused more ...
+              BEIJINGFlooding across eastern, southern and southwestern China has killed at least 175 people and is causing significant damage to vegetable crops, adding to upward pressure on food prices at a time when the government is battling to contain inflation. The flooding, triggered by heavy rains that started early this month, has caused widespread suffering in more than a dozen provinces and regions, with state media calling it the worst in decades in some areas. In addition to the 175 known deaths, 86 people are missing and some 1.6 million people have been displaced by the flooding, which has caused more ...
 
 
 
@@ -1258,7 +1258,7 @@ Most Popular Feeds
 
 
 
-Save This ↓ More
+Save This  More
 
 
 
@@ -1271,7 +1271,7 @@ Save This ↓ More
 
 
 Article ExcerptBY CHUIN-WEI YAP
-              BEIJING—Flooding across eastern, southern and southwestern China has killed at least 175 people and is causing significant damage to vegetable crops, adding to upward pressure on food prices at a time when the government is battling to contain inflation. The flooding, triggered by heavy rains that started early this month, has caused widespread suffering in more than a dozen provinces and regions, with state media calling it the worst in decades in some areas. In addition to the 175 known deaths, 86 people are missing and some 1.6 million people have been displaced by the flooding, which has caused more ...Continue reading article with pop up player
+              BEIJINGFlooding across eastern, southern and southwestern China has killed at least 175 people and is causing significant damage to vegetable crops, adding to upward pressure on food prices at a time when the government is battling to contain inflation. The flooding, triggered by heavy rains that started early this month, has caused widespread suffering in more than a dozen provinces and regions, with state media calling it the worst in decades in some areas. In addition to the 175 known deaths, 86 people are missing and some 1.6 million people have been displaced by the flooding, which has caused more ...Continue reading article with pop up player
 
 More Video
 
@@ -1296,7 +1296,7 @@ Order Reprints
 
 
 
-Save This ↓ More
+Save This  More
 
 
 
@@ -1388,7 +1388,7 @@ MySpace
 
 
 
- 
+
 
 
 
@@ -1406,7 +1406,7 @@ previous
 
 
 
- 
+
 
 
 
@@ -1417,7 +1417,7 @@ next
 
 
 
- 
+
 
 
 Mozilla CEO on H-P Shakeup and Privacy Issues
@@ -1426,7 +1426,7 @@ Mozilla CEO on H-P Shakeup and Privacy Issues
 
 
 
- 
+
 
 
 H-P Stock Falls on Whitman News
@@ -1435,7 +1435,7 @@ H-P Stock Falls on Whitman News
 
 
 
- 
+
 
 
 Alibaba To Get $1.6 Billion From Investors
@@ -1457,7 +1457,7 @@ No
 
 
 
-View Results »
+View Results 
 
 
 
@@ -1471,7 +1471,7 @@ CommentersCommenters
 
 
 1.
-“",,,an intact,...;”
+",,,an intact,...;
 
 - Steve Fleischer
 241 Recommendations
@@ -1479,7 +1479,7 @@ CommentersCommenters
 
 
 2.
-“As someone else said many months...;”
+As someone else said many months...;
 
 - Byron Furseth
 185 Recommendations
@@ -1487,7 +1487,7 @@ CommentersCommenters
 
 
 3.
-“"another message to Obama....;”
+"another message to Obama....;
 
 - Eric Nelson
 165 Recommendations
@@ -1495,7 +1495,7 @@ CommentersCommenters
 
 
 4.
-“Don't forget the Illegal immigra...;”
+Don't forget the Illegal immigra...;
 
 - Eric Nelson
 160 Recommendations
@@ -1503,7 +1503,7 @@ CommentersCommenters
 
 
 5.
-“Here's the long and short of it...;”
+Here's the long and short of it...;
 
 - Matilda Anders
 135 Recommendations
@@ -1656,7 +1656,7 @@ Will the Fed's "Operation Twist" focusing on long-term Treasurys spur economic g
 
 Libertarians
 
-Why is Ron Paul mixed up with the Republican Party? Do libertarians and the Republicans really have so much in common? Is there any wonder why he doesn’t get nominated for presidency as long as he is a Republican?
+Why is Ron Paul mixed up with the Republican Party? Do libertarians and the Republicans really have so much in common? Is there any wonder why he doesnt get nominated for presidency as long as he is a Republican?
 
 
 
@@ -1834,7 +1834,7 @@ Journal Community
 Answers allows you to tap the knowledge of Community members. Answer a question below or ask a question.
 
 
-JACK HUDGINS asks…
+JACK HUDGINS asks
                       
 
 
@@ -1868,7 +1868,7 @@ LINKS TO ACTUAL PAGE CONTAINING WEB SLICE FUNCTIONALITY.
 
 
 back to top
- 
+
 
 
 WSJ.com Account:
@@ -1990,7 +1990,7 @@ WSJ Spanish
 
 
 ACAP Enabled
-Copyright ©2011 Dow Jones & Company, Inc. All Rights Reserved
+Copyright 2011 Dow Jones & Company, Inc. All Rights Reserved
 
 
 
