@@ -94,7 +94,7 @@ for x in all_toks_china:
 	vector = vectorize_sent(x, dictionary)
 	vector_total[x] = vector
 vectors = vector_total.values()
-clusterer = cluster.KMeansClusterer(2, euclidean_distance) 
+clusterer = cluster.KMeansClusterer(10, euclidean_distance) 
 result = clusterer.cluster(vectors, True)
 
 print('Clustered:', vectors)
@@ -106,7 +106,17 @@ print('Cluster Names:', clusterer.cluster_names())
 #	find the centroid
 #	find vectors closest to centroids
 # 	map vector to sentence natively
-
-print(clusterer.classify_vectorspace(vectorize_sent('islip long island flooding rain heavy pour down on New York hard', dictionary)))
+for x in all_toks_china:
+	x = re.sub('\s+', ' ', x)
+	words = word_tokenize(x)
+	good_toks = [w.lower() for w in words if not w.lower() in stopset and not w.isdigit() and w.isalpha() and len(w) >= 2]
+	YourWordsSynsets = list()
+	sentx = ""
+	for word in good_toks:
+		sentx = sentx + find_lemma(word) + " "
+	value = clusterer.classify_vectorspace(vectorize_sent(sentx, dictionary))
+	with open("cluster_out_" + str(value) + ".txt", "a") as file:
+		file.write(x)
+		file.write("\n")
 
 print(clusterer._centroid(result, clusterer.means()))
