@@ -96,13 +96,17 @@ for x in all_toks_china:
 	vector = vectorize_sent(x, dictionary)
 	vector_total[x] = vector
 vectors = vector_total.values()
-clusterer = cluster.KMeansClusterer(2, euclidean_distance) 
-result = clusterer.cluster(vectors, True)
+clusterer = cluster.KMeansClusterer(2, euclidean_distance)
+cluster = clusterer.cluster(vectors, True)
 
+centroids = clusterer.means()
 print('Clustered:', vectors)
-print('As:', result)
+print('As:', cluster)
 print('Means:', clusterer.means())
 print('Cluster Names:', clusterer.cluster_names())
+
+for n in clusterer.cluster_names():
+    print(n, cluster.count(n))
 
 # how do we:
 #	find the centroid
