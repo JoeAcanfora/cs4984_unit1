@@ -5,7 +5,7 @@ Topicizer
 """
 
 
-from gensim import corpora, models
+import gensim
 from nltk.corpus import stopwords
 
 import nltk
