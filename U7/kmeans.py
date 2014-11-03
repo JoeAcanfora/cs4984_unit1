@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from __future__ import division
 
 import nltk
@@ -44,7 +46,7 @@ all_train = []
 
 file_list = open('../ref/trainset_small.txt').readlines()
 
-dir_path = '/Users/davidkeimig/Desktop/Islip13Rain_edit'
+dir_path = sys.argv[1]
 path = dir_path + "/*.txt"
 list_txt = glob.glob(path)
 all_toks_china = list()
@@ -74,7 +76,7 @@ def find_lemma(word):
 
 
 for txt in list_txt:
-	file_y = open(txt).read()
+	file_y = open(txt).read().decode('utf8')
 	tokens = sent_tokenize(file_y)
 	all_toks_china = all_toks_china + tokens
 
@@ -108,5 +110,3 @@ print('Cluster Names:', clusterer.cluster_names())
 # 	map vector to sentence natively
 
 print(clusterer.classify_vectorspace(vectorize_sent('islip long island flooding rain heavy pour down on New York hard', dictionary)))
-
-print(clusterer._centroid(result, clusterer.means()))
