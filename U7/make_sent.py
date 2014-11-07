@@ -44,7 +44,7 @@ all_train = []
 
 file_list = open('../ref/trainset_small.txt').readlines()
 
-dir_path = '/Users/davidkeimig/Documents/cs4984_unit1/cs4984_unit1/U1/china_flood'
+dir_path = '/Users/davidkeimig/Desktop/PAK_FLOOD/Pakistan_Flood'
 path = dir_path + "/*.txt"
 list_txt = glob.glob(path)
 all_toks_china = list()
@@ -90,5 +90,5 @@ for x in all_toks_china:
 	for r in good_toks:
 		sent = sent + r
 		sent = sent + " "
-	with open("./ChinaSentFiles/"+ str(count) + ".txt", "a") as file:
+	with open("./PakSentFiles/"+ str(count) + ".txt", "a") as file:
 		file.write(sent)
