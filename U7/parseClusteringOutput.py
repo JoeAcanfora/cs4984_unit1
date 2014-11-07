@@ -24,7 +24,7 @@ def parseClusteringOutputFile(filename,topK):
             end = l.find("c=")
             n = l[s:end]
             clusterMembers.append(int(n))
-        if l.strip().startswith("1.0: /"):
+        if l.strip().startswith("1.0: "):
             s = l.find("[")
             e = l.find("]")+1
             p = l[s:e]
@@ -88,4 +88,4 @@ def getVectorsSimilarity(v1,v2):
     
 if __name__ == "__main__":
  topK = 3
- parseClusteringOutputFile("./hadoopkmeansdumpclassevent.txt", topK)
+ parseClusteringOutputFile("./hadoopkmeansdumpclassevent2.txt", topK)
