@@ -18,7 +18,7 @@ def parseClusteringOutputFile(filename,topK):
     clusterPointMembers = []
     points = []
     for l in lines:
-        if l.startswith("VL-"):
+        if l.startswith("C-"):
             clustersInfo.append(l.strip())
             s = l.find("n=")+2
             end = l.find("c=")
@@ -67,8 +67,9 @@ def parseClusteringOutputFile(filename,topK):
         closestSentsToCentroids.append(sortedSims_list[:topK])
     
     for i in range(len(closestSentsToCentroids)):
-        print ("centroid: %s \n Sentence: %s \n === \n")%( centroidsList[i], "\n".join([str(t) for t in closestSentsToCentroids[i]]))
-    
+        #print ("centroid: %s \n Sentence: %s \n === \n")%( centroidsList[i], "\n".join([str(t) for t in closestSentsToCentroids[i]]))
+        print ("Sentence: %s \n === \n")%("\n".join([str(t) for t in closestSentsToCentroids[i]]))
+
     
 def getVectorsSimilarity(v1,v2):
     cv1 = {}
@@ -88,4 +89,4 @@ def getVectorsSimilarity(v1,v2):
     
 if __name__ == "__main__":
  topK = 3
- parseClusteringOutputFile("./hadoopkmeansdumpclassevent2.txt", topK)
+ parseClusteringOutputFile("./hadoopkmeansdumpclassevent3.txt", topK)
