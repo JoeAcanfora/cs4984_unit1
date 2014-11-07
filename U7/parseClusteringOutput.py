@@ -67,16 +67,16 @@ def parseClusteringOutputFile(filename,topK):
         closestSentsToCentroids.append(sortedSims_list[:topK])
     
     for i in range(len(closestSentsToCentroids)):
-        #print ("centroid: %s \n Sentence: %s \n === \n")%( centroidsList[i], "\n".join([str(t) for t in closestSentsToCentroids[i]]))
-        check = "\n".join([str(t) for t in closestSentsToCentroids[i]])
-        str_con = letters(check)
+        print ("centroid: %s \n Sentence: %s \n === \n")%( centroidsList[i], "\n".join([str(t) for t in closestSentsToCentroids[i]]))
+        # check = "\n".join([str(t) for t in closestSentsToCentroids[i]])
+        # str_con = letters(check)
 
-        print ("Sentence: %s \n === \n")%(str_con)
+        # print ("Sentence: %s \n === \n")%(str_con)
 
 def letters(input):
     valids = []
     for character in input:
-        if character.isalpha() or character == ' ':
+        if character.isalpha() or character == ' ' or character == '\n':
             valids.append(character)
     return ''.join(valids)
     
