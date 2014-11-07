@@ -1,1 +1,0 @@
-join euronews community note fields required username min max characters 
