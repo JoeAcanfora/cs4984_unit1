@@ -98,4 +98,4 @@ def getVectorsSimilarity(v1,v2):
     
 if __name__ == "__main__":
  topK = 3
- parseClusteringOutputFile("./hadoopkmeansdumpclassevent4.txt", topK)
+ parseClusteringOutputFile("./hadoopkmeansdumpyoursmall2.txt", topK)
