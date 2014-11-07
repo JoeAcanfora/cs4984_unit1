@@ -68,8 +68,17 @@ def parseClusteringOutputFile(filename,topK):
     
     for i in range(len(closestSentsToCentroids)):
         #print ("centroid: %s \n Sentence: %s \n === \n")%( centroidsList[i], "\n".join([str(t) for t in closestSentsToCentroids[i]]))
-        print ("Sentence: %s \n === \n")%("\n".join([str(t) for t in closestSentsToCentroids[i]]))
+        check = "\n".join([str(t) for t in closestSentsToCentroids[i]])
+        str_con = letters(check)
 
+        print ("Sentence: %s \n === \n")%(str_con)
+
+def letters(input):
+    valids = []
+    for character in input:
+        if character.isalpha() or character == ' ':
+            valids.append(character)
+    return ''.join(valids)
     
 def getVectorsSimilarity(v1,v2):
     cv1 = {}
@@ -89,4 +98,4 @@ def getVectorsSimilarity(v1,v2):
     
 if __name__ == "__main__":
  topK = 3
- parseClusteringOutputFile("./hadoopkmeansdumpclassevent3.txt", topK)
+ parseClusteringOutputFile("./hadoopkmeansdumpclassevent4.txt", topK)

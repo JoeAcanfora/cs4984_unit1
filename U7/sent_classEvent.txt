@@ -1,135 +1,24 @@
-Sentence: (14.861986, ['fell:3.937', ' state:5.083', ' record:3.291', ' high:5.082', ' emergency:5.237', ' rainfall:3.200', ' storm:5.038', ' whale:5.930', ' inches:2.901', ' set:4.320', ' irene:4.949', ' long:2.901', ' rain:3.872', ' watch:4.463', ' foot:5.082', ' parts:4.463', ' setting:5.930', ' york:4.688', ' man:4.726', ' declared:5.930', ' town:4.033', ' brought:5.930', ' wednesday:3.417', ' hours:3.850', ' island:2.869', ' pushing:5.237'])
-(13.584797000000004, ['embed:5.642', ' connecticut:5.082', ' leaving:5.642', ' august:3.339', ' flooded:3.696', ' flood:4.033', ' soaked:5.930', ' rainfall:3.200', ' strong:5.237', ' jersey:4.543', ' records:5.419', ' power:5.237', ' rain:2.738', ' region:4.630', ' area:4.084', ' heavy:3.365', ' parts:4.463', ' streets:4.726', ' summer:4.463', ' york:5.741', ' http:5.237', ' storms:4.831', ' breaking:5.930', ' trees:5.642', ' tuesday:4.320', ' wednesday:4.833', ' flash:3.984', ' night:4.831'])
-(13.370457, ['fell:3.937', ' nation:5.930', ' swath:5.930', ' record:3.291', ' city:4.543', ' flood:4.033', ' capital:4.949', ' emergency:5.237', ' inches:4.103', ' southeast:5.642', ' long:2.901', ' rain:3.872', ' heavy:3.365', ' picking:5.930', ' day:5.082', ' maine:5.642', ' tuesday:6.110', ' flooding:2.917', ' wednesday:3.417', ' baltimore:6.683', ' calendar:5.930', ' flash:3.984', ' night:4.831', ' wettest:5.642']) 
+Sentence:  cars  home  rhome  site  advice  vegas  williams  challenge  ferguson  fritz  photos  public  dog  travel  weather  lifestyle  thousands  arrests  health  inside  retro  school  surge  deals  garden  michael  save  anderson  capital  real  blogs  continue  days  hahn  hurt  system  archives  credit  dance  find  update  wp  guide  louis  nightlife  parties  columns  computer  gang  huge  music  puzzles  traffic  agenda  magazine  topics  area  pull  reports  tribute  classifieds  club  dj  games  major  obituaries  risk  style  summer  robin  ice  blog  bucket  county  storms  tv  web  source  brian  carolyn  estate  switch  week  relations  rentals  charity  entertainment  food  jobs  names 
  === 
 
-Sentence: (24.216457000000002, ['cars:3.594', ' embed:7.979', ' home:3.984', ' listings:4.831', ' rivers:5.642', ' floodwaters:5.082', ' found:4.630', ' newsletters:5.082', ' send:5.642', ' world:6.110', ' local:8.185', ' video:6.312', ' death:5.237', ' dog:4.949', ' open:5.237', ' weather:7.270', ' directory:5.642', ' ny:5.775', ' turning:5.930', ' cameras:5.642', ' health:6.110', ' school:5.082', ' torrential:5.237', ' communities:5.419', ' copy:8.959', ' view:4.463', ' close:7.663', ' facebook:4.630', ' neighborhood:5.419', ' tech:7.188', ' vets:5.930', ' wings:5.930', ' accident:5.930', ' alerts:6.683', ' maps:5.642', ' recovers:12.670', ' storm:7.966', ' twitter:4.630', ' car:3.984', ' email:7.663', ' guide:5.082', ' link:8.959', ' scene:5.082', ' swallowed:5.930', ' closing:5.642', ' drenched:5.930', ' forecast:4.543', ' print:5.642', ' swept:5.419', ' traffic:7.167', ' weird:7.979', ' live:6.548', ' long:6.487', ' radar:4.949', ' rain:4.742', ' region:4.630', ' step:5.642', ' contributed:5.642', ' dumps:12.670', ' nbc:7.406', ' stoop:5.930', ' watch:4.463', ' contact:7.406', ' house:4.543', ' streets:4.726', ' community:5.237', ' contests:9.772', ' drying:5.642', ' sports:6.425', ' york:5.741', ' http:5.237', ' tips:5.930', ' videos:5.642', ' events:4.256', ' investigations:8.386', ' day:5.082', ' expressways:5.642', ' thursday:4.726', ' tv:4.630', ' news:8.968', ' comments:4.630', ' dead:4.831', ' flooding:5.053', ' talk:5.419', ' downfall:5.930', ' island:6.416', ' killed:4.831', ' share:4.949', ' social:4.831', ' entertainment:7.731'])
-(21.048699, ['fell:3.937', ' totals:5.082', ' counties:4.949', ' newsletters:5.082', ' photos:5.568', ' updated:4.949', ' video:4.463', ' media:4.463', ' morning:4.033', ' neighborhoods:5.642', ' facebook:4.630', ' alerts:4.726', ' nassau:4.726', ' road:4.195', ' twitter:4.630', ' rail:5.082', ' residential:5.930', ' suffolk:4.256', ' trains:5.930', ' live:4.630', ' long:2.901', ' rain:3.872', ' roadways:5.642', ' area:4.084', ' major:5.082', ' delays:5.237', ' updates:5.642', ' stay:5.930', ' massive:5.082', ' news:3.661', ' flooding:2.917', ' wednesday:3.417', ' island:2.869', ' social:4.831'])
-(17.435383, ['eric:5.930', ' listen:5.642', ' listings:6.832', ' stations:5.642', ' wins:7.663', ' choices:5.642', ' connect:5.642', ' streaming:5.930', ' vegas:5.642', ' washington:4.630', ' connecticut:7.188', ' local:8.185', ' public:6.832', ' media:4.463', ' personalities:5.930', ' powered:5.419', ' travel:4.949', ' weather:2.968', ' devils:5.930', ' ny:5.775', ' family:5.642', ' health:4.320', ' technology:5.930', ' boston:5.930', ' deals:5.082', ' wcbs:7.979', ' facebook:4.630', ' services:5.237', ' islanders:5.642', ' rights:5.082', ' west:4.543', ' jersey:4.543', ' rss:5.419', ' shopping:7.979', ' cities:5.930', ' follow:8.185', ' twitter:4.630', ' characters:5.930', ' louis:5.642', ' nightlife:5.642', ' ad:5.642', ' music:7.979', ' shooting:5.419', ' traffic:4.138', ' buses:5.930', ' long:2.901', ' pets:5.930', ' shows:4.726', ' times:5.419', ' yankees:5.642', ' advertise:5.237', ' funeral:8.959', ' reports:4.630', ' square:5.642', ' watch:4.463', ' consumer:5.419', ' contact:9.070', ' mike:5.237', ' seattle:5.930', ' mets:5.930', ' schedule:8.386', ' sports:4.543', ' style:5.930', ' york:7.412', ' business:8.572', ' reserved:5.082', ' search:4.949', ' detroit:4.726', ' development:5.930', ' events:4.256', ' politics:4.831', ' radio:5.930', ' steve:5.642', ' amp:5.930', ' cbs:30.654', ' mobile:5.082', ' policy:4.630', ' sites:5.930', ' web:5.419', ' cbsnewyork:5.930', ' garner:5.930', ' harlem:5.642', ' news:7.322', ' file:7.979', ' flooding:2.917', ' fresh:5.930', ' wfan:9.772', ' angeles:5.930', ' autopsy:5.930', ' baltimore:4.726', ' editor:5.642', ' island:2.869', ' terms:5.237', ' entertainment:4.463', ' food:5.419', ' francisco:5.930', ' los:5.930', ' privacy:4.831', ' san:5.930']) 
+Sentence:  home  nation  rick  state  checkpoint  energy  lamothe  world  early  ferguson  carpenter  game  media  national  science  takes  recent  arrests  economy  health  worldviews  michael  capital  education  university  blogs  dan  dc  people  security  southeast  announced  credit  disaster  iraq  louis  columns  journalist  brown  insider  magazine  report  leadership  mark  consumer  discuss  mike  add  sports  american  business  post  dont  environment  expect  investigations  missouri  africa  county  james  policy  bob  officer  east  foley  jones  killed  social  police 
  === 
 
-Sentence: (8.809023999999999, ['weather:2.968']) 
+Sentence:  ago  islip  today  newsletters  local  paper  aire  ny  recent  register  nb  view  clouds  accident  current  inches  pine  subscribe  archives  cleared  log  account  forecast  scattered  section  south  traffic  long  radar  rain  brentwood  falls  full  historic  newsday  special  conditions  gallery  sagtikos  weekly  map  tv  humidity  mph  flooding  island  manage  pkwy photos  record  weather  torrential  rainbows  capital  clouds  pileus  cop  gang  rain  year  read state  highway  moses  robert  parkway  parts  due  sunrise  closed  flooding  ocean  wednesday  meadowbrook  night 
  === 
 
-Sentence: (0, ['stations:5.642', ' seaford:5.930', ' branch:5.930', ' height:5.930', ' storm:3.563', ' babylon:5.419', ' waiting:5.930', ' water:3.136', ' train:5.082', ' lirr:5.930']) 
+Sentence:  dulles  washington  airport  record  national  teen  weather  underground  days  dc  obama  cwg  led  average  forecast  journalist  radar  year  info  mike  animate  full  games  heat  number  james  policy  simple  wall  service  foley 
  === 
 
-Sentence: (0, ['traffic:4.138']) 
+Sentence:  islip  listings  today  crime  event  hicksville  hunter  main  record  high  national  weather  august  massapequa  health  school  message  restaurant  view  closings  education  money  rainfall  regional  heroes  inches  road  verizon  push  closing  traffic  breaks  long  report  ussubmit  choose  community  schedule  sports  bay  business  courts  oyster  submit  events  politics  thursday  tv  news  pause  talk  treet  east  island  entertainment 
  === 
 
-Sentence: (13.402921000000001, ['copyright:5.237', ' news:3.661']) 
+Sentence:  characters  submit  image  type  audio  ca  read 
  === 
 
-Sentence: (0, ['islip:2.951', ' lightning:5.237', ' utc:5.419', ' immediately:5.930', ' clouds:5.082', ' hpa:8.959', ' temperatures:5.419', ' ir:5.930', ' heavy:3.365', ' rains:4.195', ' convective:5.930']) 
+Sentence:  case 
  === 
 
-Sentence: (0, ['islip:2.951', ' airport:4.195', ' weather:2.968', ' time:5.082', ' series:5.930', ' plot:5.930', ' winds:5.930', ' frontal:5.930', ' surface:5.930', ' heavy:4.758', ' rains:5.933', ' approaching:5.930', ' force:5.930', ' boundary:5.930']) 
- === 
-
-Sentence: (0, ['required:5.930', ' stations:5.642', ' water:4.436', ' inundated:5.642']) 
- === 
-
-Sentence: (0, ['found:4.630', ' entered:5.930', ' location:5.237']) 
- === 
-
-Sentence: (0, ['late:5.642', ' gov:4.726', ' wednesday:3.417']) 
- === 
-
-Sentence: (23.5851, ['state:3.594', ' event:4.389', ' weather:2.968', ' emergency:5.237', ' suffolk:4.256', ' executive:5.930', ' unprecedented:5.930', ' bellone:5.930', ' steve:5.642', ' county:5.775', ' declared:5.930']) 
- === 
-
-Sentence: (11.902802999999999, ['record:3.291', ' october:5.419', ' inches:2.901', ' monthly:5.237']) 
- === 
-
-Sentence: (0, ['record:3.291', ' previous:4.949', ' storm:3.563', ' inches:2.901', ' irene:4.949', ' tropical:4.389']) 
- === 
-
-Sentence: (0, ['high:5.082', ' highway:4.320', ' fast:5.930', ' time:5.082', ' road:4.195', ' drivers:4.463', ' slow:5.930', ' water:3.136', ' service:3.937', ' sunrise:4.831']) 
- === 
-
-Sentence: (0, ['cars:3.594', ' littered:5.930', ' roadway:5.237', ' dried:5.930']) 
- === 
-
-Sentence: (0, ['flooded:3.696', ' rescue:5.237', ' people:6.207', ' boats:5.419', ' roads:4.630', ' streets:4.726', ' trapped:5.930', ' homes:4.463']) 
- === 
-
-Sentence: (0, ['cars:3.594', ' stuck:5.237', ' lost:5.419', ' water:3.136']) 
- === 
-
-Sentence: (0, ['gravel:8.959', ' hole:5.930', ' gave:5.930', ' sinkhole:5.419', ' workers:8.959']) 
- === 
-
-Sentence: (0, ['home:3.984', ' high:5.082', ' flooded:3.696', ' stopped:5.930', ' people:4.389', ' side:5.237', ' rain:2.738', ' water:3.136', ' streets:4.726', ' hours:3.850']) 
- === 
-
-Sentence: (29.365560999999996, ['islip:2.951', ' lot:4.726', ' strong:5.237', ' swept:5.419', ' water:3.136', ' parking:4.949']) 
- === 
-
-Sentence: (0, ['church:5.237', ' leaving:5.642', ' school:5.082', ' feet:4.543', ' begin:5.930', ' cleanup:5.642', ' shore:4.463', ' sea:5.642', ' foot:5.082', ' bay:4.256', ' hard:5.930', ' sections:5.642']) 
- === 
-
-Sentence: (0, ['church:5.237', ' happened:5.930', ' morning:4.033', ' leaders:5.930', ' opened:4.949', ' member:5.930', ' bad:4.949', ' wednesday:3.417', ' staff:5.642']) 
- === 
-
-Sentence: (0, ['give:8.386', ' people:4.389']) 
- === 
-
-Sentence: (31.832164000000002, ['lot:4.726', ' good:5.237', ' continue:5.419', ' people:4.389', ' things:5.642']) 
- === 
-
-Sentence: (0, ['islip:2.951', ' lot:4.726', ' main:5.237', ' hall:5.237', ' thursday:4.726', ' town:4.033', ' parking:4.949']) 
- === 
-
-Sentence: (35.164899999999996, ['cars:3.594', ' state:3.594', ' abandoned:5.419', ' tragedy:5.930', ' feet:4.543', ' submerged:5.237', ' parkway:4.726', ' northern:5.419', ' water:3.136', ' bay:4.256', ' oyster:5.642', ' exit:5.082']) 
- === 
-
-Sentence: (9.834496000000001, ['lake:5.642', ' water:3.136']) 
- === 
-
-Sentence: (5.295767, ['previous:4.949', ' storm:3.563', ' inches:2.901', ' irene:4.949', ' tannersville:5.642', ' breaks:4.949', ' preliminary:4.949', ' report:4.256', ' mark:5.237', ' amount:5.419', ' recorded:5.419', ' service:3.937'])
-(3.863751, ['flames:5.930', ' weather:2.968', ' jeep:5.930', ' driver:5.082', ' swerved:5.930', ' guardrail:5.930', ' truck:5.419', ' conditions:5.419', ' due:4.630', ' vehicle:5.642', ' crashed:5.930'])
-(3.6516869999999995, ['macarthur:4.831', ' airport:4.195', ' video:4.463', ' open:5.237', ' north:4.831', ' dramatic:5.930', ' babylon:5.419', ' remained:5.642', ' flooding:2.917', ' jim:5.930']) 
- === 
-
-Sentence: (0, ['list:5.642', ' beaches:5.419', ' click:4.949']) 
- === 
-
-Sentence: (0, ['stuck:5.237', ' big:5.642', ' feet:4.543', ' rescued:4.726', ' vehicles:5.642', ' drivers:4.463', ' standing:5.930', ' water:4.436', ' problem:5.930']) 
- === 
-
-Sentence: (0, ['public:4.831', ' clear:5.930', ' front:4.949', ' works:5.930', ' roadways:5.642', ' water:3.136', ' point:5.642']) 
- === 
-
-Sentence: (29.188775, ['public:4.831', ' feet:6.425', ' road:4.195', ' works:5.930', ' deep:5.082', ' worker:5.930', ' bad:4.949', ' center:4.543']) 
- === 
-
-Sentence: (0, ['cars:3.594', ' flooded:3.696', ' people:4.389', ' stranded:6.312']) 
- === 
-
-Sentence: (0, ['lot:4.726', ' truck:5.419']) 
- === 
-
-Sentence: (15.872256, ['home:3.984', ' advice:5.930', ' stay:5.930']) 
- === 
-
-Sentence: (31.832164000000002, ['began:5.419', ' cars:3.594', ' damage:3.984', ' fell:3.937', ' home:5.634', ' early:4.831', ' large:5.930', ' tree:7.188', ' crews:4.949', ' significant:5.930', ' overnight:5.237', ' amazing:5.642', ' union:5.642', ' water:3.136', ' remained:5.642', ' street:5.930', ' partially:5.419', ' wednesday:3.417', ' spring:5.419']) 
- === 
-
-Sentence: (21.436899999999998, ['inside:4.949', ' residents:4.630', ' sleeping:5.930']) 
- === 
-
-Sentence: (24.492600999999997, ['home:3.984', ' top:4.949', ' inside:4.949', ' majority:5.930', ' realized:5.642', ' tree:7.188', ' downstairs:5.930', ' things:5.642', ' partially:5.419', ' broken:4.949']) 
- === 
-
-Sentence: (0, ['window:5.930', ' green:5.930', ' branch:5.930', ' tree:5.082', ' lights:5.930', ' bedroom:5.930', ' homeowner:5.930']) 
- === 
-
-Sentence: (0, ['guess:5.642', ' tree:5.082', ' downstairs:5.930']) 
- === 
-
-Sentence: (0, ['damage:3.984', ' window:5.930', ' real:5.642', ' broken:4.949']) 
- === 
-
-Sentence: (0, ['home:3.984', ' large:5.930', ' high:5.082', ' highway:4.320', ' tree:5.082', ' crews:4.949', ' opened:4.949', ' water:3.136', ' nearby:5.930', ' hole:5.930']) 
+Sentence:  church  embed  equipped  fell  home  islip  site  butter  event  roundtable  victim  washington  beach  main  record  video  blasio  previousnext  warning  weather  almond  august  commack  kills  flood  militant  group  headlines  message  pm  schools  time  date  make  mayor  nyc  homeowners  nassau  rainfall  storm  boat  inches  jersey  de  hosts  peanut  port  beheaded  salmonella  suffolk  journalist  shooting  breaks  inspectors  long  rain  region  heavy  mark  suny  fire  house  interfaith  parts  choose  injured  risk  american  lido  man  recalled  responders  county  due  dies  fema  news  organization  assess  brian  flooding  isis  code  island  share  calendar  centrereach  entertainment  flash  submitting 
  === 
 
