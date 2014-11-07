@@ -128,7 +128,7 @@ print "starting training..."
 f = open('SklearnClassifier.pickle')
 maxEnt = pickle.load(f)
 
-dir_path = '/Users/davidkeimig/Documents/cs4984_unit1/cs4984_unit1/U1/china_flood'
+dir_path = '/Users/davidkeimig/Desktop/PAK_FLOOD/Pakistan_Flood'
 path = dir_path + "/*.txt"
 list_txt = glob.glob(path)
 all_toks_china = list()
@@ -163,11 +163,11 @@ for txt in list_txt:
 
 	get_file = txt.split('/')
 	if (value == 'pos'):
-		output_list.append(get_file[8] + "\tpositive")
+		output_list.append(get_file[6] + "\tpositive")
 	else:
-		output_list.append(get_file[8] + "\tnegative")
-		string = "/Users/davidkeimig/Documents/cs4984_unit1/cs4984_unit1/U1/china_flood/"
-		string = string + get_file[8]
+		output_list.append(get_file[6] + "\tnegative")
+		string = "/Users/davidkeimig/Desktop/PAK_FLOOD/Pakistan_Flood/"
+		string = string + get_file[6]
 		os.remove(string)
 
 print "finished training"
