@@ -7,9 +7,13 @@
 from nltk.tokenize import sent_tokenize, word_tokenize
 import re, os, operator, nltk
 from textutil import *
+import sys
 
 # The directory location for ClassEvent documents.
 classEventDir = '../U1/china_flood/'
+if len(sys.argv) > 1:
+    classEventDir = sys.argv[1]
+
 # The set of stopwords.
 stopwords = nltk.corpus.stopwords.words('english')
 
