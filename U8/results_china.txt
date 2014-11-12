@@ -1,0 +1,18 @@
+Top 10 frequent values for each attribute:
+Location: [('China', 64), ('Zhejiang', 17), ('Hubei', 10), ('Shaanxi', 7), ('Beijing', 7), ('Wuhan', 7), ('Hunan', 6), ('Seconds', 6), ('Bangladesh', 5), ('Lanxi', 5)] 
+
+Waterways: [('affected several tens', 3), ('affected transportation', 2), ('water from wells Zhou', 2), ('affected people', 2), ('affected more than million', 2), ('water from underground were abandoned', 2), ('affected millions', 2), ('affected over', 2), ('affected the normal lives', 1), ('affected Xinhua said', 1)] 
+
+Cause: [('heavy', 23), ('heavy rains', 20), ('heavy rain', 19), ('June', 17), ('heavy rainfall', 17), ('flooding', 13), ('torrential', 10), ('rain', 8), ('Chris', 7), ('provinces', 7)] 
+
+Girth: [('China flood', 18), ('worst flood', 13), ('triggered flood', 12), ('highest flood', 12), ('deadly flood', 11), ('many area', 8), ('that area', 8), ('serious flood', 7), ('surging flood', 7), ('vulnerable area', 7)] 
+
+Year: [('2011', 162), ('2010', 16), ('2005', 14), ('1998', 14), ('1955', 11), ('2006', 5), ('1994', 4), ('2008', 4), ('1987', 3), ('1966', 3)] 
+
+Month: [('June', 178), ('Sep', 89), ('August', 18), ('jun', 16), ('July', 16), ('September', 15), ('May', 10), ('March', 8), ('April', 7), ('sep', 6)] 
+
+Template before filling-out:
+On {Time} a {Girth} caused by {Cause} {Waterways} in {Location}.
+
+Template after filling-out:
+On June 2011 a China flood caused by heavy affected transportation in China.
