@@ -67,11 +67,11 @@ def parseClusteringOutputFile(filename,topK):
         closestSentsToCentroids.append(sortedSims_list[:topK])
     
     for i in range(len(closestSentsToCentroids)):
-        print ("centroid: %s \n Sentence: %s \n === \n")%( centroidsList[i], "\n".join([str(t) for t in closestSentsToCentroids[i]]))
-        # check = "\n".join([str(t) for t in closestSentsToCentroids[i]])
-        # str_con = letters(check)
+        #print ("centroid: %s \n Sentence: %s \n === \n")%( centroidsList[i], "\n".join([str(t) for t in closestSentsToCentroids[i]]))
+        check = "\n".join([str(t) for t in closestSentsToCentroids[i]])
+        str_con = letters(check)
 
-        # print ("Sentence: %s \n === \n")%(str_con)
+        print ("Sentence: %s \n === \n")%(str_con)
 
 def letters(input):
     valids = []
@@ -98,4 +98,4 @@ def getVectorsSimilarity(v1,v2):
     
 if __name__ == "__main__":
  topK = 3
- parseClusteringOutputFile("./hadoopkmeansdumpyourbig2.txt", topK)
+ parseClusteringOutputFile("./hadoopkmeansdumpyoursmall3.txt", topK)

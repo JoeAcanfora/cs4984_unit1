@@ -65,7 +65,6 @@ def find_lemma(word):
 synsets = list()
 final_set = list()
 for x in yourwords_list:
-	print "first"
 	sent = letters(x)
 	value = find_lemma(sent)
 	final_set = final_set + value
@@ -104,26 +103,77 @@ def find_lemma(word):
 
 
 for txt in list_txt:
-	file_y = open(txt).read()
-	tokens = sent_tokenize(file_y)
-	all_toks_china = all_toks_china + tokens
+	file_y = open(txt).readlines()
+	#tokens = word_tokenize(file_y)
+	paragraph = ""
+	for i in range(0, len(file_y) - 1):
+		#print len(file_y) - 1
+		line = file_y[i]
+		if not line.strip():
+			all_toks_china.append(paragraph)
+			paragraph = ""
+		if not line.strip():
+			#print line
+			n = i + 1
+			if n <= len(file_y) - 1:
+				line_check = file_y[n]
+				if not line_check.strip():
+					#print "in"
+					#print line_check
+					all_toks_china.append(paragraph)
+					paragraph = ""
+		#print "reach"
+		#print paragraph
+		line = re.sub('\s+', ' ', line)
+		if line.strip():
+			paragraph = paragraph + line
+			
+total_list = list()
+for x in all_toks_china:
+	x = re.sub('\s+', ' ', x)
+	if x.strip():
+		total_list.append(x)
 
 good_toks = list()
 dictionary = set()
 count = 0;
-for x in all_toks_china:
+
+file_1 = open("./filtered_good_China.txt", "w")
+file_2 = open("./filtered_bad_China.txt", "w")
+
+for x in total_list:
 	count = count + 1
 	x = re.sub('\s+', ' ', x)
 	words = word_tokenize(x)
-	good_toks = [w.lower() for w in words if not w.lower() in stopset and not w.isdigit() and w.isalpha() and len(w) >= 2]
+	good_toks = [w for w in words if w.isalpha() or w.isdigit() and len(w) >= 2]
 	once = 0
+	once_2 = 0
+	count = 0;
+	past_words = list()
+	# file_1.write("LOOK AT FIRST SENTENCE..................................\n")
+	# file_1.write(x)
+	# file_1.write("\n")
 	for q in your_words:
 		if q in good_toks:
-			if once == 0:
-				sent = ""
+			if q not in past_words:
+				count = count + 1
+			past_words.append(q)
+			#print past_words
+			if count > 2:
+				if once == 0:
+					sent = ""
+					for r in good_toks:
+						sent = sent + r
+						sent = sent + " "
+					sent = sent + "\n\n"
+					file_1.write(sent)					
+					once = 1
+		else:
+			if once_2 == 0:
 				for r in good_toks:
 					sent = sent + r
 					sent = sent + " "
-				with open("./ChinaSentFiles/"+ str(count) + ".txt", "a") as file:
-					file.write(sent)
-				once = 1
+				sent = sent + '\n'
+				file_2.write(sent)
+				once_2 = 1
+
