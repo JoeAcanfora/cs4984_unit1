@@ -8,9 +8,10 @@ from nltk.tokenize import sent_tokenize, word_tokenize
 import re, os, operator, nltk
 from textutil import *
 import sys
+import numpy
 
 # The directory location for ClassEvent documents.
-classEventDir = '../U1/china_flood/'
+classEventDir = './China_test/'
 if len(sys.argv) > 1:
     classEventDir = sys.argv[1]
 
@@ -54,7 +55,12 @@ def main():
 	A pattern for months
 	'''
 	monthPatternString = "(?:January|February|March|April|May|June|July|August|September|October|November|December)"
-	
+
+	'''
+	A pattern string for total rainfall
+	'''
+	rainfallPatternString = "((\d+.\d+\smillimeters)|(\d+.\d+\smm))|(\d+.\d+\s(inches|inch))"
+
 	# Compilation of regex patterns to improve repeated query efficiency.
 	locationPattern = re.compile(locationPatternString)
 	girthPattern = re.compile(girthPatternString)
@@ -62,6 +68,7 @@ def main():
 	waterwaysPattern = re.compile(waterwaysPatternString)
 	yearPattern = re.compile(yearPatternString)
 	monthPattern = re.compile(monthPatternString)
+	rainfallPattern = re.compile(rainfallPatternString)
 
 	# A list of all files in the Class Event Directory
 	listOfFiles = os.listdir(classEventDir)
@@ -97,6 +104,7 @@ def main():
 		searchMatches(D, waterwaysPattern, fileSentences, fileName, "waterways")
 		searchMatches(D, yearPattern, fileSentences, fileName, "year")
 		searchMatches(D, monthPattern, fileSentences, fileName, "month")
+		searchMatches(D, rainfallPattern, fileSentences, fileName, "totalRain")
 
 	print
 
@@ -182,6 +190,9 @@ def main():
 	girthFreqDict = dict()
 	yearFreqDict = dict()
 	monthFreqDict = dict()
+	rainFreqDict = dict()
+	rain_convert = []
+
 
 	# Loops through the original frequency dictionary, and adds the correspond word and frequency
 	# to the dictionary for the appropriate attribute type.
@@ -221,6 +232,21 @@ def main():
 				monthFreqDict[result] += freq
 			except:
 				monthFreqDict[result] = freq
+		if (typeOfInfo == "totalRain" and result not in stopwords):
+			try:
+				result = string.replace(result, "mm", "millimeters")
+				result = string.replace(result, "inch\s", "inches")
+				if "inches" in result:
+					dec = re.findall('\d+.\d+', result)
+					dec = 25.4 * float(dec[0])
+					result = re.sub('\d+.\d+', str(dec), result)
+				dec = re.findall('\d+.\d+', result)
+				rainFreqDict[result] += freq
+				rain_convert.append(float(dec[0]))
+			except:
+				rainFreqDict[result] = freq
+				dec = re.findall('\d+.\d+', result)
+				rain_convert.append(float(dec[0]))
 
 	print 
 
@@ -232,6 +258,7 @@ def main():
 	girthFreqDict = sorted(girthFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 	yearFreqDict = sorted(yearFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 	monthFreqDict = sorted(monthFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	rainFreqDict = sorted(rainFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 
 	# Prints the top 10 words for each attribute.
 	print "Top 10 frequent values for each attribute:"
@@ -241,13 +268,14 @@ def main():
 	print "Girth:", girthFreqDict [:10], "\n"
 	print "Year:", yearFreqDict [:10], "\n"
 	print "Month:", monthFreqDict [:10], "\n"
+	print "Total Rainfall", rainFreqDict [:10], "\n"
 
 	# Prints the original template.
 	print "Template before filling-out:"
-	print "On {Time} a {Girth} caused by {Cause} {Waterways} in {Location}.\n"
+	print "On {Time} a {Girth} caused by {Cause} {Waterways} in {Location}. Total Rainfall is {Total Rainfall}\n"
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "On {0} {1} a {2} caused by {3} {4} in {5}.".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[1][0], locationFreqDict[0][0])
+	print "On {0} {1} a {2} caused by {3} {4} in {5}. Total Rainfall is {6} millimeters.".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[1][0], locationFreqDict[0][0], numpy.median(numpy.array(rain_convert)))
 
 	
 # Prints any matches in the files with their corresponding filename and location in the file.
@@ -264,7 +292,7 @@ def searchMatches(D, pattern, fileSentences, fileName, typeOfInfo):
 			result = match.group().split()
 			
 			# Filters any words of length 2 or less.
-			result = [w for w in result if len(w) > 2]
+			result = [w for w in result if len(w) > 2 or w == "mm"]
 			
 			# Joins filtered set words with spaces
 			result = " ".join(w for w in result)

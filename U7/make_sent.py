@@ -145,7 +145,7 @@ for x in total_list:
 	count = count + 1
 	x = re.sub('\s+', ' ', x)
 	words = word_tokenize(x)
-	good_toks = [w for w in words if w.isalpha() or re.match('\d', w) and len(w) >= 2]
+	good_toks = [w for w in words if w.isalpha() or w.isdigit()]
 	once = 0
 	once_2 = 0
 	count = 0;
