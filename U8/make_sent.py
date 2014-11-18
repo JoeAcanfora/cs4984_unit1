@@ -73,7 +73,7 @@ your_words = list()
 for x in final_set:
 	your_words.append(x.encode("ascii"))
 
-dir_path = '/Users/davidkeimig/Documents/cs4984_unit1/cs4984_unit1/U1/china_flood'
+dir_path = '/Users/davidkeimig/Desktop/PAK_FLOOD/Pakistan_Flood'
 path = dir_path + "/*.txt"
 list_txt = glob.glob(path)
 all_toks_china = list()
@@ -138,8 +138,8 @@ good_toks = list()
 dictionary = set()
 count = 0;
 
-file_1 = open("./filtered_good_China.txt", "w")
-file_2 = open("./filtered_bad_China.txt", "w")
+file_1 = open("./filtered_good_Pakistan.txt", "w")
+#file_2 = open("./filtered_bad_Pakistan.txt", "w")
 
 for x in total_list:
 	count = count + 1
@@ -166,7 +166,7 @@ for x in total_list:
 						sent = sent + r
 						sent = sent + " "
 					sent = sent + "\n\n"
-					file_1.write(sent)					
+					file_1.write(sent)
 					once = 1
 		else:
 			if once_2 == 0:
@@ -174,6 +174,6 @@ for x in total_list:
 					sent = sent + r
 					sent = sent + " "
 				sent = sent + '\n'
-				file_2.write(sent)
+				#file_2.write(sent)
 				once_2 = 1
 
