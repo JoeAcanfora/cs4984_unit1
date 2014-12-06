@@ -4,7 +4,8 @@ import re
 import sys
 from numpy import median
 
-regex_num = "((\d,?)+)"
+regex_num = "((\d,?)+(\s+[a-z]illions?)?)"
+
 
 def find_num(text, keywords):
     # find things that say "X missing" with 5 words possibly in between
@@ -14,15 +15,15 @@ def find_num(text, keywords):
             text, flags=re.IGNORECASE)
 
     if len(matches) > 0:
-        nums = [int(match[1].replace(",", "")) for match in matches]
+        nums = [match[1].replace(",", "") for match in matches]
 
         # return the median
-        return int(median(nums))
+        return nums
 
     else:
         return None
 
-
+ 
 def find_missing(text):
     return find_num(text, ["missing"])
 
@@ -41,7 +42,7 @@ def find_killed(text):
 
 
 def find_relocated(text):
-    return find_num(text, ["evacuate", "affect(ed|s)?", "relocate(d)?" ])
+    return find_num(text, [ "affect(ed|s)?", ])
 
 
 if __name__ == "__main__":

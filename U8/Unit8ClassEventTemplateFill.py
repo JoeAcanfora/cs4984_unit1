@@ -5,10 +5,13 @@
 #* A suitable solution for Unit 8 should be richer and tailored to YourSmall, YourBig.
 
 from nltk.tokenize import sent_tokenize, word_tokenize
+from nltk import *
 import re, os, operator, nltk
 from textutil import *
 import sys
 import numpy
+
+from people import *
 
 # The directory location for ClassEvent documents.
 classEventDir = './China_test/'
@@ -66,6 +69,16 @@ def main():
 	'''
 	moneyPatternString = "\d+.\d+\s(million|billion|trillion|thousand)\s(dollars|dollar)|US\s\d+\s(million|billion|trillion|thousand)"
 
+	'''
+	Number of people missing, injured, killed, relocated/affected
+	'''
+	regex_num = "((\d,?)+(\s+[a-z]illions?)?)"
+	regex_5words = "(?:\s+([a-zA-Z]+\s+){0,5})"
+	missingPatternString = regex_num + regex_5words + "(?:missing)"
+	injuredPatternString = regex_num + regex_5words + "(?:injured|harmed)"
+	killedPatternString = regex_num + regex_5words + "(killed|dea(d|ths)|bod(y|ies)|casualt(ies|y)|fatalit(ies|y))"
+	relocatedPatternString = regex_num + regex_5words + "(?:evacuate|affect(ed|s)?|relocated?)"
+
 	# Compilation of regex patterns to improve repeated query efficiency.
 	locationPattern = re.compile(locationPatternString)
 	girthPattern = re.compile(girthPatternString)
@@ -75,6 +88,12 @@ def main():
 	monthPattern = re.compile(monthPatternString)
 	rainfallPattern = re.compile(rainfallPatternString)
 	moneyString = re.compile(moneyPatternString)
+	missingPattern = re.compile(missingPatternString, flags=re.IGNORECASE)
+	injuredPattern = re.compile(injuredPatternString, flags=re.IGNORECASE)
+	killedPattern = re.compile(killedPatternString, flags=re.IGNORECASE)
+	relocatedPattern = re.compile(relocatedPatternString, flags=re.IGNORECASE)
+
+
 
 	# A list of all files in the Class Event Directory
 	listOfFiles = os.listdir(classEventDir)
@@ -112,6 +131,23 @@ def main():
 		searchMatches(D, monthPattern, fileSentences, fileName, "month")
 		searchMatches(D, rainfallPattern, fileSentences, fileName, "totalRain")
 		searchMatches(D, moneyString, fileSentences, fileName, "money")
+		searchMatches(D, killedPattern, fileSentences, fileName, "killed")
+
+		missingResults = []
+		killedResults = []
+		injuredResults = []
+		relocatedResults = []
+		for sentence in fileSentences:
+
+			missingResults += [toInt(i) for i in find_missing(sentence)]
+			injuredResults += [toInt(i) for i in find_injured(sentence)]
+			relocatedResults += [toInt(i) for i in find_relocated(sentence)]
+			killedResults += [toInt(i) for i in find_killed(sentence)]
+
+
+		searchMatches(D, missingPattern, fileSentences, fileName, "missing")
+		searchMatches(D, injuredPattern, fileSentences, fileName, "injured")
+		searchMatches(D, relocatedPattern, fileSentences, fileName, "relocated")
 
 	print
 
@@ -199,6 +235,10 @@ def main():
 	monthFreqDict = dict()
 	rainFreqDict = dict()
 	moneyFreqDict = dict()
+	killedFreqDict = dict()
+	missingFreqDict = dict()
+	injuredFreqDict = dict()
+	relocatedFreqDict = dict()
 	rain_convert = []
 
 
@@ -285,6 +325,27 @@ def main():
 				moneyFreqDict[result] += freq
 			except:
 				moneyFreqDict[result] = freq
+
+		if (typeOfInfo == "killed" and result not in stopwords):
+			try:
+				killedFreqDict[result] += freq
+			except:
+				killedFreqDict[result] = freq
+		if (typeOfInfo == "missing" and result not in stopwords):
+			try:
+				missingFreqDict[result] += freq
+			except:
+				missingFreqDict[result] = freq
+		if (typeOfInfo == "injured" and result not in stopwords):
+			try:
+				injuredFreqDict[result] += freq
+			except:
+				injuredFreqDict[result] = freq
+		if (typeOfInfo == "relocated" and result not in stopwords):
+			try:
+				relocatedFreqDict[result] += freq
+			except:
+				relocatedFreqDict[result] = freq
 	print 
 
 	# Sorts all of the frequency dictionaries by their frequency values in reverse order, so the greatest
@@ -297,6 +358,10 @@ def main():
 	monthFreqDict = sorted(monthFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 	rainFreqDict = sorted(rainFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 	moneyFreqDict = sorted(moneyFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	killedFreqDict = sorted(killedFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	missingFreqDict = sorted(missingFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	injuredFreqDict = sorted(injuredFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
+	relocatedFreqDict = sorted(relocatedFreqDict.iteritems(), key=operator.itemgetter(1), reverse=True)
 
 	# Prints the top 10 words for each attribute.
 	print "Top 10 frequent values for each attribute:"
@@ -308,14 +373,18 @@ def main():
 	print "Month:", monthFreqDict [:10], "\n"
 	print "Total Rainfall", rainFreqDict [:10], "\n"
 	print "Money", moneyFreqDict [:10], "\n"
+	print "Killed", killedFreqDict [:10], "\n"
+	print "Missing", missingFreqDict [:10], "\n"
+	print "Injured", injuredFreqDict [:10], "\n"
+	print "Relocated", relocatedFreqDict [:10], "\n"
 
 	# Prints the original template.
 	print "Template before filling-out:"
 	print "On {Time} a {Girth} caused by {Cause} {Waterways} in {Location}. Total Rainfall is {Total Rainfall}\n"
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
-	print "In {0} {1} a flood spanning {2} caused by {3} {4} in {5}. The total rainfall was {6} millimeters and the total cost of damages was {7}.".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[0][0], locationFreqDict[0][0], numpy.median(numpy.array(rain_convert)), moneyFreqDict[0][0])
-
+	print "In {0} {1} a flood spanning {2} caused by {3} {4} in {5}. The total rainfall was {6} millimeters and the total cost of damages was {7}. Killed {8}, Missing {9}, Injured {10}, Affected {11}".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[0][0], locationFreqDict[0][0], numpy.median(numpy.array(rain_convert)), moneyFreqDict[0][0], 
+			numpy.percentile(killedResults, 75), numpy.percentile(missingResults, 75), numpy.percentile(injuredResults, 75), numpy.percentile(relocatedResults, 75))
 	
 # Prints any matches in the files with their corresponding filename and location in the file.
 # Also creates a frequency dictionary for words and their attributes.
@@ -329,9 +398,9 @@ def searchMatches(D, pattern, fileSentences, fileName, typeOfInfo):
 
 			# Splits the match into words
 			result = match.group().split()
-			
+
 			# Filters any words of length 2 or less.
-			result = [w for w in result if len(w) > 2 or w == "mm" or w == "US"]
+			result = [w for w in result if len(w) > 2 or w == "mm" or w == "US" or w.isdigit()]
 			
 			# Joins filtered set words with spaces
 			result = " ".join(w for w in result)
@@ -344,5 +413,14 @@ def searchMatches(D, pattern, fileSentences, fileName, typeOfInfo):
 				D[typeOfInfo, result] += 1
 			except:
 				D[typeOfInfo, result] = 1
+
+def toInt(words):
+	try:
+		return int(words)
+	except:
+		num, word = words.split()
+		if "million" in words:
+			return int(num) * 1000000
+
 
 if __name__ == "__main__": main()
