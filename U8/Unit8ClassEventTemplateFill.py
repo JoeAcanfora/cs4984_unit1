@@ -11,7 +11,7 @@ import sys
 import numpy
 
 # The directory location for ClassEvent documents.
-classEventDir = './Pak_test/'
+classEventDir = './China_test/'
 if len(sys.argv) > 1:
     classEventDir = sys.argv[1]
 
@@ -300,7 +300,7 @@ def main():
 
 	# Prints the top 10 words for each attribute.
 	print "Top 10 frequent values for each attribute:"
-	print "Location:", locationFreqDict [:10], "\n"
+	print "Location:", locationFreqDict [:50], "\n"
 	print "Waterways:", waterwaysFreqDict [:10], "\n"
 	print "Cause:", causeFreqDict [:10], "\n"
 	print "Girth:", girthFreqDict [:10], "\n"
