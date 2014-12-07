@@ -12,6 +12,8 @@ import sys
 import numpy
 
 from people import *
+from pygeocoder import Geocoder
+
 
 # The directory location for ClassEvent documents.
 classEventDir = './China_test/'
@@ -383,9 +385,59 @@ def main():
 	print "On {Time} a {Girth} caused by {Cause} {Waterways} in {Location}. Total Rainfall is {Total Rainfall}\n"
 	# Prints the highest frequency result for each attribute in the formated template.
 	print "Template after filling-out:"
+
+	s_locations = locationFreqDict [:50]
+	locations = []
+	for x in s_locations:
+		n = 0
+		while n < x[1]:
+			locations.append(x[0])
+			n = n+1
+	cities = []
+	provinces = []
+	states = []
+	for place in locations:
+		result_out = None
+		try:
+			result_out = Geocoder.geocode(place)
+		except:
+			pass
+        # print(str(result[0]))
+		rArray = str(result_out).split(',')
+		rArray = [x.strip() for x in rArray]
+        # print(rArray)
+		if rArray.__len__() >= 3 :
+			states.append(rArray[rArray.__len__() - 1])
+			provinces.append(rArray[rArray.__len__() - 2])
+			cities.append(rArray[rArray.__len__() - 3])
+		elif rArray.__len__() == 2:
+			states.append(rArray[1])
+			provinces.append(rArray[0])
+		else:
+			states.append(rArray[0])
+
+	fdistCities = FreqDist(cities)
+	print(fdistCities.most_common(3))
+	fdistProvinces = FreqDist(provinces)
+	print(fdistProvinces.most_common(5))
+	fdistState = FreqDist(states)
+	print(fdistState.most_common(1))
+
 	print "In {0} {1} a flood spanning {2} caused by {3} {4} in {5}. The total rainfall was {6} millimeters and the total cost of damages was {7}. Killed {8}, Missing {9}, Injured {10}, Affected {11}".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[0][0], locationFreqDict[0][0], numpy.median(numpy.array(rain_convert)), moneyFreqDict[0][0], 
 			numpy.percentile(killedResults, 75), numpy.percentile(missingResults, 75), numpy.percentile(injuredResults, 75), numpy.percentile(relocatedResults, 75))
-	
+	sys.stdout.write("The following cities were the greatest affected: ")
+	for x in fdistCities.most_common(3):
+		sys.stdout.write(x[0])
+		sys.stdout.write(" ")
+	sys.stdout.write(". The following provinces were the greatest affected: ")
+	for y in fdistProvinces.most_common(3):
+		sys.stdout.write(y[0])
+		sys.stdout.write(" ")
+	sys.stdout.write(". The following state was the affected the greatest: ")
+	for z in fdistState.most_common(1):
+		sys.stdout.write(z[0])
+		sys.stdout.write(" ")
+
 # Prints any matches in the files with their corresponding filename and location in the file.
 # Also creates a frequency dictionary for words and their attributes.
 def searchMatches(D, pattern, fileSentences, fileName, typeOfInfo):
@@ -422,5 +474,12 @@ def toInt(words):
 		if "million" in words:
 			return int(num) * 1000000
 
+def getCoords(coords):
+
+    xy = str(coords).split(",", 2)
+    x = xy[0][1:]
+    y = xy[1][:-1]
+    result = [float(x), float(y)]
+    return result
 
 if __name__ == "__main__": main()

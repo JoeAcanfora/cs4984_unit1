@@ -12,11 +12,11 @@ def main():
     provinces = []
     states = []
     for place in locations:
-        result
+        result = None
         try:
             result = Geocoder.geocode(place)
-        catch ZERO_RESULTS:
-            continue
+        except:
+            pass
         # print(str(result[0]))
         rArray = str(result).split(',')
         # print(rArray)
