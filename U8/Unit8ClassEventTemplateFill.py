@@ -425,18 +425,21 @@ def main():
 
 	print "In {0} {1} a flood spanning {2} caused by {3} {4} in {5}. The total rainfall was {6} millimeters and the total cost of damages was {7}. Killed {8}, Missing {9}, Injured {10}, Affected {11}".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[0][0], locationFreqDict[0][0], numpy.median(numpy.array(rain_convert)), moneyFreqDict[0][0], 
 			numpy.percentile(killedResults, 75), numpy.percentile(missingResults, 75), numpy.percentile(injuredResults, 75), numpy.percentile(relocatedResults, 75))
-	sys.stdout.write("The following cities were the greatest affected: ")
+	sys.stdout.write("The cities of")
 	for x in fdistCities.most_common(3):
+		sys.stdout.write(" ")
 		sys.stdout.write(x[0])
-		sys.stdout.write(" ")
-	sys.stdout.write(". The following provinces were the greatest affected: ")
+	sys.stdout.write(" were affected the greatest")
+	sys.stdout.write("while the provinces of")
 	for y in fdistProvinces.most_common(3):
-		sys.stdout.write(y[0])
 		sys.stdout.write(" ")
-	sys.stdout.write(". The following state was the affected the greatest: ")
+		sys.stdout.write(y[0])
+	sys.stdout.write(" were affected the greatest")
+	sys.stdout.write(".Finally nearly all of the floods damage occured in the state of ")
 	for z in fdistState.most_common(1):
 		sys.stdout.write(z[0])
-		sys.stdout.write(" ")
+		print "\n"
+
 
 # Prints any matches in the files with their corresponding filename and location in the file.
 # Also creates a frequency dictionary for words and their attributes.

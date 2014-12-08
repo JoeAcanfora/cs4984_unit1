@@ -7,7 +7,14 @@ from nltk import *
 
 def main():
     # locations = ['China', 'Zhejiang', 'Hubei', 'Shaanxi', 'Beijing', 'Wuhan', 'Hunan', 'Seconds', 'Bangladesh', 'Lanxi']
-    locations = ['China', 'Zhejiang', 'Hubei', 'Shaanxi', 'Beijing', 'Wuhan', 'Hunan', 'Seconds', 'Bangladesh', 'Lanxi', 'Wangmo', 'Robertsons' 'Guizhou', 'Chinese', 'Europe', 'Africa',  'Sichuan', 'Harbin', 'India',  'Liaoning', 'Fujian', 'Shanghai', 'New York', 'Imminent', 'Piaohe', 'Western', 'USTroy', 'Washington', 'HomeAtheists', 'Commission', 'Singapore', 'Hell SECTIONSChurch', 'San Quentin', 'Libya', 'Pays Almost', 'Hangzhou', 'Fuzhou', 'March', 'Guangdong', 'Jiangxi', 'HomeFacebook', 'Xikou', 'Ohio Primary', 'Loudi', 'Taipei', 'Xinhua', 'Sikkim', 'Zhouqu', 'Linxiang', 'Chauvet']
+    #locations = ['China', 'Zhejiang', 'Hubei', 'Shaanxi', 'Beijing', 'Wuhan', 'Hunan', 'Seconds', 'Bangladesh', 'Lanxi', 'Wangmo', 'Robertsons' 'Guizhou', 'Chinese', 'Europe', 'Africa',  'Sichuan', 'Harbin', 'India',  'Liaoning', 'Fujian', 'Shanghai', 'New York', 'Imminent', 'Piaohe', 'Western', 'USTroy', 'Washington', 'HomeAtheists', 'Commission', 'Singapore', 'Hell SECTIONSChurch', 'San Quentin', 'Libya', 'Pays Almost', 'Hangzhou', 'Fuzhou', 'March', 'Guangdong', 'Jiangxi', 'HomeFacebook', 'Xikou', 'Ohio Primary', 'Loudi', 'Taipei', 'Xinhua', 'Sikkim', 'Zhouqu', 'Linxiang', 'Chauvet']
+    s_locations = [('Pakistan', 1520), ('Sindh', 962), ('District', 165), ('Punjab', 159), ('Khyber', 156), ('Kotri', 155), ('Sri Lanka', 108), ('Rato Dero', 81), ('Kohat', 81), ('Nasirabad', 80), ('Guddu', 80), ('Badin', 79), ('Africa', 76), ('Nature', 72), ('China', 70), ('Karachi', 67), ('April', 67), ('India', 65), ('Peshawar', 63), ('August', 59), ('Islamabad', 57), ('Russian', 54), ('September', 50), ('South', 48), ('Balochistan', 47), ('North', 44), ('Disaster', 36), ('BANGKOK', 36), ('Infectious', 36), ('Somalia', 33), ('Valley', 32), ('January', 32), ('Russia', 29), ('Baluchistan', 29), ('Haiti', 26), ('New York', 26), ('Pakistans', 25), ('Darfur', 21), ('USAID', 20), ('Stockholm', 20), ('Geneva', 20), ('ISLAMABAD', 20), ('Singapore', 19), ('Tatta', 18), ('Manchar', 18), ('Bolan', 18), ('Kohistan', 18), ('Australian', 18), ('KARACHI', 18), ('Badalai', 18)] 
+    locations = []
+    for x in s_locations:
+        n = 0
+        while n < x[1]:
+            locations.append(x[0])
+            n = n+1
     cities = []
     provinces = []
     states = []
