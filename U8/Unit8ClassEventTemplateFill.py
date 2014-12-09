@@ -410,18 +410,30 @@ def main():
 		if len(rArray) >= 3 :
 			if rArray[-1] in states:
 				states[rArray[-1]] += count
+			else:
+				states[rArray[-1]] = count
 			if rArray[-2] in provinces:
 				provinces[rArray[-2]] += count
+			else:
+				provinces[rArray[-2]] = count
 			if rArray[-3] in cities:
-				cities[rArray[-3] += count
+				cities[rArray[-3]] += count
+			else:
+				cities[rArray[-3]] = count
 		elif len(rArray) == 2:
 			if rArray[1] in states:
 				states[rArray[1]] += count
+			else:
+				states[rArray[1]] = count
 			if rArray[0] in provinces:
-			provinces[rArray[0]] += count
+				provinces[rArray[0]] += count
+			else:
+				provinces[rArray[0]] = count
 		else:
 			if rArray[0] in states:
 				states[rArray[0]] += count
+			else:
+				states[rArray[0]] = count
 	statesList = []
 	for place in states:
 		for i in range(states[place]):
@@ -435,8 +447,8 @@ def main():
 	citiesDist = FreqDist(citiesList)
 
 	provincesList = []
-	for place in states:
-		for i in range(states[place]):
+	for place in provinces:
+		for i in range(provinces[place]):
 			provincesList.append(place)
 	provincesDist = FreqDist(provincesList)
 
@@ -444,21 +456,29 @@ def main():
 	print(provincesDist.most_common(5))
 	print(statesDist.most_common(1))
 
-	print "In {0} {1} a flood spanning {2} caused by {3} {4} in {5}. The total rainfall was {6} millimeters and the total cost of damages was {7}. Killed {8}, Missing {9}, Injured {10}, Affected {11}".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[0][0], locationFreqDict[0][0], numpy.median(numpy.array(rain_convert)), moneyFreqDict[0][0], 
-			numpy.percentile(killedResults, 75), numpy.percentile(missingResults, 75), numpy.percentile(injuredResults, 75), numpy.percentile(relocatedResults, 75))
+	print "In {0} {1} a flood spanning {2} caused by {3} {4} in {5}. The total rainfall was {6} millimeters and the total cost of damages was {7}. The flood killed {8} people, left {10} injured, and approximately {11} people were affected. In addition {9} people are still missing.".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[0][0], locationFreqDict[0][0], numpy.median(numpy.array(rain_convert)), moneyFreqDict[0][0], 
+			numpy.rint(numpy.round(numpy.percentile(killedResults, 75))), numpy.rint(numpy.percentile(missingResults, 75)), numpy.rint(numpy.percentile(injuredResults, 75)), numpy.rint(numpy.percentile(relocatedResults, 75)))
 	sys.stdout.write("The cities of")
-	for x in fdistCities.most_common(3):
+	n = 0
+	for x in citiesDist.most_common(3):
+		n = n + 1
 		sys.stdout.write(" ")
+		if n == 3:
+			sys.stdout.write("and ")
 		sys.stdout.write(x[0])
-	sys.stdout.write(" were affected the greatest")
-	sys.stdout.write("while the provinces of")
-	for y in fdistProvinces.most_common(3):
+	sys.stdout.write(" were affected most by flooding, ")
+	sys.stdout.write("in the provinces of")
+	n = 0
+	for y in provincesDist.most_common(3):
+		n = n + 1
 		sys.stdout.write(" ")
+		if n == 3:
+			sys.stdout.write("and ")
 		sys.stdout.write(y[0])
-	sys.stdout.write(" were affected the greatest")
-	sys.stdout.write(".Finally nearly all of the floods damage occured in the state of ")
-	for z in fdistState.most_common(1):
+	sys.stdout.write(". Finally nearly all of the flood damage occurred in the state of ")
+	for z in statesDist.most_common(1):
 		sys.stdout.write(z[0])
+		sys.stdout.write(".")
 		print "\n"
 
 
