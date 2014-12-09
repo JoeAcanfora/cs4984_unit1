@@ -456,8 +456,14 @@ def main():
 	print(provincesDist.most_common(5))
 	print(statesDist.most_common(1))
 
+        numKilled = int(numpy.round(numpy.percentile(killedResults, 75)))
+        numInjured = int(numpy.round(numpy.percentile(injuredResults, 75)))
+        numMissing = int(numpy.round(numpy.percentile(missingResults, 75)))
+        numAffected = int(numpy.round(numpy.percentile(relocatedResults, 75)))
+        if numAffected > 1000000:
+            numAffected = str(numAffected / 1000000) + " million"
 	print "In {0} {1} a flood spanning {2} caused by {3} {4} in {5}. The total rainfall was {6} millimeters and the total cost of damages was {7}. The flood killed {8} people, left {10} injured, and approximately {11} people were affected. In addition {9} people are still missing.".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[0][0], locationFreqDict[0][0], numpy.median(numpy.array(rain_convert)), moneyFreqDict[0][0], 
-			numpy.rint(numpy.round(numpy.percentile(killedResults, 75))), numpy.rint(numpy.percentile(missingResults, 75)), numpy.rint(numpy.percentile(injuredResults, 75)), numpy.rint(numpy.percentile(relocatedResults, 75)))
+			numKilled, numMissing, numInjured, numAffected )
 	sys.stdout.write("The cities of")
 	n = 0
 	for x in citiesDist.most_common(3):
