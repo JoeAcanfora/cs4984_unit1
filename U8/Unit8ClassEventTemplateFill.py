@@ -16,7 +16,7 @@ from pygeocoder import Geocoder
 
 
 # The directory location for ClassEvent documents.
-classEventDir = './China_test/'
+classEventDir = './Pak_test/'
 if len(sys.argv) > 1:
     classEventDir = sys.argv[1]
 
@@ -388,15 +388,16 @@ def main():
 
 	s_locations = locationFreqDict [:50]
 	locations = []
+	counts = []
 	for x in s_locations:
-		n = 0
-		while n < x[1]:
-			locations.append(x[0])
-			n = n+1
-	cities = []
-	provinces = []
-	states = []
-	for place in locations:
+		locations.append(x[0])
+	cities = dict()
+	provinces = dict()
+	states = dict()
+	counts_cities = []
+	counts_provinces = []
+	counts_states = []
+	for place,count in s_locations:
 		result_out = None
 		try:
 			result_out = Geocoder.geocode(place)
@@ -406,22 +407,42 @@ def main():
 		rArray = str(result_out).split(',')
 		rArray = [x.strip() for x in rArray]
         # print(rArray)
-		if rArray.__len__() >= 3 :
-			states.append(rArray[rArray.__len__() - 1])
-			provinces.append(rArray[rArray.__len__() - 2])
-			cities.append(rArray[rArray.__len__() - 3])
-		elif rArray.__len__() == 2:
-			states.append(rArray[1])
-			provinces.append(rArray[0])
+		if len(rArray) >= 3 :
+			if rArray[-1] in states:
+				states[rArray[-1]] += count
+			if rArray[-2] in provinces:
+				provinces[rArray[-2]] += count
+			if rArray[-3] in cities:
+				cities[rArray[-3] += count
+		elif len(rArray) == 2:
+			if rArray[1] in states:
+				states[rArray[1]] += count
+			if rArray[0] in provinces:
+			provinces[rArray[0]] += count
 		else:
-			states.append(rArray[0])
+			if rArray[0] in states:
+				states[rArray[0]] += count
+	statesList = []
+	for place in states:
+		for i in range(states[place]):
+			statesList.append(place)
+	statesDist = FreqDist(statesList)
 
-	fdistCities = FreqDist(cities)
-	print(fdistCities.most_common(3))
-	fdistProvinces = FreqDist(provinces)
-	print(fdistProvinces.most_common(5))
-	fdistState = FreqDist(states)
-	print(fdistState.most_common(1))
+	citiesList = []
+	for place in cities:
+		for i in range(cities[place]):
+			citiesList.append(place)
+	citiesDist = FreqDist(citiesList)
+
+	provincesList = []
+	for place in states:
+		for i in range(states[place]):
+			provincesList.append(place)
+	provincesDist = FreqDist(provincesList)
+
+	print(citiesDist.most_common(3))
+	print(provincesDist.most_common(5))
+	print(statesDist.most_common(1))
 
 	print "In {0} {1} a flood spanning {2} caused by {3} {4} in {5}. The total rainfall was {6} millimeters and the total cost of damages was {7}. Killed {8}, Missing {9}, Injured {10}, Affected {11}".format(monthFreqDict[0][0], yearFreqDict[0][0], girthFreqDict[0][0], causeFreqDict[0][0], waterwaysFreqDict[0][0], locationFreqDict[0][0], numpy.median(numpy.array(rain_convert)), moneyFreqDict[0][0], 
 			numpy.percentile(killedResults, 75), numpy.percentile(missingResults, 75), numpy.percentile(injuredResults, 75), numpy.percentile(relocatedResults, 75))
